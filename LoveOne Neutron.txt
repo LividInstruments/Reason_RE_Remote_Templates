@@ -1,0 +1,18 @@
+
+Scope	LoveOne	se.loveone.Neutron
+//Map	_control_	Enabled
+//Map	_control_	Hold
+//Map	_control_	Emitter Size
+//Map	_control_	Emitter Position
+//Map	_control_	Emitter Spread
+//Map	_control_	Emitter Pattern
+//Map	_control_	Particle Pitch Semitones
+//Map	_control_	Particle Pitch
+//Map	_control_	Particle Pitch Type
+//Map	_control_	Particle Type
+//Map	_control_	Particle Lifetime
+//Map	_control_	Filter CutOff
+//Map	_control_	Filter Resonance
+//Map	_control_	DryWetMix
+//Map	_control_	Volume
+

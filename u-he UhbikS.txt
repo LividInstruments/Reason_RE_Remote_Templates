@@ -1,0 +1,13 @@
+
+Scope	u-he	com.uheplugins.UhbikS
+//Map	_control_	Enabled
+//Map	_control_	Range
+//Map	_control_	Frequency
+//Map	_control_	FreqOff
+//Map	_control_	Phase
+//Map	_control_	PhaseOff
+//Map	_control_	Mix
+//Map	_control_	Reset
+//Map	_control_	AutoReset
+//Map	_control_	Feedback
+

@@ -1,0 +1,21 @@
+
+Scope	Blamsoft Inc.	com.blamsoft.Resampler
+//Map	_control_	Enabled
+//Map	_control_	Downsample Enable
+//Map	_control_	Downsample Algorithm
+//Map	_control_	Downsample Vol Env Amt
+//Map	_control_	Downsample Vol Env Inv
+//Map	_control_	Downsample Pitch Env Amt
+//Map	_control_	Downsample Pitch Env Inv
+//Map	_control_	Downsample Rate
+//Map	_control_	Quantize Route
+//Map	_control_	Quantize Enable
+//Map	_control_	Quantize Algorithm
+//Map	_control_	Quantize Vol Env Amt
+//Map	_control_	Quantize Vol Env Inv
+//Map	_control_	Quantize Pitch Env Amt
+//Map	_control_	Quantize Pitch Env Inv
+//Map	_control_	Quantize Depth
+//Map	_control_	Upsample Algorithm
+//Map	_control_	Wet Percentage
+

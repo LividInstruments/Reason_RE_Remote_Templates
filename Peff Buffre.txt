@@ -1,0 +1,32 @@
+
+Scope	Peff	com.peff.Buffre
+//Map	_control_	Enabled
+//Map	_control_	Mod Wheel
+//Map	_control_	Pitch Bend
+//Map	_control_	Volume
+//Map	_control_	Trigger
+//Map	_control_	Trigger Length
+//Map	_control_	Reverse
+//Map	_control_	Loop On
+//Map	_control_	OneShot
+//Map	_control_	Play Mode
+//Map	_control_	Triplets
+//Map	_control_	Pitch
+//Map	_control_	PitchSteps
+//Map	_control_	Pitch Snap
+//Map	_control_	Random
+//Map	_control_	Link Random
+//Map	_control_	Release
+//Map	_control_	Gate Enable
+//Map	_control_	Gate Start
+//Map	_control_	Gate Length
+//Map	_control_	Reset Position
+//Map	_control_	Position Advance Quarter
+//Map	_control_	Position Backward Quarter
+//Map	_control_	Aux1 On
+//Map	_control_	Aux 1
+//Map	_control_	Aux2 On
+//Map	_control_	Aux 2
+//Map	_control_	Aux3 On
+//Map	_control_	Aux 3
+

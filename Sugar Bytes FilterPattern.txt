@@ -1,0 +1,12 @@
+
+Scope	Sugar Bytes	com.sugarbytes.FilterPattern
+//Map	_control_	Enabled
+//Map	_control_	Pattern
+//Map	_control_	Resonance
+//Map	_control_	sweepspeedpingpong
+//Map	_control_	sweepspeedrepeat
+//Map	_control_	sweepspeedsynced
+//Map	_control_	sweepspeedsyncedx
+//Map	_control_	sweeprange
+//Map	_control_	drywet
+

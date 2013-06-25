@@ -1,0 +1,9 @@
+
+Scope	Softube	com.softube.re.TSAR1R
+//Map	_control_	Enabled
+//Map	_control_	Predelay
+//Map	_control_	Reverb Time
+//Map	_control_	Color
+//Map	_control_	Reverb Mix
+//Map	_control_	Output Vol
+

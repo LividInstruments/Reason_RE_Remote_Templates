@@ -1,0 +1,145 @@
+
+Scope	Synapse Audio Software	com.synapseAudioSoftware.Antidote
+//Map	_control_	Polyphony
+//Map	_control_	Master Volume
+//Map	_control_	Glide
+//Map	_control_	External Input Amount
+//Map	_control_	Osc 1 Semi
+//Map	_control_	Osc 1 Fine
+//Map	_control_	Osc 1 Detune
+//Map	_control_	Osc 1 Spread
+//Map	_control_	Osc 1 Phase
+//Map	_control_	Osc 1 Modifier
+//Map	_control_	Osc 1 Key Track
+//Map	_control_	Osc 1 Pan
+//Map	_control_	Osc 1 Waveform
+//Map	_control_	Osc 1 Voices
+//Map	_control_	Osc 1 Dyad
+//Map	_control_	Osc 2 Semi
+//Map	_control_	Osc 2 Fine
+//Map	_control_	Osc 2 Detune
+//Map	_control_	Osc 2 Spread
+//Map	_control_	Osc 2 Phase
+//Map	_control_	Osc 2 Modifier
+//Map	_control_	Osc 2 Key Track
+//Map	_control_	Osc 2 Pan
+//Map	_control_	Osc 2 Waveform
+//Map	_control_	Osc 2 Voices
+//Map	_control_	Osc 2 Dyad
+//Map	_control_	Osc 1 Volume
+//Map	_control_	Osc 2 Volume
+//Map	_control_	Sub 1 Volume
+//Map	_control_	Sub 2 Volume
+//Map	_control_	Drift
+//Map	_control_	Filter Type
+//Map	_control_	Filter CutOff
+//Map	_control_	Filter Resonance
+//Map	_control_	Filter Envelope Amount
+//Map	_control_	Filter Key Track
+//Map	_control_	Filter Envelope Attack
+//Map	_control_	Filter Envelope Decay
+//Map	_control_	Filter Envelope Sustain
+//Map	_control_	Filter Envelope Release
+//Map	_control_	Mod. Env. elope Attack
+//Map	_control_	Mod. Env. elope Decay
+//Map	_control_	Mod. Env. elope Sustain
+//Map	_control_	Mod. Env. elope Release
+//Map	_control_	Mod. Env. elope Target
+//Map	_control_	Mod. Env. elope Target Amount
+//Map	_control_	Amp Envelope Attack
+//Map	_control_	Amp Envelope Decay
+//Map	_control_	Amp Envelope Sustain
+//Map	_control_	Amp Envelope Release
+//Map	_control_	LFO 1 Rate
+//Map	_control_	Lfo 1 Rate Sync
+//Map	_control_	LFO 1 Shape
+//Map	_control_	LFO 1 Sync
+//Map	_control_	Lfo 1 Free Run
+//Map	_control_	Lfo 1 Target
+//Map	_control_	Lfo 1 Target Amount
+//Map	_control_	LFO 2 Rate
+//Map	_control_	Lfo 2 Rate Sync
+//Map	_control_	LFO 2 Shape
+//Map	_control_	LFO 2 Sync
+//Map	_control_	Lfo 2 Free Run
+//Map	_control_	Lfo 2 Target
+//Map	_control_	Lfo 2 Target Amount
+//Map	_control_	Arp Mode
+//Map	_control_	Arp Hold
+//Map	_control_	Arp Pattern
+//Map	_control_	Arp Octave
+//Map	_control_	Arp Rate
+//Map	_control_	Arp Gate
+//Map	_control_	MM Slot 1 Source
+//Map	_control_	MM Slot 1 Amount
+//Map	_control_	MM Slot 1 Destination
+//Map	_control_	MM Slot 2 Source
+//Map	_control_	MM Slot 2 Amount
+//Map	_control_	MM Slot 2 Destination
+//Map	_control_	MM Slot 3 Source
+//Map	_control_	MM Slot 3 Amount
+//Map	_control_	MM Slot 3 Destination
+//Map	_control_	MM Slot 4 Source
+//Map	_control_	MM Slot 4 Amount
+//Map	_control_	MM Slot 4 Destination
+//Map	_control_	MM Slot 5 Source
+//Map	_control_	MM Slot 5 Amount
+//Map	_control_	MM Slot 5 Destination
+//Map	_control_	EQ/Bass
+//Map	_control_	Distortion
+//Map	_control_	Phaser
+//Map	_control_	Chorus
+//Map	_control_	Delay
+//Map	_control_	Reverb
+//Map	_control_	Compressor
+//Map	_control_	EQ Low Gain
+//Map	_control_	EQ Mid Freq
+//Map	_control_	EQ Mid Q
+//Map	_control_	EQ Mid Gain
+//Map	_control_	EQ High Gain
+//Map	_control_	Bass Freq
+//Map	_control_	Bass Amount
+//Map	_control_	EQ Dry/Wet
+//Map	_control_	Distortion Type
+//Map	_control_	Distortion Drive
+//Map	_control_	Distortion Symmetry
+//Map	_control_	Distortion Tone
+//Map	_control_	Distortion Low Cut
+//Map	_control_	Distortion High Cut
+//Map	_control_	Distortion Out Gain
+//Map	_control_	Distortion Dry/Wet
+//Map	_control_	Phaser Freq
+//Map	_control_	Phaser Spread
+//Map	_control_	Phaser Feedback
+//Map	_control_	Phaser Rate
+//Map	_control_	Phaser Mod
+//Map	_control_	Phaser LR Offset
+//Map	_control_	Phaser Dry/Wet
+//Map	_control_	Phaser Stages
+//Map	_control_	Chorus Delay
+//Map	_control_	Chorus Rate
+//Map	_control_	Chorus Depth
+//Map	_control_	Chorus Feedback
+//Map	_control_	Chorus LR Offset
+//Map	_control_	Chorus Dry/Wet
+//Map	_control_	Delay Type
+//Map	_control_	Delay L-Rate
+//Map	_control_	Delay R-Rate
+//Map	_control_	Delay Color
+//Map	_control_	Delay Feedback
+//Map	_control_	Delay Mod Rate
+//Map	_control_	Delay Mod Amount
+//Map	_control_	Delay Dry/Wet
+//Map	_control_	Reverb Pre-Delay
+//Map	_control_	Reverb Time
+//Map	_control_	Reverb HF-Damp
+//Map	_control_	Reverb Low Cut
+//Map	_control_	Reverb High Cut
+//Map	_control_	Reverb Mod
+//Map	_control_	Reverb Dry/Wet
+//Map	_control_	Compressor Ratio
+//Map	_control_	Compressor Threshold
+//Map	_control_	Compressor Attack
+//Map	_control_	Compressor Release
+//Map	_control_	Compressor Dry/Wet
+

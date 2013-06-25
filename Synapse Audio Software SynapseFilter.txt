@@ -1,0 +1,9 @@
+
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseFilter
+//Map	_control_	Enabled
+//Map	_control_	Drive
+//Map	_control_	Cutoff
+//Map	_control_	Resonance
+//Map	_control_	filter type list
+//Map	_control_	Filter Type
+

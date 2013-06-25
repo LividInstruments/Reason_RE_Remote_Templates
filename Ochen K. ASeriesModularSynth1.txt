@@ -1,0 +1,25 @@
+
+Scope	Ochen K.	com.ochenk.ASeriesModularSynth1
+//Map	_control_	VCO Octave
+//Map	_control_	VCO Tune
+//Map	_control_	VCO Fine Tune
+//Map	_control_	VCO CV 2
+//Map	_control_	VCO Pulse Width
+//Map	_control_	VCO Pulse Width 2
+//Map	_control_	ADSR Speed Select
+//Map	_control_	ADSR Attack
+//Map	_control_	ADSR Decay
+//Map	_control_	ADSR Sustain
+//Map	_control_	ADSR Release
+//Map	_control_	VCA Curve Type
+//Map	_control_	VCA Gain
+//Map	_control_	VCA CV 2
+//Map	_control_	VCA In 1
+//Map	_control_	VCA In 2
+//Map	_control_	VCA Out
+//Map	_control_	LFO Speed Select
+//Map	_control_	Lfo Sync
+//Map	_control_	LFO Free Rate
+//Map	_control_	LFO Sync Rate
+//Map	_control_	LFO Pulse Width
+

@@ -1,0 +1,52 @@
+
+Scope	Propellerhead Software	se.propellerheads.RadicalKeys
+//Map	_control_	Character
+//Map	_control_	mic1
+//Map	_control_	Instrument Blend
+//Map	_control_	mic2
+//Map	_control_	Master Volume
+//Map	_control_	Vel Resp Low
+//Map	_control_	Vel Resp Curve
+//Map	_control_	Vel Resp High
+//Map	_control_	TUNE
+//Map	_control_	Tune Drift
+//Map	_control_	Symp Res Level
+//Map	_control_	Symp Res Release
+//Map	_control_	Env Attack
+//Map	_control_	Env Decay Curve
+//Map	_control_	Env Release
+//Map	_control_	Key Down Level
+//Map	_control_	Key Up Level
+//Map	_control_	Pedal Level
+//Map	_control_	Tremolo OnOff
+//Map	_control_	Tremolo Speed Free
+//Map	_control_	Tremolo Speed Synced
+//Map	_control_	Tremolo Depth
+//Map	_control_	Tremolo Type
+//Map	_control_	Tremolo Sync
+//Map	_control_	Tremolo Stereo Width
+//Map	_control_	Comp OnOff
+//Map	_control_	Comp Amount
+//Map	_control_	Comp Fast
+//Map	_control_	Overdrive OnOff
+//Map	_control_	Overdrive Drive
+//Map	_control_	Overdrive Presence
+//Map	_control_	Overdrive Type
+//Map	_control_	EQ OnOff
+//Map	_control_	EQ Lo Gain
+//Map	_control_	EQ Mid Gain
+//Map	_control_	EQ Hi Gain
+//Map	_control_	EQ Pre Overdrive
+//Map	_control_	Phaser OnOff
+//Map	_control_	Phaser Rate
+//Map	_control_	Phaser Depth
+//Map	_control_	Phaser Color
+//Map	_control_	Phaser Stereo
+//Map	_control_	Chorus OnOff
+//Map	_control_	Chorus Intensity
+//Map	_control_	Chorus DryWet
+//Map	_control_	Chorus Stereo
+//Map	_control_	Ambience OnOff
+//Map	_control_	Ambience Level
+//Map	_control_	Ambience Type
+

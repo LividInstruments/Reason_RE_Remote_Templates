@@ -1,0 +1,69 @@
+
+Scope	Rob Papen	com.robpapen.RPVerb
+//Map	_control_	Enabled
+//Map	_control_	Reset
+//Map	_control_	Dry / Wet
+//Map	_control_	Ensemble On/Off
+//Map	_control_	Ensemble Volume
+//Map	_control_	Ensemble Mode
+//Map	_control_	Distortion On/Off
+//Map	_control_	Distortion Amount
+//Map	_control_	Early Reflection On/Off
+//Map	_control_	Early Reflection Volume
+//Map	_control_	Early Reflection Length
+//Map	_control_	Early Reflection Damping
+//Map	_control_	Early Reflection Feedback
+//Map	_control_	Early Reflection Side Feed
+//Map	_control_	Early Reflection Cross Feed
+//Map	_control_	Early Reflection Mode
+//Map	_control_	Reverb On/Off
+//Map	_control_	Reverb Space Size
+//Map	_control_	Reverb Disorder
+//Map	_control_	Reverb Pre-Delay
+//Map	_control_	Reverb Pre-Delay Disorder
+//Map	_control_	Reverb Diffusion
+//Map	_control_	Reverb Length
+//Map	_control_	Reverb Damping
+//Map	_control_	Reverb Volume
+//Map	_control_	Reverb Lowpass Colour
+//Map	_control_	Reverb Highpass Colour
+//Map	_control_	Reverb Space Type
+//Map	_control_	Reverb Colour Type
+//Map	_control_	Late Reflection On/Off
+//Map	_control_	Late Reflection Volume
+//Map	_control_	Late Reflection Length
+//Map	_control_	Late Reflection Damping
+//Map	_control_	Late Reflection Mode
+//Map	_control_	Envelope On/Off
+//Map	_control_	Envelope Mode
+//Map	_control_	Envelope Stereo / Mono Input
+//Map	_control_	Envelope Latch On/Off
+//Map	_control_	Envelope Attack
+//Map	_control_	Envelope Hold
+//Map	_control_	Envelope Release
+//Map	_control_	Envelope Modulation Amount
+//Map	_control_	EQ On/Off
+//Map	_control_	EQ Position
+//Map	_control_	EQ Low
+//Map	_control_	EQ Mid
+//Map	_control_	EQ High
+//Map	_control_	Distortion On
+//Map	_control_	Early Reflection
+//Map	_control_	Early Reflection Damp
+//Map	_control_	Ensemble
+//Map	_control_	Envelope
+//Map	_control_	Envelope Latch On / Off
+//Map	_control_	Envelope Mode
+//Map	_control_	EQ
+//Map	_control_	High Quality
+//Map	_control_	Late Reflection
+//Map	_control_	Mix
+//Map	_control_	Rest
+//Map	_control_	Reveb Colour Type
+//Map	_control_	Reveb Space Type
+//Map	_control_	Reverb
+//Map	_control_	Reverb Damp
+//Map	_control_	Reverb High Colour
+//Map	_control_	Reverb Low Colour
+//Map	_control_	Reverb Room Size
+

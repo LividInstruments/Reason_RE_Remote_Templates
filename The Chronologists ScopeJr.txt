@@ -1,0 +1,9 @@
+
+Scope	The Chronologists	com.thechronologists.ScopeJr
+//Map	_control_	Speed
+//Map	_control_	Zoom
+//Map	_control_	Select Input
+//Map	_control_	Retrigger
+//Map	_control_	Retrigger Crossings
+//Map	_control_	Enable
+

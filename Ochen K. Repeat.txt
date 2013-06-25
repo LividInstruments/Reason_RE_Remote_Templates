@@ -1,0 +1,39 @@
+
+Scope	Ochen K.	com.ochenk.Repeat
+//Map	_control_	Enabled
+//Map	_control_	Loop Point End Set
+//Map	_control_	Loop Point Clear
+//Map	_control_	Tempo Tap
+//Map	_control_	Play
+//Map	_control_	Record
+//Map	_control_	Channel 1 Clear
+//Map	_control_	Channel 1 Mute
+//Map	_control_	Channel 1 Aux 1
+//Map	_control_	Channel 1 Aux 2
+//Map	_control_	Channel 1 Volume
+//Map	_control_	Channel 1 Enable
+//Map	_control_	Channel 2 Clear
+//Map	_control_	Channel 2 Mute
+//Map	_control_	Channel 2 Aux 1
+//Map	_control_	Channel 2 Aux 2
+//Map	_control_	Channel 2 Volume
+//Map	_control_	Channel 2 Enable
+//Map	_control_	Channel 3 Clear
+//Map	_control_	Channel 3 Mute
+//Map	_control_	Channel 3 Aux 1
+//Map	_control_	Channel 3 Aux 2
+//Map	_control_	Channel 3 Volume
+//Map	_control_	Channel 3 Enable
+//Map	_control_	Channel 4 Clear
+//Map	_control_	Channel 4 Mute
+//Map	_control_	Channel 4 Aux 1
+//Map	_control_	Channel 4 Aux 2
+//Map	_control_	Channel 4 Volume
+//Map	_control_	Channel 4 Enable
+//Map	_control_	Channel 1 Bounce Destination
+//Map	_control_	Channel 2 Bounce Destination
+//Map	_control_	Channel 3 Bounce Destination
+//Map	_control_	Channel 4 Bounce Destination
+//Map	_control_	Bounce
+//Map	_control_	Master Output Volume
+

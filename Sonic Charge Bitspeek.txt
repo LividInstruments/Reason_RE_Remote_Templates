@@ -1,0 +1,14 @@
+
+Scope	Sonic Charge	com.soniccharge.Bitspeek
+//Map	_control_	Enabled
+//Map	_control_	Sample Rate
+//Map	_control_	Frame Rate No Sync
+//Map	_control_	Frame Rate Sync
+//Map	_control_	Sync
+//Map	_control_	Keyboard Mode
+//Map	_control_	Pitch Coarse
+//Map	_control_	Pitch Fine
+//Map	_control_	Tracking
+//Map	_control_	Detune
+//Map	_control_	Noise Adjust
+

@@ -1,0 +1,97 @@
+
+Scope	Rob Papen	com.robpapen.PredatorRE
+//Map	_control_	Volume
+//Map	_control_	Pan
+//Map	_control_	LFO 1 Amount
+//Map	_control_	LFO 2 Amount
+//Map	_control_	LFO 1 Speed in MS
+//Map	_control_	LFO 1 Speed in QB
+//Map	_control_	LFO 2 Speed in MS
+//Map	_control_	LFO 2 Speed in QB
+//Map	_control_	Osc 2 Sync
+//Map	_control_	Osc 2 Free Running
+//Map	_control_	Osc 2 Tracking
+//Map	_control_	Osc 3 Tracking
+//Map	_control_	Osc 2 Output
+//Map	_control_	Osc 3 Free Running
+//Map	_control_	Osc 3 Sync
+//Map	_control_	Osc 3 Octave
+//Map	_control_	Osc 3 Output
+//Map	_control_	Filter LFO Wave
+//Map	_control_	Filter LFO Sync
+//Map	_control_	Filter LFO Mod Source
+//Map	_control_	Filter LFO Mode
+//Map	_control_	Velocity Shape
+//Map	_control_	Attack Shape
+//Map	_control_	Decay/Release Shape
+//Map	_control_	Osc 1 Type
+//Map	_control_	Osc 1 Semi-tune
+//Map	_control_	Osc 1 Fine-tune
+//Map	_control_	Osc PWM 1 Amount
+//Map	_control_	Osc 1 PWM Speed
+//Map	_control_	Osc 1 Symmetry
+//Map	_control_	Osc 1 Sub-Volume
+//Map	_control_	Osc 1 Spread
+//Map	_control_	Osc 1 Volume
+//Map	_control_	Osc 2 Type
+//Map	_control_	Osc 2 Semi-tune
+//Map	_control_	Osc 2 Fine-tune
+//Map	_control_	Osc PWM 2 Amount
+//Map	_control_	Osc 2 PWM Speed
+//Map	_control_	Osc 2 Symmetry
+//Map	_control_	Osc 2 Sub-Volume
+//Map	_control_	Osc 2 Spread
+//Map	_control_	Osc 2 Volume
+//Map	_control_	Osc 2 Modulation Amount
+//Map	_control_	Osc 3 Type
+//Map	_control_	Osc 3 Semi-tune
+//Map	_control_	Osc 3 Fine-tune
+//Map	_control_	Osc PWM 3 Amount
+//Map	_control_	Osc 3 PWM Speed
+//Map	_control_	Osc 3 Symmetry
+//Map	_control_	Osc 3 Sub-Volume
+//Map	_control_	Osc 3 Spread
+//Map	_control_	Osc 3 Volume
+//Map	_control_	Osc 3 Modulation Amount
+//Map	_control_	Filter Type
+//Map	_control_	Filter Frequency
+//Map	_control_	Filter Q
+//Map	_control_	Envelope > Filter
+//Map	_control_	Velocity > Filter
+//Map	_control_	Keytrack > Filter
+//Map	_control_	LFO > Filter
+//Map	_control_	Filter Envelope Attack
+//Map	_control_	Filter Envelope Decay
+//Map	_control_	Filter LFO Mod Amount
+//Map	_control_	Osc 1 Octave
+//Map	_control_	Osc 1 Tracking
+//Map	_control_	Osc 1 Output
+//Map	_control_	Osc 1 Free Running
+//Map	_control_	Osc 2 Octave
+//Map	_control_	Filter Envelope Sustain
+//Map	_control_	Filter Envelope Fade
+//Map	_control_	Filter Envelope Release
+//Map	_control_	Filter LFO Speed in MS
+//Map	_control_	Filter LFO Speed in QB
+//Map	_control_	Filter 2 Type
+//Map	_control_	Filter 2 Freq
+//Map	_control_	Filter 2 Q
+//Map	_control_	Filter 2 Pan
+//Map	_control_	Velocity > Volume
+//Map	_control_	Amp Attack
+//Map	_control_	Amp Decay
+//Map	_control_	Amp Sustain
+//Map	_control_	Amp Fade
+//Map	_control_	Amp Release
+//Map	_control_	Envelope 1 Amount
+//Map	_control_	Envelope 2 Amount
+//Map	_control_	Osc 1
+//Map	_control_	Osc 2
+//Map	_control_	Osc 3
+//Map	_control_	Osc 2 Mode
+//Map	_control_	Osc 3 Mode
+//Map	_control_	Mod Wheel > Filter
+//Map	_control_	Filter Distort
+//Map	_control_	Filter Vowel
+//Map	_control_	Filter Smoothing
+

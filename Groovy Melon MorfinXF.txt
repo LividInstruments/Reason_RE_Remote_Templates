@@ -1,0 +1,11 @@
+
+Scope	Groovy Melon	com.groovymelon.MorfinXF
+//Map	_control_	Ch A Select Input
+//Map	_control_	Volume A
+//Map	_control_	Phase Invert A
+//Map	_control_	Crossfader
+//Map	_control_	Phase Invert B
+//Map	_control_	Volume B
+//Map	_control_	Ch B Select Input
+//Map	_control_	Curve Type
+

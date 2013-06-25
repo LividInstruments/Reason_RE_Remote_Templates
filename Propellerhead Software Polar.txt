@@ -1,0 +1,56 @@
+
+Scope	Propellerhead Software	se.propellerheads.Polar
+//Map	_control_	Enabled
+//Map	_control_	Analysis Type
+//Map	_control_	Algorithm Type
+//Map	_control_	Loop Length
+//Map	_control_	Keyboard Input Enable
+//Map	_control_	Auto Pan Rate
+//Map	_control_	Lock Buffer
+//Map	_control_	Input Summing Left + Right
+//Map	_control_	Delay/Buffer Position
+//Map	_control_	Delay/Buffer Delay Mode
+//Map	_control_	Buffer LFO Amount
+//Map	_control_	Buffer Env Amount
+//Map	_control_	Dry Enable
+//Map	_control_	Dry Delay
+//Map	_control_	Dry Pan
+//Map	_control_	Dry Auto Pan Amount
+//Map	_control_	Dry Level
+//Map	_control_	Shifter 1 Semi
+//Map	_control_	Shifter 1 Fine
+//Map	_control_	Shifter 1 Feedback
+//Map	_control_	Shifter 1 Lfo Amount
+//Map	_control_	Shifter 1 Env Amount
+//Map	_control_	Shifter 1 Pan
+//Map	_control_	Shifter 1 Auto Pan
+//Map	_control_	Shifter 1 Level
+//Map	_control_	Shifter 2 Enable
+//Map	_control_	Shifter 2 Semi
+//Map	_control_	Shifter 2 Fine
+//Map	_control_	Shifter 2 Feedback
+//Map	_control_	Shifter 2 Delay
+//Map	_control_	Shifter 2 Lfo Amount
+//Map	_control_	Shifter 2 Env Amount
+//Map	_control_	Shifter 2 Pan
+//Map	_control_	Shifter 2 Auto Pan
+//Map	_control_	Shifter 2 Level
+//Map	_control_	Envelope Gate
+//Map	_control_	Envelope Attack
+//Map	_control_	Envelope Decay
+//Map	_control_	Envelope Sustain
+//Map	_control_	Envelope Release
+//Map	_control_	Env To Amp
+//Map	_control_	LFO Rate Free
+//Map	_control_	Lfo Rate Synced
+//Map	_control_	LFO Phase
+//Map	_control_	LFO Waveform
+//Map	_control_	LFO Tempo Sync
+//Map	_control_	Filter Enable
+//Map	_control_	Filter Frequency
+//Map	_control_	Filter Resonance
+//Map	_control_	Filter Type
+//Map	_control_	Filter Keyboard Tracking
+//Map	_control_	Filter LFO Amount
+//Map	_control_	Filter Env Amount
+

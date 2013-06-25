@@ -1,0 +1,12 @@
+
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseChorus
+//Map	_control_	Enabled
+//Map	_control_	Type
+//Map	_control_	Sync On/Off
+//Map	_control_	Delay
+//Map	_control_	Rate
+//Map	_control_	Rate (sync)
+//Map	_control_	Depth
+//Map	_control_	Feedback
+//Map	_control_	Dry/Wet
+

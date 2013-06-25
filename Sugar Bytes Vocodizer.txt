@@ -1,0 +1,15 @@
+
+Scope	Sugar Bytes	com.sugarbytes.Vocodizer
+//Map	_control_	Enabled
+//Map	_control_	Sound
+//Map	_control_	soundmenu
+//Map	_control_	note1hi
+//Map	_control_	note1low
+//Map	_control_	note2hi
+//Map	_control_	note2low
+//Map	_control_	notemenu
+//Map	_control_	spread
+//Map	_control_	arpfreq
+//Map	_control_	arpstate
+//Map	_control_	drywet
+

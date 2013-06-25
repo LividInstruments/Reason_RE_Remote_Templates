@@ -1,0 +1,10 @@
+
+Scope	Normen Hansen de.normenhansen.vmg01
+//Map	_control_	Enable
+//Map	_control_	DelayTime 10000
+//Map	_control_	DelayTime 1000
+//Map	_control_	DelayTime 100
+//Map	_control_	DelayTime 10
+//Map	_control_	DelayTime 1
+//Map	_control_	Measure
+

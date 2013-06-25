@@ -1,0 +1,24 @@
+
+Scope	Quadelectra Audioworx	com.quadelectra.StereoSplitter
+//Map	_control_	Enabled
+//Map	_control_	Mid: Enabled
+//Map	_control_	Mid: Gain
+//Map	_control_	Mid: Delay Left Switch
+//Map	_control_	Mid: Delay Right Switch
+//Map	_control_	Mid: Delay
+//Map	_control_	Side: Enabled
+//Map	_control_	Side: Gain
+//Map	_control_	Side: Delay Left Switch
+//Map	_control_	Side: Delay Right Switch
+//Map	_control_	Side: Delay
+//Map	_control_	Invert Mid L Chan.
+//Map	_control_	Invert Mid R Chan.
+//Map	_control_	Invert Side L Chan.
+//Map	_control_	Invert Side R Chan.
+//Map	_control_	Side Width
+//Map	_control_	Swap Channels
+//Map	_control_	Pan Mid
+//Map	_control_	Pan Side
+//Map	_control_	Mono
+//Map	_control_	Volume
+

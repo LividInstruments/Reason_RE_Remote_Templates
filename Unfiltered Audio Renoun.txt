@@ -1,0 +1,14 @@
+
+Scope	Unfiltered Audio	com.unfilteredaudio.Renoun
+//Map	_control_	Enabled
+//Map	_control_	Volume
+//Map	_control_	Wet
+//Map	_control_	Mod_Speed
+//Map	_control_	Mod_Amount
+//Map	_control_	Diffuse
+//Map	_control_	Tail
+//Map	_control_	Bandwidth
+//Map	_control_	Damping
+//Map	_control_	Decay
+//Map	_control_	Predelay
+

@@ -1,0 +1,138 @@
+
+Scope	Pitchblende	nz.co.pitchblende.AutoTheory
+//Map	_control_	scale
+//Map	_control_	key
+//Map	_control_	Melody Enable
+//Map	_control_	Melody Inversions
+//Map	_control_	Melody Mapping
+//Map	_control_	Melody Source
+//Map	_control_	Fixed Chord 1
+//Map	_control_	Fixed Chord 2
+//Map	_control_	Melody Output Octave 1
+//Map	_control_	Melody Output Octave 2
+//Map	_control_	Melody Output Octave 3
+//Map	_control_	Melody Output Octave 4
+//Map	_control_	Melody Output Velocity 1
+//Map	_control_	Melody Output Velocity 2
+//Map	_control_	Melody Output Velocity 3
+//Map	_control_	Melody Output Velocity 4
+//Map	_control_	Chord Root Separate
+//Map	_control_	Mute Chords
+//Map	_control_	Chord Output Octave 1
+//Map	_control_	Chord Output Octave 2
+//Map	_control_	Chord Output Octave 3
+//Map	_control_	Chord Output Octave 4
+//Map	_control_	Chord Output Velocity 1
+//Map	_control_	Chord Output Velocity 2
+//Map	_control_	Chord Output Velocity 3
+//Map	_control_	Chord Output Velocity 4
+//Map	_control_	Strummer Mode
+//Map	_control_	Strummer Stroke
+//Map	_control_	Strummer Tempo Sync
+//Map	_control_	Strummer Velocity Mode
+//Map	_control_	Strummer Alt Reset
+//Map	_control_	Strummer Duration
+//Map	_control_	Strummer Tempo-Synced Duration
+//Map	_control_	Strummer Absolute Velocity
+//Map	_control_	Strummer Relative Velocity
+//Map	_control_	Strummer Shuffle Amount
+//Map	_control_	Strummer Humanise Amount
+//Map	_control_	Strummer VMod Amount
+//Map	_control_	Chord 1 Degree 3 Accidental
+//Map	_control_	Chord 2 Degree 3 Accidental
+//Map	_control_	Chord 3 Degree 3 Accidental
+//Map	_control_	Chord 4 Degree 3 Accidental
+//Map	_control_	Chord 5 Degree 3 Accidental
+//Map	_control_	Chord 6 Degree 3 Accidental
+//Map	_control_	Chord 7 Degree 3 Accidental
+//Map	_control_	Chord 1 Degree 5 Accidental
+//Map	_control_	Chord 2 Degree 5 Accidental
+//Map	_control_	Chord 3 Degree 5 Accidental
+//Map	_control_	Chord 4 Degree 5 Accidental
+//Map	_control_	Chord 5 Degree 5 Accidental
+//Map	_control_	Chord 6 Degree 5 Accidental
+//Map	_control_	Chord 7 Degree 5 Accidental
+//Map	_control_	Chord 1 Degree 7 Accidental
+//Map	_control_	Chord 2 Degree 7 Accidental
+//Map	_control_	Chord 3 Degree 7 Accidental
+//Map	_control_	Chord 4 Degree 7 Accidental
+//Map	_control_	Chord 5 Degree 7 Accidental
+//Map	_control_	Chord 6 Degree 7 Accidental
+//Map	_control_	Chord 7 Degree 7 Accidental
+//Map	_control_	Chord 1 Degree 9 Accidental
+//Map	_control_	Chord 2 Degree 9 Accidental
+//Map	_control_	Chord 3 Degree 9 Accidental
+//Map	_control_	Chord 4 Degree 9 Accidental
+//Map	_control_	Chord 5 Degree 9 Accidental
+//Map	_control_	Chord 6 Degree 9 Accidental
+//Map	_control_	Chord 7 Degree 9 Accidental
+//Map	_control_	Chord 1 Degree 11 Accidental
+//Map	_control_	Chord 2 Degree 11 Accidental
+//Map	_control_	Chord 3 Degree 11 Accidental
+//Map	_control_	Chord 4 Degree 11 Accidental
+//Map	_control_	Chord 5 Degree 11 Accidental
+//Map	_control_	Chord 6 Degree 11 Accidental
+//Map	_control_	Chord 7 Degree 11 Accidental
+//Map	_control_	Chord 1 Degree 13 Accidental
+//Map	_control_	Chord 2 Degree 13 Accidental
+//Map	_control_	Chord 3 Degree 13 Accidental
+//Map	_control_	Chord 4 Degree 13 Accidental
+//Map	_control_	Chord 5 Degree 13 Accidental
+//Map	_control_	Chord 6 Degree 13 Accidental
+//Map	_control_	Chord 7 Degree 13 Accidental
+//Map	_control_	Chord 1 Degree 1 Octave
+//Map	_control_	Chord 2 Degree 1 Octave
+//Map	_control_	Chord 3 Degree 1 Octave
+//Map	_control_	Chord 4 Degree 1 Octave
+//Map	_control_	Chord 5 Degree 1 Octave
+//Map	_control_	Chord 6 Degree 1 Octave
+//Map	_control_	Chord 7 Degree 1 Octave
+//Map	_control_	Chord 1 Degree 3 Octave
+//Map	_control_	Chord 2 Degree 3 Octave
+//Map	_control_	Chord 3 Degree 3 Octave
+//Map	_control_	Chord 4 Degree 3 Octave
+//Map	_control_	Chord 5 Degree 3 Octave
+//Map	_control_	Chord 6 Degree 3 Octave
+//Map	_control_	Chord 7 Degree 3 Octave
+//Map	_control_	Chord 1 Degree 5 Octave
+//Map	_control_	Chord 2 Degree 5 Octave
+//Map	_control_	Chord 3 Degree 5 Octave
+//Map	_control_	Chord 4 Degree 5 Octave
+//Map	_control_	Chord 5 Degree 5 Octave
+//Map	_control_	Chord 6 Degree 5 Octave
+//Map	_control_	Chord 7 Degree 5 Octave
+//Map	_control_	Chord 1 Degree 7 Octave
+//Map	_control_	Chord 2 Degree 7 Octave
+//Map	_control_	Chord 3 Degree 7 Octave
+//Map	_control_	Chord 4 Degree 7 Octave
+//Map	_control_	Chord 5 Degree 7 Octave
+//Map	_control_	Chord 6 Degree 7 Octave
+//Map	_control_	Chord 7 Degree 7 Octave
+//Map	_control_	Chord 1 Degree 9 Octave
+//Map	_control_	Chord 2 Degree 9 Octave
+//Map	_control_	Chord 3 Degree 9 Octave
+//Map	_control_	Chord 4 Degree 9 Octave
+//Map	_control_	Chord 5 Degree 9 Octave
+//Map	_control_	Chord 6 Degree 9 Octave
+//Map	_control_	Chord 7 Degree 9 Octave
+//Map	_control_	Chord 1 Degree 11 Octave
+//Map	_control_	Chord 2 Degree 11 Octave
+//Map	_control_	Chord 3 Degree 11 Octave
+//Map	_control_	Chord 4 Degree 11 Octave
+//Map	_control_	Chord 5 Degree 11 Octave
+//Map	_control_	Chord 6 Degree 11 Octave
+//Map	_control_	Chord 7 Degree 11 Octave
+//Map	_control_	Chord 1 Degree 13 Octave
+//Map	_control_	Chord 2 Degree 13 Octave
+//Map	_control_	Chord 3 Degree 13 Octave
+//Map	_control_	Chord 4 Degree 13 Octave
+//Map	_control_	Chord 5 Degree 13 Octave
+//Map	_control_	Chord 6 Degree 13 Octave
+//Map	_control_	Chord 7 Degree 13 Octave
+//Map	_control_	Chord 2 Transpose
+//Map	_control_	Chord 3 Transpose
+//Map	_control_	Chord 4 Transpose
+//Map	_control_	Chord 5 Transpose
+//Map	_control_	Chord 6 Transpose
+//Map	_control_	Chord 7 Transpose
+

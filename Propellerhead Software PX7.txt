@@ -1,0 +1,52 @@
+
+Scope	Propellerhead Software	se.propellerheads.PX7
+//Map	_control_	Portamento Time
+//Map	_control_	Brightness
+//Map	_control_	Touch Senstivity
+//Map	_control_	Attack
+//Map	_control_	Decay
+//Map	_control_	Volume
+//Map	_control_	Operator 1 Output Level
+//Map	_control_	Operator 2 Output Level
+//Map	_control_	Operator 3 Output Level
+//Map	_control_	Operator 4 Output Level
+//Map	_control_	Operator 5 Output Level
+//Map	_control_	Operator 6 Output Level
+//Map	_control_	Operator Feedback
+//Map	_control_	Algorithm
+//Map	_control_	Operator 1 Freq Mode
+//Map	_control_	Operator 2 Freq Mode
+//Map	_control_	Operator 3 Freq Mode
+//Map	_control_	Operator 4 Freq Mode
+//Map	_control_	Operator 5 Freq Mode
+//Map	_control_	Operator 6 Freq Mode
+//Map	_control_	Operator 1 Freq Coarse
+//Map	_control_	Operator 2 Freq Coarse
+//Map	_control_	Operator 3 Freq Coarse
+//Map	_control_	Operator 4 Freq Coarse
+//Map	_control_	Operator 5 Freq Coarse
+//Map	_control_	Operator 6 Freq Coarse
+//Map	_control_	Operator 1 Freq Fine
+//Map	_control_	Operator 2 Freq Fine
+//Map	_control_	Operator 3 Freq Fine
+//Map	_control_	Operator 4 Freq Fine
+//Map	_control_	Operator 5 Freq Fine
+//Map	_control_	Operator 6 Freq Fine
+//Map	_control_	Operator 1 Freq Detune
+//Map	_control_	Operator 2 Freq Detune
+//Map	_control_	Operator 3 Freq Detune
+//Map	_control_	Operator 4 Freq Detune
+//Map	_control_	Operator 5 Freq Detune
+//Map	_control_	Operator 6 Freq Detune
+//Map	_control_	Operator 1 Pan
+//Map	_control_	Operator 2 Pan
+//Map	_control_	Operator 3 Pan
+//Map	_control_	Operator 4 Pan
+//Map	_control_	Operator 5 Pan
+//Map	_control_	Operator 6 Pan
+//Map	_control_	LFO Tempo Sync
+//Map	_control_	LFO Speed
+//Map	_control_	LFO Speed Tempo Synced
+//Map	_control_	LFO Delay
+//Map	_control_	LFO Waveform
+

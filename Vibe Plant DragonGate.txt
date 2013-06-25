@@ -1,0 +1,16 @@
+
+Scope	Vibe Plant	com.vibeplant.DragonGate
+//Map	_control_	Enabled
+//Map	_control_	Ducking
+//Map	_control_	Filter
+//Map	_control_	Filter Type
+//Map	_control_	Filter Frequency
+//Map	_control_	Input monitor
+//Map	_control_	Boost
+//Map	_control_	Threshold
+//Map	_control_	Hysteresis
+//Map	_control_	Attack
+//Map	_control_	Hold
+//Map	_control_	Release
+//Map	_control_	Floor
+

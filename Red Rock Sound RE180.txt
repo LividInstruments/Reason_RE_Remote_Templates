@@ -1,0 +1,33 @@
+
+Scope	Red Rock Sound	ru.redrocksound.RE180
+//Map	_control_	Attack 1
+//Map	_control_	Release 1
+//Map	_control_	Threshold 1
+//Map	_control_	Attack 2
+//Map	_control_	Release 2
+//Map	_control_	Threshold 2
+//Map	_control_	Attack 3
+//Map	_control_	Release 3
+//Map	_control_	Threshold 3
+//Map	_control_	Attack 4
+//Map	_control_	Release 4
+//Map	_control_	Threshold 4
+//Map	_control_	Attack 5
+//Map	_control_	Release 5
+//Map	_control_	Threshold 5
+//Map	_control_	Attack 6
+//Map	_control_	Release 6
+//Map	_control_	Threshold 6
+//Map	_control_	Attack 7
+//Map	_control_	Release 7
+//Map	_control_	Threshold 7
+//Map	_control_	Attack 8
+//Map	_control_	Release 8
+//Map	_control_	Threshold 8
+//Map	_control_	Attack 9
+//Map	_control_	Release 9
+//Map	_control_	Threshold 9
+//Map	_control_	Attack 10
+//Map	_control_	Release 10
+//Map	_control_	Threshold 10
+

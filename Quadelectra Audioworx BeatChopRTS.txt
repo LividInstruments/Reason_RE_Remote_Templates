@@ -1,0 +1,33 @@
+
+Scope	Quadelectra Audioworx	com.quadelectra.BeatChopRTS
+//Map	_control_	Enabled
+//Map	_control_	Mod Wheel
+//Map	_control_	Pitch Bend
+//Map	_control_	Pitch Bend Range
+//Map	_control_	ModWheel To Slice Start
+//Map	_control_	ModWheel To Slice Length
+//Map	_control_	ModWheel To Volume
+//Map	_control_	Buffer Offset
+//Map	_control_	Buffer Steps
+//Map	_control_	Buffer Resolution
+//Map	_control_	Performance Roll Buffer Switch
+//Map	_control_	Performance Retrigger Slice Switch
+//Map	_control_	Performance Reverse Slice Switch
+//Map	_control_	Performance Transparent Mode
+//Map	_control_	perf_trans_volume
+//Map	_control_	Slice Loop Mode
+//Map	_control_	Slice Start Quantize Switch
+//Map	_control_	Slice Start (Percentage)
+//Map	_control_	Slice Start (Quantized)
+//Map	_control_	Slice Length Quantize Switch
+//Map	_control_	Slice Length (Percentage)
+//Map	_control_	Slice Length (Quantized)
+//Map	_control_	Pitch Semitones
+//Map	_control_	Pitch Speed
+//Map	_control_	Envelope Attack
+//Map	_control_	Envelope Decay
+//Map	_control_	Envelope Release
+//Map	_control_	Pan
+//Map	_control_	Dry / Wet Mix
+//Map	_control_	Output Volume
+

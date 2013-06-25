@@ -1,0 +1,18 @@
+
+Scope	The Chronologists	com.thechronologists.Truth
+//Map	_control_	Test Type 1
+//Map	_control_	Result Type 1
+//Map	_control_	Gate 1 Select
+//Map	_control_	Test Type 2
+//Map	_control_	Result Type 2
+//Map	_control_	Gate 2 Select
+//Map	_control_	Test Type 3
+//Map	_control_	Result Type 3
+//Map	_control_	Gate 3 Select
+//Map	_control_	Test Type 4
+//Map	_control_	Result Type 4
+//Map	_control_	Gate 4 Select
+//Map	_control_	Test Type 5
+//Map	_control_	Result Type 5
+//Map	_control_	Gate 5 Select
+

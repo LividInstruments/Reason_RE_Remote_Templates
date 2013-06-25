@@ -1,0 +1,13 @@
+
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapsePhaser
+//Map	_control_	Enabled
+//Map	_control_	Phaser Stages Switch
+//Map	_control_	Phaser Frequency
+//Map	_control_	Phaser Feedback
+//Map	_control_	spread
+//Map	_control_	Lfo Tempo Sync On/Off
+//Map	_control_	LFO Rate
+//Map	_control_	LFO Rate (SYNC)
+//Map	_control_	LFO Mod
+//Map	_control_	Output Mix
+

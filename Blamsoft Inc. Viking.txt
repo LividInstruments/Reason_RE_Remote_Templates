@@ -1,0 +1,69 @@
+
+Scope	Blamsoft Inc.	com.blamsoft.Viking
+//Map	_control_	Pitch Wheel Range
+//Map	_control_	LFO Rate
+//Map	_control_	Lfo Rate Synced
+//Map	_control_	Lfo Sync
+//Map	_control_	Fine Tune
+//Map	_control_	Glide Rate
+//Map	_control_	Mod Wheel Source
+//Map	_control_	Mod Wheel Destination
+//Map	_control_	Mod Wheel Shaping
+//Map	_control_	Mod Wheel Amount
+//Map	_control_	On Source
+//Map	_control_	On Destination
+//Map	_control_	On Shaping
+//Map	_control_	On Amount
+//Map	_control_	Osc 1 Octave
+//Map	_control_	Osc 1 Wave
+//Map	_control_	Osc 2 Frequency
+//Map	_control_	Osc 2 Octave
+//Map	_control_	Osc 2 Wave
+//Map	_control_	Osc 3 Frequency
+//Map	_control_	Osc 3 Octave
+//Map	_control_	Osc 3 Wave
+//Map	_control_	Osc1-Osc2 Sync
+//Map	_control_	Osc3-Osc1 Fm
+//Map	_control_	Osc3 Kb Control
+//Map	_control_	Osc3 Frequency Range
+//Map	_control_	External
+//Map	_control_	External Amount
+//Map	_control_	Oscillator 1 On
+//Map	_control_	Oscillator 1 Amount
+//Map	_control_	Oscillator 2 On
+//Map	_control_	Oscillator 2 Amount
+//Map	_control_	Oscillator 3 On
+//Map	_control_	Oscillator 3 Amount
+//Map	_control_	Noise On
+//Map	_control_	Noise Amount
+//Map	_control_	Cutoff
+//Map	_control_	Spacing
+//Map	_control_	Resonance
+//Map	_control_	Keyboard Control Amount
+//Map	_control_	Mode
+//Map	_control_	Filter Attack
+//Map	_control_	Filter Decay
+//Map	_control_	Filter Sustain
+//Map	_control_	Filter Release
+//Map	_control_	Amount To Filter
+//Map	_control_	Vol Attack
+//Map	_control_	Vol Decay
+//Map	_control_	Vol Release
+//Map	_control_	Vol Sustain
+//Map	_control_	Master Volume
+//Map	_control_	Mw Pgm Source
+//Map	_control_	Mw Pgm Destination
+//Map	_control_	Mw Pgm Shaping
+//Map	_control_	On Pgm Source
+//Map	_control_	On Pgm Destination
+//Map	_control_	On Pgm Shaping
+//Map	_control_	Low Pass Poles
+//Map	_control_	High Pass Poles
+//Map	_control_	Filter Circuit
+//Map	_control_	Noise Circuit
+//Map	_control_	Gate Source
+//Map	_control_	Keyboard Mode
+//Map	_control_	Osc2 Frequency Fine
+//Map	_control_	Osc3 Frequency Fine
+//Map	_control_	Release
+

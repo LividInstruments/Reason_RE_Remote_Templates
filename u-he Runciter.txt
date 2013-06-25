@@ -1,0 +1,18 @@
+
+Scope	u-he	com.uheplugins.Runciter
+//Map	_control_	Enabled
+//Map	_control_	EnvelopeType
+//Map	_control_	Modulation
+//Map	_control_	EnvelopeSense
+//Map	_control_	EnvelopeRate
+//Map	_control_	InputDrive
+//Map	_control_	Cutoff
+//Map	_control_	Resonance
+//Map	_control_	Output
+//Map	_control_	Fuzz
+//Map	_control_	Colour
+//Map	_control_	Low
+//Map	_control_	Band
+//Map	_control_	High
+//Map	_control_	Mix
+

@@ -1,0 +1,13 @@
+
+Scope	Black and Orange	com.blackandorange.TrafficControl
+//Map	_control_	slot1_button
+//Map	_control_	slot2_button
+//Map	_control_	slot3_button
+//Map	_control_	slot4_button
+//Map	_control_	slot5_button
+//Map	_control_	slot6_button
+//Map	_control_	slotSelect
+//Map	_control_	quantize
+//Map	_control_	releaseOnSwitch
+//Map	_control_	midiSelect
+

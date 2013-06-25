@@ -1,0 +1,61 @@
+
+Scope	KORG	jp.co.korg.Polysix
+//Map	_control_	Hold
+//Map	_control_	KEY ASSIGN
+//Map	_control_	Unison Voices
+//Map	_control_	Total Voices
+//Map	_control_	UNISON DETUNE
+//Map	_control_	UNISON SPREAD
+//Map	_control_	ANALOG
+//Map	_control_	VCO VIBRATO INT
+//Map	_control_	VCO Octave
+//Map	_control_	VCO WAVE FORM
+//Map	_control_	VCO PWM ADJUST
+//Map	_control_	VCO PWM SPEED
+//Map	_control_	VCO SUB OSC
+//Map	_control_	VCF Cutoff
+//Map	_control_	VCF Resonance
+//Map	_control_	VCF EG Intensity
+//Map	_control_	VCF Kbd Track
+//Map	_control_	VCA MODE
+//Map	_control_	VCA ATTENUATOR
+//Map	_control_	MG KEY SYNC
+//Map	_control_	MG TEMPO SYNC
+//Map	_control_	MG BASE NOTE
+//Map	_control_	MG FREQUENCY
+//Map	_control_	MG TIMES
+//Map	_control_	MG DELAY TIME
+//Map	_control_	MG LEVEL
+//Map	_control_	MG DESTINATION
+//Map	_control_	EG ATTACK
+//Map	_control_	EG DECAY
+//Map	_control_	EG SUSTAIN
+//Map	_control_	EG RELEASE
+//Map	_control_	Pan
+//Map	_control_	Volume
+//Map	_control_	Arpeggio
+//Map	_control_	ARP KEY SYNC
+//Map	_control_	ARP TEMPO SYNC
+//Map	_control_	ARP BASE NOTE
+//Map	_control_	ARP SPEED
+//Map	_control_	ARP TIMES
+//Map	_control_	ARP Range
+//Map	_control_	Arp Mode
+//Map	_control_	ARP Latch
+//Map	_control_	FX MODE
+//Map	_control_	FX SPREAD
+//Map	_control_	FX SPEED
+//Map	_control_	Pitch Bend Range
+//Map	_control_	Transpose
+//Map	_control_	TUNE
+//Map	_control_	EM1 SOURCE
+//Map	_control_	EM1 VCO PW
+//Map	_control_	EM1 VCF CUTOFF
+//Map	_control_	EM1 VCA GAIN
+//Map	_control_	EM1 MG LEVEL
+//Map	_control_	EM2 SOURCE
+//Map	_control_	EM2 VCO PW
+//Map	_control_	EM2 VCF CUTOFF
+//Map	_control_	EM2 VCA GAIN
+//Map	_control_	EM2 MG LEVEL
+

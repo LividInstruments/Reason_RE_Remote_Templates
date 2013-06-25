@@ -1,0 +1,96 @@
+
+Scope	Quadelectra Audioworx	com.quadelectra.ThreePlex
+//Map	_control_	Enabled
+//Map	_control_	Ducking
+//Map	_control_	Dry / Wet Mix
+//Map	_control_	Pan Position
+//Map	_control_	Volume
+//Map	_control_	Bus Setup
+//Map	_control_	Input Level
+//Map	_control_	Global Feedback
+//Map	_control_	Global Filter LFO Amount
+//Map	_control_	Global Pan LFO Amount
+//Map	_control_	Global Level LFO Amount
+//Map	_control_	Global Filter Env. Amount
+//Map	_control_	Line 1: Enabled
+//Map	_control_	Line 1: Time (ms)
+//Map	_control_	Line 1: Time (Steps)
+//Map	_control_	Line 1: Time Micro Adjust
+//Map	_control_	Line 1: Time Unit
+//Map	_control_	Line 1: Feedback
+//Map	_control_	Line 1: Pre / Post Filter Mode
+//Map	_control_	Line 1: Filter LFO Source
+//Map	_control_	Line 1: Filter Envelope Amount
+//Map	_control_	Line 1: Filter LFO Amount
+//Map	_control_	Line 1: Filter Frequency
+//Map	_control_	Line 1: Filter Resonance
+//Map	_control_	Line 1: Filter Type
+//Map	_control_	Line 1: Filter Poles
+//Map	_control_	Line 1: Filter Env. Attack
+//Map	_control_	Line 1: Filter Env. Hold
+//Map	_control_	Line 1: Filter Env. Decay
+//Map	_control_	Line 1: Pan LFO Source
+//Map	_control_	Line 1: Pan LFO Amount
+//Map	_control_	Line 1: Pan
+//Map	_control_	Line 1: Level LFO Source
+//Map	_control_	Line 1: Level LFO Amount
+//Map	_control_	Line 1: Level
+//Map	_control_	LFO 1: Rate
+//Map	_control_	LFO 1: Rate (Synced)
+//Map	_control_	LFO 1: Waveform
+//Map	_control_	LFO 1: Sync
+//Map	_control_	Line 2: Enabled
+//Map	_control_	Line 2: Time (ms)
+//Map	_control_	Line 2: Time (Steps)
+//Map	_control_	Line 2: Time Micro Adjust
+//Map	_control_	Line 2: Time Unit
+//Map	_control_	Line 2: Feedback
+//Map	_control_	Line 2: Pre / Post Filter Mode
+//Map	_control_	Line 2: Filter LFO Source
+//Map	_control_	Line 2: Filter Envelope Amount
+//Map	_control_	Line 2: Filter LFO Amount
+//Map	_control_	Line 2: Filter Frequency
+//Map	_control_	Line 2: Filter Resonance
+//Map	_control_	Line 2: Filter Type
+//Map	_control_	Line 2: Filter Poles
+//Map	_control_	Line 2: Filter Env. Attack
+//Map	_control_	Line 2: Filter Env. Hold
+//Map	_control_	Line 2: Filter Env. Decay
+//Map	_control_	Line 2: Pan LFO Source
+//Map	_control_	Line 2: Pan LFO Amount
+//Map	_control_	Line 2: Pan
+//Map	_control_	Line 2: Level LFO Source
+//Map	_control_	Line 2: Level LFO Amount
+//Map	_control_	Line 2: Level
+//Map	_control_	LFO 2: Rate
+//Map	_control_	LFO 2: Rate (Synced)
+//Map	_control_	LFO 2: Waveform
+//Map	_control_	LFO 2: Sync
+//Map	_control_	Line 3: Enabled
+//Map	_control_	Line 3: Time (ms)
+//Map	_control_	Line 3: Time (Steps)
+//Map	_control_	Line 3: Time Micro Adjust
+//Map	_control_	Line 3: Time Unit
+//Map	_control_	Line 3: Feedback
+//Map	_control_	Line 3: Pre / Post Filter Mode
+//Map	_control_	Line 3: Filter LFO Source
+//Map	_control_	Line 3: Filter Envelope Amount
+//Map	_control_	Line 3: Filter LFO Amount
+//Map	_control_	Line 3: Filter Frequency
+//Map	_control_	Line 3: Filter Resonance
+//Map	_control_	Line 3: Filter Type
+//Map	_control_	Line 3: Filter Poles
+//Map	_control_	Line 3: Filter Env. Attack
+//Map	_control_	Line 3: Filter Env. Hold
+//Map	_control_	Line 3: Filter Env. Decay
+//Map	_control_	Line 3: Pan LFO Source
+//Map	_control_	Line 3: Pan LFO Amount
+//Map	_control_	Line 3: Pan
+//Map	_control_	Line 3: Level LFO Source
+//Map	_control_	Line 3: Level LFO Amount
+//Map	_control_	Line 3: Level
+//Map	_control_	LFO 3: Rate
+//Map	_control_	LFO 3: Rate (Synced)
+//Map	_control_	LFO 3: Waveform
+//Map	_control_	LFO 3: Sync
+

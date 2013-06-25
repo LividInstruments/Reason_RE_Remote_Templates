@@ -1,0 +1,30 @@
+
+Scope	Propellerhead Software	se.propellerheads.radicalpiano
+//Map	_control_	Character
+//Map	_control_	Microphone 1 Type
+//Map	_control_	Microphone and Instrument Blend
+//Map	_control_	Microphone 2 Type
+//Map	_control_	Master Volume
+//Map	_control_	Vel Response High
+//Map	_control_	Vel Response Low
+//Map	_control_	Vel Response Curve
+//Map	_control_	TUNE
+//Map	_control_	Tune Drift
+//Map	_control_	Sustain Pedal
+//Map	_control_	Symp Res Level
+//Map	_control_	Symp Res Release Time
+//Map	_control_	Env Attack
+//Map	_control_	Env Decay Curve
+//Map	_control_	Env Release
+//Map	_control_	Key Down Level
+//Map	_control_	Key Up Level
+//Map	_control_	Pedal Level
+//Map	_control_	EQ On/Off
+//Map	_control_	EQ Hi Gain
+//Map	_control_	EQ Mid Gain
+//Map	_control_	EQ Lo Gain
+//Map	_control_	Ambience Level
+//Map	_control_	Ambience Type
+//Map	_control_	Compression Amount
+//Map	_control_	Stereo Width
+

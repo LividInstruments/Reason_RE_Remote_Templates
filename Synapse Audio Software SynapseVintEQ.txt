@@ -1,0 +1,8 @@
+
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseVintEQ
+//Map	_control_	Enabled
+//Map	_control_	Range
+//Map	_control_	Low
+//Map	_control_	Mid
+//Map	_control_	High
+

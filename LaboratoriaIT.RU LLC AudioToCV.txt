@@ -1,0 +1,21 @@
+
+Scope	LaboratoriaIT.RU LLC	ru.laboratoriait.AudioToCV
+//Map	_control_	Follower Min Level
+//Map	_control_	Follower Max Level
+//Map	_control_	Follower Highpass
+//Map	_control_	Follower Lowpass
+//Map	_control_	Follower Smooth Time
+//Map	_control_	Generator Sensitivity
+//Map	_control_	Generator Highpass
+//Map	_control_	Generator Lowpass
+//Map	_control_	Generator Envelope Sync
+//Map	_control_	Generator Attack
+//Map	_control_	Generator Attack Sync
+//Map	_control_	Generator Attack Shape
+//Map	_control_	Generator Hold
+//Map	_control_	Generator Hold Sync
+//Map	_control_	Generator Decay
+//Map	_control_	Generator Decay Sync
+//Map	_control_	Generator Decay Shape
+//Map	_control_	Generator Envelope Invert
+

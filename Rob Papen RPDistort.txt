@@ -1,0 +1,108 @@
+
+Scope	Rob Papen	com.robpapen.RPDistort
+//Map	_control_	Enabled
+//Map	_control_	Bypass
+//Map	_control_	Volume
+//Map	_control_	Mix
+//Map	_control_	EQ On
+//Map	_control_	EQ Low
+//Map	_control_	Distortion Pre-Boost
+//Map	_control_	Distorion Normalize
+//Map	_control_	EQ Mid 1
+//Map	_control_	EQ Mid 2
+//Map	_control_	EQ High
+//Map	_control_	Noise Gate On
+//Map	_control_	Noise Gate Hold
+//Map	_control_	Noise Gate Attack
+//Map	_control_	Amp Distort
+//Map	_control_	Cab Distort
+//Map	_control_	Clipper Lower
+//Map	_control_	Clipper Upper
+//Map	_control_	Clipper Amount
+//Map	_control_	Cos Frequency
+//Map	_control_	Cos Amount
+//Map	_control_	Cross1 Cross
+//Map	_control_	Cross1 Amount
+//Map	_control_	Cross2 Lower
+//Map	_control_	Noise Gate Threshhold
+//Map	_control_	Noise Gate Release
+//Map	_control_	Filter On
+//Map	_control_	Filter Type
+//Map	_control_	Distortion Normalize
+//Map	_control_	Compressor On
+//Map	_control_	Compressor Limit
+//Map	_control_	Compressor Ratio
+//Map	_control_	Compressor Attack
+//Map	_control_	Compressor Decay
+//Map	_control_	Compressor Volume
+//Map	_control_	Widen On
+//Map	_control_	Cross2 Upper
+//Map	_control_	Cross2 Amount
+//Map	_control_	Foldover Frequency
+//Map	_control_	Foldover Amount
+//Map	_control_	Fuzz Frequency
+//Map	_control_	Fuzz Amount
+//Map	_control_	Gapper Frequency
+//Map	_control_	Gapper Amount
+//Map	_control_	Hard-limiter Limit
+//Map	_control_	Hard-limiter Amount
+//Map	_control_	Low-FI Bits
+//Map	_control_	Low-FI S&H
+//Map	_control_	Low-FI Noise
+//Map	_control_	Low-FI Mix
+//Map	_control_	Octave1 Lower
+//Map	_control_	Octave1 Upper
+//Map	_control_	Octave2 Frequency
+//Map	_control_	Octave2 Amount
+//Map	_control_	Overdrive Drive
+//Map	_control_	Overdrive Amount
+//Map	_control_	Power Drive
+//Map	_control_	Power Amount
+//Map	_control_	Rectification Rectify
+//Map	_control_	Rectification Amount
+//Map	_control_	Ring Mod Frequency
+//Map	_control_	Ring Mod Amount
+//Map	_control_	Saturation Drive
+//Map	_control_	Saturation Amount
+//Map	_control_	Softlimiter Amount
+//Map	_control_	Square Lower
+//Map	_control_	Square Upper
+//Map	_control_	Square Amount
+//Map	_control_	Transient Range
+//Map	_control_	Transient Amount
+//Map	_control_	Tube Limiter
+//Map	_control_	Tube Rectifier
+//Map	_control_	Tube Saturation
+//Map	_control_	Tube Tone
+//Map	_control_	Tube Emphasis
+//Map	_control_	Mod 1 Amount
+//Map	_control_	Mod 2 Amount
+//Map	_control_	Mod 3 Amount
+//Map	_control_	Mod 4 Amount
+//Map	_control_	Ring Mod Wave
+//Map	_control_	Filter Low
+//Map	_control_	Filter Low Q
+//Map	_control_	Filter High
+//Map	_control_	Filter High Q
+//Map	_control_	Widen Amount
+//Map	_control_	Widen Speed
+//Map	_control_	Widen Width
+//Map	_control_	LFO 1 Amount
+//Map	_control_	LFO 1 Speed(ms)
+//Map	_control_	LFO 1 Speed(qb)
+//Map	_control_	LFO 2 Amount
+//Map	_control_	LFO 2 Speed(ms)
+//Map	_control_	LFO 2 Speed(qb)
+//Map	_control_	LFO 3 Amount
+//Map	_control_	LFO 3 Speed(ms)
+//Map	_control_	LFO 3 Speed(qb)
+//Map	_control_	LFO 4 Amount
+//Map	_control_	LFO 4 Speed(ms)
+//Map	_control_	LFO 4 Speed(qb)
+//Map	_control_	Path
+//Map	_control_	Global Mod
+//Map	_control_	Mod Bypass
+//Map	_control_	DC On
+//Map	_control_	Distortion On
+//Map	_control_	Distortion Type
+

@@ -1,0 +1,18 @@
+
+Scope	Red Rock Sound	ru.redrocksound.C1L1
+//Map	_control_	Enabled
+//Map	_control_	Filter
+//Map	_control_	Switch Filter
+//Map	_control_	Attack
+//Map	_control_	Switch Attack Mode
+//Map	_control_	Release
+//Map	_control_	Knee
+//Map	_control_	Ratio
+//Map	_control_	Threshold
+//Map	_control_	Makeup
+//Map	_control_	Dry/Mix
+//Map	_control_	Stereo Mode
+//Map	_control_	Limiter Threshold
+//Map	_control_	Switch Input/GR
+//Map	_control_	Mid Scoop
+

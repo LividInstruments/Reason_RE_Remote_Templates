@@ -1,0 +1,12 @@
+
+Scope	HaMu	se.hamu.Mingler
+//Map	_control_	Ignore note 1
+//Map	_control_	Ignore gate 1
+//Map	_control_	Gate 1 to all gates
+//Map	_control_	Retrig gate out by CV 1
+//Map	_control_	Ignore note 2
+//Map	_control_	Ignore gate 2
+//Map	_control_	Gate 2 to all gates
+//Map	_control_	Retrig gate out by CV 2
+//Map	_control_	Hang gate off
+

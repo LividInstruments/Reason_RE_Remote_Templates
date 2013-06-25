@@ -1,0 +1,77 @@
+
+Scope	Little IO org.tytel.littlelfo
+//Map	_control_	Volume
+//Map	_control_	Attack
+//Map	_control_	Decay
+//Map	_control_	Sustain
+//Map	_control_	Release
+//Map	_control_	Legato
+//Map	_control_	Active 1
+//Map	_control_	Waveform1
+//Map	_control_	Keyboard Sync 1
+//Map	_control_	Pulse Width 1
+//Map	_control_	Phase 1
+//Map	_control_	Amplitude 1
+//Map	_control_	Source 1
+//Map	_control_	Fine 1
+//Map	_control_	Correction 1
+//Map	_control_	Portamento 1
+//Map	_control_	Frequency 1
+//Map	_control_	Frequency Synced 1
+//Map	_control_	Frequency Midi 1
+//Map	_control_	Modulation Sync 1
+//Map	_control_	Amplitude Modulation 1
+//Map	_control_	Frequency Modulation 1
+//Map	_control_	Phase Modulation 1
+//Map	_control_	Active 2
+//Map	_control_	Waveform2
+//Map	_control_	Keyboard Sync 2
+//Map	_control_	Pulse Width 2
+//Map	_control_	Phase 2
+//Map	_control_	Amplitude 2
+//Map	_control_	Source 2
+//Map	_control_	Fine 2
+//Map	_control_	Correction 2
+//Map	_control_	Portamento 2
+//Map	_control_	Frequency 2
+//Map	_control_	Frequency Synced 2
+//Map	_control_	Frequency Midi 2
+//Map	_control_	Modulation Sync 2
+//Map	_control_	Amplitude Modulation 2
+//Map	_control_	Frequency Modulation 2
+//Map	_control_	Phase Modulation 2
+//Map	_control_	Active 3
+//Map	_control_	Waveform3
+//Map	_control_	Keyboard Sync 3
+//Map	_control_	Pulse Width 3
+//Map	_control_	Phase 3
+//Map	_control_	Amplitude 3
+//Map	_control_	Source 3
+//Map	_control_	Fine 3
+//Map	_control_	Correction 3
+//Map	_control_	Portamento 3
+//Map	_control_	Frequency 3
+//Map	_control_	Frequency Synced 3
+//Map	_control_	Frequency Midi 3
+//Map	_control_	Modulation Sync 3
+//Map	_control_	Amplitude Modulation 3
+//Map	_control_	Frequency Modulation 3
+//Map	_control_	Phase Modulation 3
+//Map	_control_	Active 4
+//Map	_control_	Waveform4
+//Map	_control_	Keyboard Sync 4
+//Map	_control_	Pulse Width 4
+//Map	_control_	Phase 4
+//Map	_control_	Amplitude 4
+//Map	_control_	Source 4
+//Map	_control_	Fine 4
+//Map	_control_	Correction 4
+//Map	_control_	Portamento 4
+//Map	_control_	Frequency 4
+//Map	_control_	Frequency Synced 4
+//Map	_control_	Frequency Midi 4
+//Map	_control_	Modulation Sync 4
+//Map	_control_	Amplitude Modulation 4
+//Map	_control_	Frequency Modulation 4
+//Map	_control_	Phase Modulation 4
+

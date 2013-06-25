@@ -1,0 +1,22 @@
+
+Scope	Ochen K.	com.ochenk.CVTuner
+//Map	_control_	Bypass
+//Map	_control_	Source CV Dial
+//Map	_control_	Round Dial
+//Map	_control_	Preset Root Note
+//Map	_control_	Preset Scale
+//Map	_control_	Definition Mode
+//Map	_control_	C Button
+//Map	_control_	C#/Dd Button
+//Map	_control_	D Button
+//Map	_control_	D#/Eb Button
+//Map	_control_	E Button
+//Map	_control_	F Button
+//Map	_control_	F#/Gb Button
+//Map	_control_	G Button
+//Map	_control_	G#/Ab Button
+//Map	_control_	A Button
+//Map	_control_	A#/Bb Button
+//Map	_control_	B Button
+//Map	_control_	Harmony Interval
+

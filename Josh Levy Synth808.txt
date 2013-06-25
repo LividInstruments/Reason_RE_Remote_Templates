@@ -1,0 +1,87 @@
+
+Scope	Josh Levy	com.joshlevy.Synth808
+//Map	_control_	Volume
+//Map	_control_	Analog Level
+//Map	_control_	MonoPoly
+//Map	_control_	SwitchBass
+//Map	_control_	Bass Pan
+//Map	_control_	Bass Level
+//Map	_control_	Bass Tone
+//Map	_control_	Bass Decay
+//Map	_control_	Bass Tuning
+//Map	_control_	Snare Pan
+//Map	_control_	Snare Level
+//Map	_control_	Snare Tone
+//Map	_control_	Snare Decay
+//Map	_control_	Snare Snappy
+//Map	_control_	Snare Tuning
+//Map	_control_	Low Conga Pan
+//Map	_control_	Low Conga Level
+//Map	_control_	Low Conga Decay
+//Map	_control_	Low Conga Tuning
+//Map	_control_	Mid Conga Pan
+//Map	_control_	Mid Conga Level
+//Map	_control_	Mid Conga Decay
+//Map	_control_	Mid Conga Tuning
+//Map	_control_	Hi Conga Pan
+//Map	_control_	Hi Conga Level
+//Map	_control_	Hi Conga Decay
+//Map	_control_	Hi Conga Tuning
+//Map	_control_	Low Tom Pan
+//Map	_control_	Low Tom Level
+//Map	_control_	Low Tom Decay
+//Map	_control_	Low Tom Tuning
+//Map	_control_	Mid Tom Pan
+//Map	_control_	Mid Tom Level
+//Map	_control_	Mid Tom Decay
+//Map	_control_	Mid Tom Tuning
+//Map	_control_	Hi Tom Pan
+//Map	_control_	Hi Tom Level
+//Map	_control_	Hi Tom Decay
+//Map	_control_	Hi Tom Tuning
+//Map	_control_	Claves Pan
+//Map	_control_	Claves Level
+//Map	_control_	Claves Tuning
+//Map	_control_	Clap Pan
+//Map	_control_	Clap Level
+//Map	_control_	Clap Decay
+//Map	_control_	Clap Tuning
+//Map	_control_	Cowbell Pan
+//Map	_control_	Cowbell Level
+//Map	_control_	Cowbell Decay
+//Map	_control_	Cowbell Tuning
+//Map	_control_	Rimshot Pan
+//Map	_control_	Rimshot Level
+//Map	_control_	Rimshot Tuning
+//Map	_control_	Maracas Pan
+//Map	_control_	Maracas Level
+//Map	_control_	Maracas Tuning
+//Map	_control_	Cymbal Pan
+//Map	_control_	Cymbal Level
+//Map	_control_	Cymbal Tuning
+//Map	_control_	Cymbal Tone
+//Map	_control_	Cymbal Decay
+//Map	_control_	Open Hat Pan
+//Map	_control_	Open Hat Level
+//Map	_control_	Open Hat Tuning
+//Map	_control_	Open Hat Decay
+//Map	_control_	Closed Hat Pan
+//Map	_control_	Closed Hat Level
+//Map	_control_	Closed Hat Tuning
+//Map	_control_	Trim Bass
+//Map	_control_	Trim Snare
+//Map	_control_	Trim Low Conga
+//Map	_control_	Trim Mid Conga
+//Map	_control_	Trim Hi Conga
+//Map	_control_	Trim Low Tom
+//Map	_control_	Trim Mid Tom
+//Map	_control_	Trim Hi Tom
+//Map	_control_	Trim Claves
+//Map	_control_	Trim Rimshot
+//Map	_control_	Trim Clap
+//Map	_control_	Trim Cowbell
+//Map	_control_	Trim Cymbal
+//Map	_control_	Trim Open Hat
+//Map	_control_	Trim Closed Hat
+//Map	_control_	Trim Maracas
+

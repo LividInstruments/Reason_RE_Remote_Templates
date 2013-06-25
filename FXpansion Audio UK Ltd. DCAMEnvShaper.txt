@@ -1,0 +1,14 @@
+
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.DCAMEnvShaper
+//Map	_control_	Enabled
+//Map	_control_	Listen
+//Map	_control_	Key Input
+//Map	_control_	HP Freq
+//Map	_control_	Saturation
+//Map	_control_	Attack
+//Map	_control_	Bias
+//Map	_control_	Sustain
+//Map	_control_	Input Gain
+//Map	_control_	Output Gain
+//Map	_control_	Mix
+

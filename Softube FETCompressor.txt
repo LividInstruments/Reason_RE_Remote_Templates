@@ -1,0 +1,14 @@
+
+Scope	Softube	com.softube.re.FETCompressor
+//Map	_control_	Enabled
+//Map	_control_	Input
+//Map	_control_	Ratio
+//Map	_control_	Attack
+//Map	_control_	Release
+//Map	_control_	Parallel Inject
+//Map	_control_	Output Normal
+//Map	_control_	External Side Chain
+//Map	_control_	Low Cut
+//Map	_control_	High Cut
+//Map	_control_	Lookahead
+

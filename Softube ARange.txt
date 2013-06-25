@@ -1,0 +1,21 @@
+
+Scope	Softube	com.softube.re.ARange
+//Map	_control_	Enabled
+//Map	_control_	Low Pass 15kHz
+//Map	_control_	Low Pass 12kHz
+//Map	_control_	Low Pass 9kHz
+//Map	_control_	High Frequency
+//Map	_control_	High Mid Frequency
+//Map	_control_	High Gain
+//Map	_control_	High Mid Gain
+//Map	_control_	Low Mid Frequency
+//Map	_control_	Low Frequency
+//Map	_control_	Low Mid Gain
+//Map	_control_	Low Gain
+//Map	_control_	High Pass 100Hz
+//Map	_control_	High Pass 50Hz
+//Map	_control_	High Pass 25Hz
+//Map	_control_	Phase Invert
+//Map	_control_	Saturation
+//Map	_control_	Output Volume
+

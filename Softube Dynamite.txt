@@ -1,0 +1,11 @@
+
+Scope	Softube	com.softube.re.Dynamite
+//Map	_control_	Enabled
+//Map	_control_	Threshold
+//Map	_control_	Release
+//Map	_control_	Det Source
+//Map	_control_	Mode
+//Map	_control_	Det Type
+//Map	_control_	Range
+//Map	_control_	Output
+

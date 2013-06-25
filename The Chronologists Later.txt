@@ -1,0 +1,73 @@
+
+Scope	The Chronologists	com.thechronologists.Later
+//Map	_control_	Delay time Units switch 1
+//Map	_control_	Delay time Note values 1
+//Map	_control_	Delay time Cv samples 1
+//Map	_control_	Feedback 1
+//Map	_control_	Input Mix 1
+//Map	_control_	Merge Mix 1
+//Map	_control_	Delay Mix 1
+//Map	_control_	Delay time Units switch 2
+//Map	_control_	Delay time Note values 2
+//Map	_control_	Delay time Cv samples 2
+//Map	_control_	Feedback 2
+//Map	_control_	Input Mix 2
+//Map	_control_	Merge Mix 2
+//Map	_control_	Delay Mix 2
+//Map	_control_	Delay time Units switch 3
+//Map	_control_	Delay time Note values 3
+//Map	_control_	Delay time Cv samples 3
+//Map	_control_	Feedback 3
+//Map	_control_	Input Mix 3
+//Map	_control_	Merge Mix 3
+//Map	_control_	Delay Mix 3
+//Map	_control_	Delay time Units switch 4
+//Map	_control_	Delay time Note values 4
+//Map	_control_	Delay time Cv samples 4
+//Map	_control_	Feedback 4
+//Map	_control_	Input Mix 4
+//Map	_control_	Merge Mix 4
+//Map	_control_	Delay Mix 4
+//Map	_control_	Delay time Units switch 5
+//Map	_control_	Delay time Note values 5
+//Map	_control_	Delay time Cv samples 5
+//Map	_control_	Feedback 5
+//Map	_control_	Input Mix 5
+//Map	_control_	Merge Mix 5
+//Map	_control_	Delay Mix 5
+//Map	_control_	Delay time Units switch 6
+//Map	_control_	Delay time Note values 6
+//Map	_control_	Delay time Cv samples 6
+//Map	_control_	Feedback 6
+//Map	_control_	Input Mix 6
+//Map	_control_	Merge Mix 6
+//Map	_control_	Delay Mix 6
+//Map	_control_	Delay time Units switch 7
+//Map	_control_	Delay time Note values 7
+//Map	_control_	Delay time Cv samples 7
+//Map	_control_	Feedback 7
+//Map	_control_	Input Mix 7
+//Map	_control_	Merge Mix 7
+//Map	_control_	Delay Mix 7
+//Map	_control_	Delay time Units switch 8
+//Map	_control_	Delay time Note values 8
+//Map	_control_	Delay time Cv samples 8
+//Map	_control_	Feedback 8
+//Map	_control_	Input Mix 8
+//Map	_control_	Merge Mix 8
+//Map	_control_	Delay Mix 8
+//Map	_control_	Delay time Units switch 9
+//Map	_control_	Delay time Note values 9
+//Map	_control_	Delay time Cv samples 9
+//Map	_control_	Feedback 9
+//Map	_control_	Input Mix 9
+//Map	_control_	Merge Mix 9
+//Map	_control_	Delay Mix 9
+//Map	_control_	Delay time Units switch 10
+//Map	_control_	Delay time Note values 10
+//Map	_control_	Delay time Cv samples 10
+//Map	_control_	Feedback 10
+//Map	_control_	Input Mix 10
+//Map	_control_	Merge Mix 10
+//Map	_control_	Delay Mix 10
+

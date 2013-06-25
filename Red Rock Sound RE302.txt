@@ -1,0 +1,39 @@
+
+Scope	Red Rock Sound	ru.redrocksound.RE302
+//Map	_control_	Enabled
+//Map	_control_	Band1
+//Map	_control_	Band2
+//Map	_control_	Band3
+//Map	_control_	Band4
+//Map	_control_	Band5
+//Map	_control_	Band6
+//Map	_control_	Band7
+//Map	_control_	Band8
+//Map	_control_	Band9
+//Map	_control_	Band10
+//Map	_control_	Band11
+//Map	_control_	Band12
+//Map	_control_	Band13
+//Map	_control_	Band14
+//Map	_control_	Band15
+//Map	_control_	Band16
+//Map	_control_	Band17
+//Map	_control_	Band18
+//Map	_control_	Band19
+//Map	_control_	Band20
+//Map	_control_	Band21
+//Map	_control_	Band22
+//Map	_control_	Band23
+//Map	_control_	Band24
+//Map	_control_	Band25
+//Map	_control_	Band26
+//Map	_control_	Band27
+//Map	_control_	Band28
+//Map	_control_	Band29
+//Map	_control_	Band30
+//Map	_control_	Band31
+//Map	_control_	Band32
+//Map	_control_	scale
+//Map	_control_	HPF
+//Map	_control_	Gain
+

@@ -1,0 +1,25 @@
+
+Scope	Jiggery Pokery	com.jiggerypokery.Miranda
+//Map	_control_	Gain
+//Map	_control_	Stripe
+//Map	_control_	Ch1Delay
+//Map	_control_	Ch1a
+//Map	_control_	Ch1b
+//Map	_control_	Ch1c
+//Map	_control_	Ch1d
+//Map	_control_	Ch2Delay
+//Map	_control_	Ch2e
+//Map	_control_	Ch2f
+//Map	_control_	Ch2g
+//Map	_control_	Ch2h
+//Map	_control_	Ch3Delay
+//Map	_control_	Ch3i
+//Map	_control_	Ch3j
+//Map	_control_	Ch3k
+//Map	_control_	Ch3l
+//Map	_control_	Ch4Delay
+//Map	_control_	Ch4m
+//Map	_control_	Ch4n
+//Map	_control_	Ch4o
+//Map	_control_	Ch4p
+

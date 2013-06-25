@@ -1,0 +1,13 @@
+
+Scope	Sugar Bytes	com.sugarbytes.PitchDelay
+//Map	_control_	Enabled
+//Map	_control_	delayleftsync
+//Map	_control_	delayleftsynctp
+//Map	_control_	delayleftfree
+//Map	_control_	delayrightsync
+//Map	_control_	delayrightsynctp
+//Map	_control_	delayrightfree
+//Map	_control_	Feedback
+//Map	_control_	Pitch
+//Map	_control_	drywet
+

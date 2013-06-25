@@ -1,0 +1,26 @@
+
+Scope	Deadman Audio Devices	com.deadmanaudiodevices.getlayedvoltage
+//Map	_control_	Delay Time
+//Map	_control_	Delay Time (Synced)
+//Map	_control_	Delay Sync
+//Map	_control_	Octave Correction
+//Map	_control_	Note 1 Out Direct
+//Map	_control_	Note 1 Out 2
+//Map	_control_	Note 1 Out 3
+//Map	_control_	Note 1 Out 4
+//Map	_control_	Note 1 Out 5
+//Map	_control_	Note 1 Out 6
+//Map	_control_	Note 1 Out 7
+//Map	_control_	Note 1 Out 8
+//Map	_control_	Note 1 Out 9
+//Map	_control_	Note 2 Out Direct
+//Map	_control_	Note 2 Out 2
+//Map	_control_	Note 2 Out 3
+//Map	_control_	Note 2 Out 4
+//Map	_control_	Note 2 Out 5
+//Map	_control_	Note 2 Out 6
+//Map	_control_	Note 2 Out 7
+//Map	_control_	Note 2 Out 8
+//Map	_control_	Note 2 Out 9
+//Map	_control_	Chain To Next Delay
+

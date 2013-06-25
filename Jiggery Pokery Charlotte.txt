@@ -1,0 +1,70 @@
+
+Scope	Jiggery Pokery	com.jiggerypokery.Charlotte
+//Map	_control_	Voices
+//Map	_control_	Priority
+//Map	_control_	Gate Mode
+//Map	_control_	Tempo Sync
+//Map	_control_	Trigger Mode
+//Map	_control_	Loop
+//Map	_control_	Stage 1 Time ms
+//Map	_control_	Stage 1 Time sync
+//Map	_control_	Stage 1 Time Level
+//Map	_control_	Stage 1 Time Curve
+//Map	_control_	Stage 1 Vel Mod Time
+//Map	_control_	Stage 1 Vel Mod Level
+//Map	_control_	Stage 2 Time ms
+//Map	_control_	Stage 2 Time sync
+//Map	_control_	Stage 2 Time Level
+//Map	_control_	Stage 2 Time Curve
+//Map	_control_	Stage 2 Vel Mod Time
+//Map	_control_	Stage 2 Vel Mod Level
+//Map	_control_	Stage 3 Time ms
+//Map	_control_	Stage 3 Time sync
+//Map	_control_	Stage 3 Time Level
+//Map	_control_	Stage 3 Time Curve
+//Map	_control_	Stage 3 Vel Mod Time
+//Map	_control_	Stage 3 Vel Mod Level
+//Map	_control_	Stage 4 Time ms
+//Map	_control_	Stage 4 Time sync
+//Map	_control_	Stage 4 Time Level
+//Map	_control_	Stage 4 Time Curve
+//Map	_control_	Stage 4 Vel Mod Time
+//Map	_control_	Stage 4 Vel Mod Level
+//Map	_control_	Stage 5 Time ms
+//Map	_control_	Stage 5 Time sync
+//Map	_control_	Stage 5 Time Level
+//Map	_control_	Stage 5 Time Curve
+//Map	_control_	Stage 5 Vel Mod Time
+//Map	_control_	Stage 5 Vel Mod Level
+//Map	_control_	Stage 6 Time ms
+//Map	_control_	Stage 6 Time sync
+//Map	_control_	Stage 6 Vel Mod Time
+//Map	_control_	Stage 6 Vel Mod Level
+//Map	_control_	Stage 7 Time ms
+//Map	_control_	Stage 7 Time sync
+//Map	_control_	Stage 7 Time Level
+//Map	_control_	Stage 7 Time Curve
+//Map	_control_	Stage 7 Vel Mod Time
+//Map	_control_	Stage 7 Vel Mod Level
+//Map	_control_	Stage 8 Time ms
+//Map	_control_	Stage 8 Time sync
+//Map	_control_	Stage 8 Time Level
+//Map	_control_	Stage 8 Time Curve
+//Map	_control_	Stage 8 Vel Mod Time
+//Map	_control_	Stage 8 Vel Mod Level
+//Map	_control_	Stage 9 Time ms
+//Map	_control_	Stage 9 Time sync
+//Map	_control_	Stage 9 Time Level
+//Map	_control_	Stage 9 Time Curve
+//Map	_control_	Stage 9 Vel Mod Time
+//Map	_control_	Stage 9 Vel Mod Level
+//Map	_control_	Key On
+//Map	_control_	Aftertouch
+//Map	_control_	Key Off
+//Map	_control_	Left Env Audio Scale
+//Map	_control_	Right Env Audio Scale
+//Map	_control_	Left Env Audio Offset ms
+//Map	_control_	Left Env Audio Offset sync
+//Map	_control_	Right Env Audio Offset ms
+//Map	_control_	Right Env Audio Offset sync
+

@@ -1,0 +1,9 @@
+
+Scope	kiloHearts	com.kilohearts.Faturator
+//Map	_control_	Enabled
+//Map	_control_	Drive
+//Map	_control_	Fuzz
+//Map	_control_	Color
+//Map	_control_	Mix
+//Map	_control_	Stereo Turbo
+

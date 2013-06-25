@@ -1,0 +1,17 @@
+
+Scope	DLD Technology	com.dldtechnology.dr4
+//Map	_control_	Pattern 1
+//Map	_control_	Offset 1
+//Map	_control_	Trigger 1
+//Map	_control_	Pattern 2
+//Map	_control_	Offset 2
+//Map	_control_	Trigger 2
+//Map	_control_	Pattern 3
+//Map	_control_	Offset 3
+//Map	_control_	Trigger 3
+//Map	_control_	Pattern 4
+//Map	_control_	Offset 4
+//Map	_control_	Trigger 4
+//Map	_control_	Swing
+//Map	_control_	Run
+

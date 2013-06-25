@@ -1,0 +1,42 @@
+
+Scope	Ochen K.	com.ochenk.PDT
+//Map	_control_	propertyname Shuffle
+//Map	_control_	Pause Button
+//Map	_control_	Linear Button
+//Map	_control_	Seed Dial
+//Map	_control_	Probability Ch 1 Step 1
+//Map	_control_	Probability Ch 1 Step 2
+//Map	_control_	Probability Ch 1 Step 3
+//Map	_control_	Probability Ch 1 Step 4
+//Map	_control_	Probability Ch 1 Step 5
+//Map	_control_	Probability Ch 1 Step 6
+//Map	_control_	Probability Ch 1 Step 7
+//Map	_control_	Probability Ch 1 Step 8
+//Map	_control_	Probability Ch 1 Step 9
+//Map	_control_	Probability Ch 1 Step 10
+//Map	_control_	Probability Ch 1 Step 11
+//Map	_control_	Probability Ch 1 Step 12
+//Map	_control_	Probability Ch 1 Step 13
+//Map	_control_	Probability Ch 1 Step 14
+//Map	_control_	Probability Ch 1 Step 15
+//Map	_control_	Probability Ch 1 Step 16
+//Map	_control_	Probability Ch 2 Step 1
+//Map	_control_	Probability Ch 2 Step 2
+//Map	_control_	Probability Ch 2 Step 3
+//Map	_control_	Probability Ch 2 Step 4
+//Map	_control_	Probability Ch 2 Step 5
+//Map	_control_	Probability Ch 2 Step 6
+//Map	_control_	Probability Ch 2 Step 7
+//Map	_control_	Probability Ch 2 Step 8
+//Map	_control_	Probability Ch 2 Step 9
+//Map	_control_	Probability Ch 2 Step 10
+//Map	_control_	Probability Ch 2 Step 11
+//Map	_control_	Probability Ch 2 Step 12
+//Map	_control_	Probability Ch 2 Step 13
+//Map	_control_	Probability Ch 2 Step 14
+//Map	_control_	Probability Ch 2 Step 15
+//Map	_control_	Probability Ch 2 Step 16
+//Map	_control_	Gate Dial
+//Map	_control_	Steps Dial
+//Map	_control_	Speed Dial
+

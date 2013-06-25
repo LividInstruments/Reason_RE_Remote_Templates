@@ -1,0 +1,77 @@
+
+Scope	Rob Papen	com.robpapen.SubBoomBassRE
+//Map	_control_	Main Volume
+//Map	_control_	Panning
+//Map	_control_	Osc 1 Type
+//Map	_control_	Osc 1 On
+//Map	_control_	Osc 1 Output
+//Map	_control_	Osc 1 Volume
+//Map	_control_	Osc 1 Symmetry
+//Map	_control_	Osc 1 Sub-Osc Volume (Sine / Square)
+//Map	_control_	Osc 1 Octave
+//Map	_control_	Osc 1 Semi
+//Map	_control_	Osc 1 Fine
+//Map	_control_	Osc 1 PWM Amount
+//Map	_control_	Osc 1 PWM Speed
+//Map	_control_	Osc 2 Type
+//Map	_control_	Osc 2 On
+//Map	_control_	Osc 2 Volume
+//Map	_control_	Osc 2 Symmetry
+//Map	_control_	Osc 2 Sub-Osc Volume (Sine / Square)
+//Map	_control_	Osc 2 Octave
+//Map	_control_	Osc 2 Semi
+//Map	_control_	Osc 2 Fine
+//Map	_control_	Osc 2 PWM Amount
+//Map	_control_	Osc 2 PWM Speed
+//Map	_control_	Osc 2 FM Amount
+//Map	_control_	Filter 1 Type
+//Map	_control_	Filter 2 Type
+//Map	_control_	Filter 1 Frequency
+//Map	_control_	Filter 1 Resonance
+//Map	_control_	Filter 1 Vowel
+//Map	_control_	Filter 1 Distortion
+//Map	_control_	Filter 1 Key Tracking
+//Map	_control_	Velocity > Filter Frequency
+//Map	_control_	Mod Wheel > Filter 1 Frequency
+//Map	_control_	Filter 1 LFO Amount
+//Map	_control_	Filter 1 Envelope Amount
+//Map	_control_	Filter 1 Envelope Attack
+//Map	_control_	Filter 1 Envelope Decay
+//Map	_control_	Filter 1 Envelope Sustain
+//Map	_control_	Filter 1 Envelope Fade
+//Map	_control_	Filter 1 Envelope Release
+//Map	_control_	Filter 1 LFO Speed (ms)
+//Map	_control_	Filter 1 LFO Speed (qb)
+//Map	_control_	Filter 1 LFO Amount Control
+//Map	_control_	Filter 2 Frequency
+//Map	_control_	Filter 2 Resonance
+//Map	_control_	Unison Mode
+//Map	_control_	Port Speed
+//Map	_control_	Port Mode
+//Map	_control_	Volume Envelope Attack
+//Map	_control_	Volume Envelope Decay
+//Map	_control_	Volume Envelope Sustain
+//Map	_control_	Volume Envelope Fade
+//Map	_control_	Volume Envelope Release
+//Map	_control_	Velocity > Volume
+//Map	_control_	Pitch LFO Speed (ms)
+//Map	_control_	Pitch LFO Speed (qb)
+//Map	_control_	Pitch LFO Amount
+//Map	_control_	Free Envelope Attack
+//Map	_control_	Free Envelope Decay
+//Map	_control_	Free Envelope Sustain
+//Map	_control_	Free Envelope Release
+//Map	_control_	Free Envelope Fade
+//Map	_control_	Free Envelope Amount
+//Map	_control_	Free LFO Speed (ms)
+//Map	_control_	Free LFO Speed (qb)
+//Map	_control_	Free LFO Amount
+//Map	_control_	FX 1 On
+//Map	_control_	FX 1 Pan
+//Map	_control_	FX 2 On
+//Map	_control_	FX 2 Pan
+//Map	_control_	Unison Amount
+//Map	_control_	Decay / Release Shape
+//Map	_control_	Play Mode
+//Map	_control_	Osc 2 FM Mode
+

@@ -1,0 +1,16 @@
+
+Scope	Ochen K.	com.ochenk.ASeriesModularSynth2
+//Map	_control_	Poly Count
+//Map	_control_	Poly Assign Mode
+//Map	_control_	Noise Color
+//Map	_control_	Noise Level
+//Map	_control_	VCF High Pass
+//Map	_control_	VCF Low Pass
+//Map	_control_	Mixer 1
+//Map	_control_	Mixer 2
+//Map	_control_	Mixer 3
+//Map	_control_	Mixer 4
+//Map	_control_	Mixer 5
+//Map	_control_	Mixer 6
+//Map	_control_	Mixer Out
+

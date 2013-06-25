@@ -1,0 +1,11 @@
+
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.DCAMChanComp
+//Map	_control_	Enabled
+//Map	_control_	Input Gain
+//Map	_control_	Attack
+//Map	_control_	Release
+//Map	_control_	Ratio
+//Map	_control_	Bias
+//Map	_control_	Mix
+//Map	_control_	Output Gain
+

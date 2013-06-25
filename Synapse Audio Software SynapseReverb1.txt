@@ -1,0 +1,12 @@
+
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseReverb1
+//Map	_control_	Enabled
+//Map	_control_	Reverb Time
+//Map	_control_	Pre-Delay
+//Map	_control_	HF-Damp
+//Map	_control_	Low Cut
+//Map	_control_	High Cut
+//Map	_control_	Mod Switch Off/On
+//Map	_control_	Mod Amount
+//Map	_control_	Dry/Wet
+

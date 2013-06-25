@@ -1,0 +1,99 @@
+
+Scope	KORG	jp.co.korg.MonoPoly
+//Map	_control_	ARP Latch
+//Map	_control_	Arp Mode
+//Map	_control_	ARP Range
+//Map	_control_	Arpeggio
+//Map	_control_	Detune
+//Map	_control_	Key Assign Hold
+//Map	_control_	Key Assign Mode
+//Map	_control_	Master Panpot
+//Map	_control_	Master Tune
+//Map	_control_	Master Volume
+//Map	_control_	MG 1 Base Note
+//Map	_control_	MG 1 Frequency
+//Map	_control_	MG 1 Key Sync
+//Map	_control_	MG 1 Tempo Sync
+//Map	_control_	MG 1 Times
+//Map	_control_	MG 1 Waveform
+//Map	_control_	MG 2 Base Note
+//Map	_control_	MG 2 Frequency
+//Map	_control_	MG 2 Key Sync
+//Map	_control_	MG 2 Tempo Sync
+//Map	_control_	MG 2 Times
+//Map	_control_	MG 2 Waveform
+//Map	_control_	Noise
+//Map	_control_	Output Pan
+//Map	_control_	Output Volume
+//Map	_control_	Pitch Bend Range
+//Map	_control_	Portamento
+//Map	_control_	PW Width
+//Map	_control_	PWM Intensity
+//Map	_control_	PWM Source
+//Map	_control_	PWM Src Bipolar
+//Map	_control_	Transpose
+//Map	_control_	VCA EG Attack
+//Map	_control_	VCA EG Decay
+//Map	_control_	VCA EG Release
+//Map	_control_	VCA EG Sustain
+//Map	_control_	VCF Cutoff
+//Map	_control_	VCF EG Attack
+//Map	_control_	VCF EG Decay
+//Map	_control_	VCF EG Intensity
+//Map	_control_	VCF EG Release
+//Map	_control_	VCF EG Sustain
+//Map	_control_	VCF Kbd Track
+//Map	_control_	VCF Resonance
+//Map	_control_	VCO 1 Level
+//Map	_control_	VCO 1 Semitone
+//Map	_control_	VCO 1 Wave Form
+//Map	_control_	VCO 2 Level
+//Map	_control_	VCO 2 Semitone
+//Map	_control_	VCO 2 Tune
+//Map	_control_	VCO 2 Wave Form
+//Map	_control_	VCO 3 Level
+//Map	_control_	VCO 3 Semitone
+//Map	_control_	VCO 3 Tune
+//Map	_control_	VCO 3 Wave Form
+//Map	_control_	VCO 4 Level
+//Map	_control_	VCO 4 Semitone
+//Map	_control_	VCO 4 Tune
+//Map	_control_	VCO 4 Wave Form
+//Map	_control_	VCO Mod Freq Mod Bipolar
+//Map	_control_	VCO Mod Freq Mod Int
+//Map	_control_	VCO Mod Freq Mod Source
+//Map	_control_	VCO Mod Mode
+//Map	_control_	VCO Mod Type
+//Map	_control_	VCO Mod X-Mod Intensity
+//Map	_control_	VCO Modulation
+//Map	_control_	Virtual Patch Destination 1
+//Map	_control_	Virtual Patch Destination 2
+//Map	_control_	Virtual Patch Destination 3
+//Map	_control_	Virtual Patch Destination 4
+//Map	_control_	Virtual Patch Destination 5
+//Map	_control_	Virtual Patch Destination 6
+//Map	_control_	Virtual Patch Destination 7
+//Map	_control_	Virtual Patch Destination 8
+//Map	_control_	Virtual Patch Intensity 1
+//Map	_control_	Virtual Patch Intensity 2
+//Map	_control_	Virtual Patch Intensity 3
+//Map	_control_	Virtual Patch Intensity 4
+//Map	_control_	Virtual Patch Intensity 5
+//Map	_control_	Virtual Patch Intensity 6
+//Map	_control_	Virtual Patch Intensity 7
+//Map	_control_	Virtual Patch Intensity 8
+//Map	_control_	Virtual Patch Source 1
+//Map	_control_	Virtual Patch Source 2
+//Map	_control_	Virtual Patch Source 3
+//Map	_control_	Virtual Patch Source 4
+//Map	_control_	Virtual Patch Source 5
+//Map	_control_	Virtual Patch Source 6
+//Map	_control_	Virtual Patch Source 7
+//Map	_control_	Virtual Patch Source 8
+//Map	_control_	Voices Analog
+//Map	_control_	Total Voices
+//Map	_control_	Voices Trigger Mode
+//Map	_control_	Unison Voices
+//Map	_control_	Voices Unison Detune
+//Map	_control_	Voices Unison Spread
+

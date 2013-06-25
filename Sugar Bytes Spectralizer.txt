@@ -1,0 +1,11 @@
+
+Scope	Sugar Bytes	com.sugarbytes.Spectralizer
+//Map	_control_	Enabled
+//Map	_control_	delaytonal
+//Map	_control_	DelaySync
+//Map	_control_	delayfree
+//Map	_control_	Freq
+//Map	_control_	reso
+//Map	_control_	bands
+//Map	_control_	drywet
+

@@ -1,0 +1,9 @@
+
+Scope	Cakewalk	com.cakewalk.RE2A
+//Map	_control_	Enabled
+//Map	_control_	Compress/Limit
+//Map	_control_	OutputGain
+//Map	_control_	PeakReduction
+//Map	_control_	MeterSetting
+//Map	_control_	R37
+

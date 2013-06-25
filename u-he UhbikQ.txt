@@ -1,0 +1,16 @@
+
+Scope	u-he	com.uheplugins.UhbikQ
+//Map	_control_	Enabled
+//Map	_control_	LowFreq
+//Map	_control_	LowGain
+//Map	_control_	LowType
+//Map	_control_	HiFreq
+//Map	_control_	HiGain
+//Map	_control_	HiType
+//Map	_control_	BottomGain
+//Map	_control_	BottomFreq
+//Map	_control_	LoCut
+//Map	_control_	HiCut
+//Map	_control_	Gain
+//Map	_control_	GainType
+

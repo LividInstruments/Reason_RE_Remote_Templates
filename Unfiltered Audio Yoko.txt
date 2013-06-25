@@ -1,0 +1,14 @@
+
+Scope	Unfiltered Audio	com.unfilteredaudio.Yoko
+//Map	_control_	Enabled
+//Map	_control_	Volume
+//Map	_control_	Low Gain
+//Map	_control_	Low Solo
+//Map	_control_	Low Cutoff
+//Map	_control_	Mid Gain
+//Map	_control_	Mid Solo
+//Map	_control_	High Cutoff
+//Map	_control_	High Gain
+//Map	_control_	High Solo
+//Map	_control_	Slope Amount
+

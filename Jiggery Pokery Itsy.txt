@@ -1,0 +1,9 @@
+
+Scope	Jiggery Pokery	com.jiggerypokery.Itsy
+//Map	_control_	Enabled
+//Map	_control_	StereoFlip
+//Map	_control_	SpreadMod
+//Map	_control_	StereoSpread
+//Map	_control_	InvertLeft
+//Map	_control_	InvertRight
+

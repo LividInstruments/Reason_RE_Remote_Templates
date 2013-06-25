@@ -1,0 +1,15 @@
+
+Scope	Unfiltered Audio	com.unfilteredaudio.G8Gate
+//Map	_control_	Enabled
+//Map	_control_	Hysteresis
+//Map	_control_	Lookahead
+//Map	_control_	Flip
+//Map	_control_	rmsPeak
+//Map	_control_	PreGain
+//Map	_control_	Threshold
+//Map	_control_	Attack
+//Map	_control_	Hold
+//Map	_control_	Release
+//Map	_control_	Reduction
+//Map	_control_	PostGain
+

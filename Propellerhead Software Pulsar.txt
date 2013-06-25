@@ -1,0 +1,33 @@
+
+Scope	Propellerhead Software	se.propellerheads.Pulsar
+//Map	_control_	Attack
+//Map	_control_	Keyboard Track
+//Map	_control_	LFO1 Env Level
+//Map	_control_	LFO1 Env Rate
+//Map	_control_	LFO1 Env Sync
+//Map	_control_	LFO1 Lag
+//Map	_control_	LFO1 Level
+//Map	_control_	LFO1 Phase
+//Map	_control_	LFO1 Rate Free
+//Map	_control_	LFO1 Rate Synced
+//Map	_control_	LFO1 Shuffle
+//Map	_control_	LFO1 Tempo Sync
+//Map	_control_	LFO1 Waveform
+//Map	_control_	LFO2 Enabled
+//Map	_control_	LFO2 Env Level
+//Map	_control_	LFO2 Env Rate
+//Map	_control_	LFO2 Lag
+//Map	_control_	LFO2 Level
+//Map	_control_	LFO2 Phase
+//Map	_control_	LFO2 Rate Free
+//Map	_control_	LFO2 Rate Synced
+//Map	_control_	LFO2 Shuffle
+//Map	_control_	LFO2 Tempo Sync
+//Map	_control_	LFO2 to LFO1 Level
+//Map	_control_	LFO2 to LFO1 Rate
+//Map	_control_	LFO2 Triggers Envelope
+//Map	_control_	LFO2 Waveform
+//Map	_control_	Release
+//Map	_control_	Sync LFO1 to LFO2
+//Map	_control_	Trig
+

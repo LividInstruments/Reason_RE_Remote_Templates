@@ -1,0 +1,55 @@
+
+Scope	Ochen K.	com.ochenk.GlitchEffect
+//Map	_control_	Enabled
+//Map	_control_	Randomize Effect Resolutions Knob
+//Map	_control_	Random Resolution Knob
+//Map	_control_	Random Enable Button
+//Map	_control_	Shuffle Probability Knob
+//Map	_control_	Shuffle Resolution Knob Button
+//Map	_control_	Shuffle Enable Button
+//Map	_control_	Stutter Probability Knob
+//Map	_control_	Stutter Resolution Knob
+//Map	_control_	Stutter Enable Button
+//Map	_control_	Gate Probability Knob
+//Map	_control_	Gate Resolution Knob
+//Map	_control_	Gate Enable Button
+//Map	_control_	Tape Stop Probability Knob
+//Map	_control_	Tape Stop Duration Knob
+//Map	_control_	Tape Stop Enable Button
+//Map	_control_	Reverse Probability Knob
+//Map	_control_	Reverse Resolution Knob
+//Map	_control_	Reverse Enable Button
+//Map	_control_	Click Knob
+//Map	_control_	Random Seed Knob
+//Map	_control_	External Effect 1 Probability Knob
+//Map	_control_	External Effect 1 Mix Knob
+//Map	_control_	External Effect 1 Enable Button
+//Map	_control_	External Effect 2 Probability Knob
+//Map	_control_	External Effect 2 Mix Knob
+//Map	_control_	External Effect 2 Enable Button
+//Map	_control_	External Effect 3 Probability Knob
+//Map	_control_	External Effect 3 Mix Knob
+//Map	_control_	External Effect 3 Enable Button
+//Map	_control_	External Effect 4 Probability Knob
+//Map	_control_	External Effect 4 Mix Knob
+//Map	_control_	External Effect 4 Enable Button
+//Map	_control_	Shuffle Resolution Free Knob
+//Map	_control_	Stutter Resolution Free Knob
+//Map	_control_	Gate Resolution Free Knob
+//Map	_control_	Reverse Resolution Free Knob
+//Map	_control_	Shuffle Resolution Tempo Sync
+//Map	_control_	Stutter Resolution Tempo Sync
+//Map	_control_	Gate Resolution Tempo Sync
+//Map	_control_	Reverse Resolution Tempo Sync
+//Map	_control_	Shuffle Volume Knob
+//Map	_control_	Stutter Volume Knob
+//Map	_control_	Gate Volume Knob
+//Map	_control_	Tape Stop Volume Knob
+//Map	_control_	Reverse Volume Knob
+//Map	_control_	External Effect 1 Volume Knob
+//Map	_control_	External Effect 2 Volume Knob
+//Map	_control_	External Effect 3 Volume Knob
+//Map	_control_	External Effect 4 Volume Knob
+//Map	_control_	Clear All Buffers
+//Map	_control_	Randomize Effect Include Triplets
+

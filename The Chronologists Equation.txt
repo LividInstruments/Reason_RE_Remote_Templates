@@ -1,0 +1,20 @@
+
+Scope	The Chronologists	com.thechronologists.Equation
+//Map	_control_	Term 1
+//Map	_control_	Unary Operator 1
+//Map	_control_	Operation 1
+//Map	_control_	Term 2
+//Map	_control_	Unary Operator 2
+//Map	_control_	Operation 2
+//Map	_control_	Term 3
+//Map	_control_	Unary Operator 3
+//Map	_control_	Operation 3
+//Map	_control_	Term 4
+//Map	_control_	Unary Operator 4
+//Map	_control_	Unary Operator Final
+//Map	_control_	Bracket Select 1
+//Map	_control_	Bracket Select 2
+//Map	_control_	Bracket Select 3
+//Map	_control_	Cv Interpolation
+//Map	_control_	Display Status
+

@@ -1,0 +1,7 @@
+
+Scope	Red Rock Sound	ru.redrocksound.Measure
+//Map	_control_	Peak Mode
+//Map	_control_	Reset Overs
+//Map	_control_	Display Mode
+//Map	_control_	Reset Phase
+

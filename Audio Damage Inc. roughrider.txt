@@ -1,0 +1,10 @@
+
+Scope	Audio Damage Inc.	com.audiodamage.roughrider
+//Map	_control_	Enabled
+//Map	_control_	Ratio
+//Map	_control_	Attack
+//Map	_control_	Release
+//Map	_control_	Sensitivity
+//Map	_control_	Makeup
+//Map	_control_	Mix
+

@@ -1,0 +1,14 @@
+
+Scope	LaboratoriaIT.RU LLC	ru.laboratoriait.Filter
+//Map	_control_	Enabled
+//Map	_control_	Mode
+//Map	_control_	Low Frequency
+//Map	_control_	Low Resonance
+//Map	_control_	Low Slope
+//Map	_control_	Dual Frequency
+//Map	_control_	High Frequency
+//Map	_control_	High Resonance
+//Map	_control_	High Slope
+//Map	_control_	Limiter Mode
+//Map	_control_	Gain
+

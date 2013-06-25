@@ -1,0 +1,26 @@
+
+Scope	omino	com.omino.wbl5515
+//Map	_control_	playStop
+//Map	_control_	extLevelA
+//Map	_control_	frequencyA1
+//Map	_control_	lfoRateA1
+//Map	_control_	lfoDepthA1
+//Map	_control_	frequencyA2
+//Map	_control_	lfoRateA2
+//Map	_control_	lfoDepthA2
+//Map	_control_	frequencyA3
+//Map	_control_	lfoRateA3
+//Map	_control_	lfoDepthA3
+//Map	_control_	outLevelA
+//Map	_control_	extLevelB
+//Map	_control_	frequencyB1
+//Map	_control_	lfoRateB1
+//Map	_control_	lfoDepthB1
+//Map	_control_	frequencyB2
+//Map	_control_	lfoRateB2
+//Map	_control_	lfoDepthB2
+//Map	_control_	frequencyB3
+//Map	_control_	lfoRateB3
+//Map	_control_	lfoDepthB3
+//Map	_control_	outLevelB
+

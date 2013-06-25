@@ -1,0 +1,5 @@
+
+Scope	MGSoft Audio Software	com.mikegazzaruso.Unifylter
+//Map	_control_	Enabled
+//Map	_control_	Amount
+

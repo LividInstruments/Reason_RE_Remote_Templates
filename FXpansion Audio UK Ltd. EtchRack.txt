@@ -1,0 +1,64 @@
+
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.EtchRack
+//Map	_control_	Enabled
+//Map	_control_	Distortion Pre/Post
+//Map	_control_	Distortion Power
+//Map	_control_	Distortion Mode
+//Map	_control_	Distortion Drive
+//Map	_control_	Key Track
+//Map	_control_	Filter 1 Active
+//Map	_control_	Filter 1 Type
+//Map	_control_	Filter 1 FM Input
+//Map	_control_	Filter 1 Input
+//Map	_control_	Filter 1 Freq
+//Map	_control_	Filter 1 FM
+//Map	_control_	Filter 1 Rez
+//Map	_control_	Filter 1 Pan
+//Map	_control_	Filter Link
+//Map	_control_	Filter Parallel
+//Map	_control_	Filter 2 Active
+//Map	_control_	Filter 2 Type
+//Map	_control_	Filter 2 FM Input
+//Map	_control_	Filter 2 Input
+//Map	_control_	Filter 2 Freq
+//Map	_control_	Filter 2 Offset
+//Map	_control_	Filter 2 FM
+//Map	_control_	Filter 2 Rez
+//Map	_control_	Filter 2 Pan
+//Map	_control_	Filter 1 Output
+//Map	_control_	Filter 2 Output
+//Map	_control_	Compressor Compression
+//Map	_control_	Compressor Hard/Soft
+//Map	_control_	Output Level
+//Map	_control_	Output Mix
+//Map	_control_	Envelope Velocity
+//Map	_control_	Envelope Attack
+//Map	_control_	Envelope Hold
+//Map	_control_	Envelope Decay
+//Map	_control_	Envelope Curve
+//Map	_control_	Envelope Gain
+//Map	_control_	LFO 1 Sync
+//Map	_control_	LFO 1 Shape
+//Map	_control_	LFO 1 Hertz
+//Map	_control_	LFO 1 Beats
+//Map	_control_	LFO 1 Morph
+//Map	_control_	LFO 1 Phaze
+//Map	_control_	LFO 1 Gain
+//Map	_control_	LFO 2 Sync
+//Map	_control_	LFO 2 Shape
+//Map	_control_	LFO 2 Hertz
+//Map	_control_	LFO 2 Beats
+//Map	_control_	LFO 2 Morph
+//Map	_control_	LFO 2 Phaze
+//Map	_control_	LFO 2 Gain
+//Map	_control_	Envelope Follower HPF
+//Map	_control_	Envelope Follower Attack
+//Map	_control_	Envelope Follower Decay
+//Map	_control_	Envelope Follower Level
+//Map	_control_	Envelope Follower Gain
+//Map	_control_	S&H Sync
+//Map	_control_	S&H Hertz
+//Map	_control_	S&H Beats
+//Map	_control_	S&H Slew
+//Map	_control_	S&H Gain
+

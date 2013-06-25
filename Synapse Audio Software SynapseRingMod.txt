@@ -1,0 +1,10 @@
+
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseRingMod
+//Map	_control_	Enabled
+//Map	_control_	Input Drive
+//Map	_control_	Sidechain Solo
+//Map	_control_	Modulator Frequency
+//Map	_control_	Modulator waveform
+//Map	_control_	Frequency Range
+//Map	_control_	Output Mix
+

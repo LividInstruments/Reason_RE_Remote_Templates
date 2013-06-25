@@ -1,0 +1,68 @@
+
+Scope	GForce Software	com.gforcesoftware.ReTron
+//Map	_control_	Filter Env Amount A
+//Map	_control_	Filter Env Attack A
+//Map	_control_	Filter Env Decay A
+//Map	_control_	Filter Env Sustain A
+//Map	_control_	Filter Env Release A
+//Map	_control_	Amp Env Attack A
+//Map	_control_	Amp Env Decay A
+//Map	_control_	Amp Env Sustain A
+//Map	_control_	Amp Env Release A
+//Map	_control_	Filter Env Amount B
+//Map	_control_	Filter Env Attack B
+//Map	_control_	Filter Env Decay B
+//Map	_control_	Filter Env Sustain B
+//Map	_control_	Filter Env Release B
+//Map	_control_	Amp Env Attack B
+//Map	_control_	Amp Env Decay B
+//Map	_control_	Amp Env Sustain B
+//Map	_control_	Amp Env Release B
+//Map	_control_	Start A
+//Map	_control_	Detune A
+//Map	_control_	Pan A
+//Map	_control_	Level A
+//Map	_control_	LFO Amount A
+//Map	_control_	LFO Speed A
+//Map	_control_	LFO Speed Sync A
+//Map	_control_	Resonance A
+//Map	_control_	Cutoff A
+//Map	_control_	Start B
+//Map	_control_	Detune B
+//Map	_control_	Pan B
+//Map	_control_	Level B
+//Map	_control_	LFO Amount B
+//Map	_control_	LFO Speed B
+//Map	_control_	LFO Speed Sync B
+//Map	_control_	Resonance B
+//Map	_control_	Cutoff B
+//Map	_control_	Mute A
+//Map	_control_	Reverse A
+//Map	_control_	HalfSpeed A
+//Map	_control_	LFO Mode A
+//Map	_control_	LFO Sync A
+//Map	_control_	Filter Mode A
+//Map	_control_	Mute B
+//Map	_control_	Reverse B
+//Map	_control_	HalfSpeed B
+//Map	_control_	LFO Mode B
+//Map	_control_	LFO Sync B
+//Map	_control_	Filter Mode B
+//Map	_control_	Velocity to Amp
+//Map	_control_	Velocity to Vcf
+//Map	_control_	Master Gain
+//Map	_control_	Master Tune
+//Map	_control_	Master Bend
+//Map	_control_	Delay Speed L
+//Map	_control_	Delay Speed L Sync
+//Map	_control_	Delay Feedback L
+//Map	_control_	Delay Speed R
+//Map	_control_	Delay Speed R Sync
+//Map	_control_	Delay Feedback R
+//Map	_control_	Delay Mix
+//Map	_control_	Ensemble Mix
+//Map	_control_	Ensemble Detune
+//Map	_control_	Delay CF
+//Map	_control_	Delay Sync
+//Map	_control_	Ensemble Voices
+

@@ -1,0 +1,17 @@
+
+Scope	Jiggery Pokery	com.jiggerypokery.Anansi
+//Map	_control_	MidSide pass
+//Map	_control_	MidSide mid
+//Map	_control_	MidSide side
+//Map	_control_	MidSide balance
+//Map	_control_	Stereo-to-Mono a
+//Map	_control_	Stereo-to-Mono b
+//Map	_control_	Stereo-to-Mono c
+//Map	_control_	Mode
+//Map	_control_	Merger d
+//Map	_control_	Merger e
+//Map	_control_	Merger f
+//Map	_control_	Splitter g
+//Map	_control_	Splitter h
+//Map	_control_	Splitter i
+

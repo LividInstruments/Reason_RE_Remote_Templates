@@ -1,0 +1,8 @@
+
+Scope	Numerical Sound	com.numericalSound.ReBassNarrow
+//Map	_control_	Enabled
+//Map	_control_	Width
+//Map	_control_	Pan
+//Map	_control_	Gain
+//Map	_control_	Dry/Wet Mix
+

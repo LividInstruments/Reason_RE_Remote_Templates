@@ -1,0 +1,27 @@
+
+Scope	Deadman Audio Devices	com.deadmanaudiodevices.getlayedsound
+//Map	_control_	Enabled
+//Map	_control_	Delay Time
+//Map	_control_	Delay Time (Synced)
+//Map	_control_	Delay Sync
+//Map	_control_	Combined Volume
+//Map	_control_	Delay Volume Direct
+//Map	_control_	Delay Volume 2
+//Map	_control_	Delay Volume 3
+//Map	_control_	Delay Volume 4
+//Map	_control_	Delay Volume 5
+//Map	_control_	Delay Volume 6
+//Map	_control_	Delay Volume 7
+//Map	_control_	Delay Volume 8
+//Map	_control_	Delay Volume 9
+//Map	_control_	Delay Pan Direct
+//Map	_control_	Delay Pan 2
+//Map	_control_	Delay Pan 3
+//Map	_control_	Delay Pan 4
+//Map	_control_	Delay Pan 5
+//Map	_control_	Delay Pan 6
+//Map	_control_	Delay Pan 7
+//Map	_control_	Delay Pan 8
+//Map	_control_	Delay Pan 9
+//Map	_control_	Chain To Next Device
+

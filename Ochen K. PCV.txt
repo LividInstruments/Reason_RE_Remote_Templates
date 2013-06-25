@@ -1,0 +1,123 @@
+
+Scope	Ochen K.	com.ochenk.PCV
+//Map	_control_	propertyname Shuffle
+//Map	_control_	Pause Button†
+//Map	_control_	CV Type Dial
+//Map	_control_	Seed Dial†
+//Map	_control_	Probability Dial 1†
+//Map	_control_	Probability Dial 2†
+//Map	_control_	Probability Dial 3†
+//Map	_control_	Probability Dial 4†
+//Map	_control_	Probability Dial 5†
+//Map	_control_	Probability Dial 6†
+//Map	_control_	Probability Dial 7†
+//Map	_control_	Probability Dial 8†
+//Map	_control_	Probability Dial 9†
+//Map	_control_	Probability Dial 10†
+//Map	_control_	Probability Dial 11†
+//Map	_control_	Probability Dial 12†
+//Map	_control_	Probability Dial 13†
+//Map	_control_	Probability Dial 14†
+//Map	_control_	Probability Dial 15†
+//Map	_control_	Probability Dial 16†
+//Map	_control_	Gate Dial†
+//Map	_control_	Steps Dial†
+//Map	_control_	Portamento Dial†
+//Map	_control_	Speed Dial†
+//Map	_control_	Step 1 Unipolar Minimum†
+//Map	_control_	Step 1 Bipolar Minimum†
+//Map	_control_	Step 1 Note Minimum†
+//Map	_control_	Step 1 Unipolar Maximum†
+//Map	_control_	Step 1 Bipolar Maximum†
+//Map	_control_	Step 1 Note Maximum†
+//Map	_control_	Step 2 Unipolar Minimum†
+//Map	_control_	Step 2 Bipolar Minimum†
+//Map	_control_	Step 2 Note Minimum†
+//Map	_control_	Step 2 Unipolar Maximum†
+//Map	_control_	Step 2 Bipolar Maximum†
+//Map	_control_	Step 2 Note Maximum†
+//Map	_control_	Step 3 Unipolar Minimum†
+//Map	_control_	Step 3 Bipolar Minimum†
+//Map	_control_	Step 3 Note Minimum†
+//Map	_control_	Step 3 Unipolar Maximum†
+//Map	_control_	Step 3 Bipolar Maximum†
+//Map	_control_	Step 3 Note Maximum†
+//Map	_control_	Step 4 Unipolar Minimum†
+//Map	_control_	Step 4 Bipolar Minimum†
+//Map	_control_	Step 4 Note Minimum†
+//Map	_control_	Step 4 Unipolar Maximum†
+//Map	_control_	Step 4 Bipolar Maximum†
+//Map	_control_	Step 4 Note Maximum†
+//Map	_control_	Step 5 Unipolar Minimum†
+//Map	_control_	Step 5 Bipolar Minimum†
+//Map	_control_	Step 5 Note Minimum†
+//Map	_control_	Step 5 Unipolar Maximum†
+//Map	_control_	Step 5 Bipolar Maximum†
+//Map	_control_	Step 5 Note Maximum†
+//Map	_control_	Step 6 Unipolar Minimum†
+//Map	_control_	Step 6 Bipolar Minimum†
+//Map	_control_	Step 6 Note Minimum†
+//Map	_control_	Step 6 Unipolar Maximum†
+//Map	_control_	Step 6 Bipolar Maximum†
+//Map	_control_	Step 6 Note Maximum†
+//Map	_control_	Step 7 Unipolar Minimum†
+//Map	_control_	Step 7 Bipolar Minimum†
+//Map	_control_	Step 7 Note Minimum†
+//Map	_control_	Step 7 Unipolar Maximum†
+//Map	_control_	Step 7 Bipolar Maximum†
+//Map	_control_	Step 7 Note Maximum†
+//Map	_control_	Step 8 Unipolar Minimum†
+//Map	_control_	Step 8 Bipolar Minimum†
+//Map	_control_	Step 8 Note Minimum†
+//Map	_control_	Step 8 Unipolar Maximum†
+//Map	_control_	Step 8 Bipolar Maximum†
+//Map	_control_	Step 8 Note Maximum†
+//Map	_control_	Step 9 Unipolar Minimum†
+//Map	_control_	Step 9 Bipolar Minimum†
+//Map	_control_	Step 9 Note Minimum†
+//Map	_control_	Step 9 Unipolar Maximum†
+//Map	_control_	Step 9 Bipolar Maximum†
+//Map	_control_	Step 9 Note Maximum†
+//Map	_control_	Step 10 Unipolar Minimum†
+//Map	_control_	Step 10 Bipolar Minimum†
+//Map	_control_	Step 10 Note Minimum†
+//Map	_control_	Step 10 Unipolar Maximum†
+//Map	_control_	Step 10 Bipolar Maximum†
+//Map	_control_	Step 10 Note Maximum†
+//Map	_control_	Step 11 Unipolar Minimum†
+//Map	_control_	Step 11 Bipolar Minimum†
+//Map	_control_	Step 11 Note Minimum†
+//Map	_control_	Step 11 Unipolar Maximum†
+//Map	_control_	Step 11 Bipolar Maximum†
+//Map	_control_	Step 11 Note Maximum†
+//Map	_control_	Step 12 Unipolar Minimum†
+//Map	_control_	Step 12 Bipolar Minimum†
+//Map	_control_	Step 12 Note Minimum†
+//Map	_control_	Step 12 Unipolar Maximum†
+//Map	_control_	Step 12 Bipolar Maximum†
+//Map	_control_	Step 12 Note Maximum†
+//Map	_control_	Step 13 Unipolar Minimum†
+//Map	_control_	Step 13 Bipolar Minimum†
+//Map	_control_	Step 13 Note Minimum†
+//Map	_control_	Step 13 Unipolar Maximum†
+//Map	_control_	Step 13 Bipolar Maximum†
+//Map	_control_	Step 13 Note Maximum†
+//Map	_control_	Step 14 Unipolar Minimum†
+//Map	_control_	Step 14 Bipolar Minimum†
+//Map	_control_	Step 14 Note Minimum†
+//Map	_control_	Step 14 Unipolar Maximum†
+//Map	_control_	Step 14 Bipolar Maximum†
+//Map	_control_	Step 14 Note Maximum†
+//Map	_control_	Step 15 Unipolar Minimum†
+//Map	_control_	Step 15 Bipolar Minimum†
+//Map	_control_	Step 15 Note Minimum†
+//Map	_control_	Step 15 Unipolar Maximum†
+//Map	_control_	Step 15 Bipolar Maximum†
+//Map	_control_	Step 15 Note Maximum†
+//Map	_control_	Step 16 Unipolar Minimum†
+//Map	_control_	Step 16 Bipolar Minimum†
+//Map	_control_	Step 16 Note Minimum†
+//Map	_control_	Step 16 Unipolar Maximum†
+//Map	_control_	Step 16 Bipolar Maximum†
+//Map	_control_	Step 16 Note Maximum
+

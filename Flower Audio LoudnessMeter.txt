@@ -1,0 +1,7 @@
+
+Scope	Flower Audio	com.flowerau.LoudnessMeter
+//Map	_control_	Input Mode
+//Map	_control_	Algorithm
+//Map	_control_	Time Window
+//Map	_control_	Big Display Mode
+

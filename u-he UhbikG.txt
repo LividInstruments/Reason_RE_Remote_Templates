@@ -1,0 +1,14 @@
+
+Scope	u-he	com.uheplugins.UhbikG
+//Map	_control_	Enabled
+//Map	_control_	Operation Mode
+//Map	_control_	GrainSize
+//Map	_control_	Transpose
+//Map	_control_	Scaling
+//Map	_control_	ChannelOffset
+//Map	_control_	Mix
+//Map	_control_	Reset
+//Map	_control_	AutoReset
+//Map	_control_	PVocQuality
+//Map	_control_	Iteration
+

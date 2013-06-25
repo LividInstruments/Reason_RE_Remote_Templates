@@ -1,0 +1,42 @@
+
+Scope	The Chronologists	com.thechronologists.Divisor
+//Map	_control_	Pulse Rate Synced
+//Map	_control_	Pulse Rate Free
+//Map	_control_	Pulse Mode Switch
+//Map	_control_	Divide Ratio Amount Int 1
+//Map	_control_	Divide Ratio Amount Float 1
+//Map	_control_	Divide Ratio Mode 1
+//Map	_control_	Divide Ratio Amount Int 2
+//Map	_control_	Divide Ratio Amount Float 2
+//Map	_control_	Divide Ratio Mode 2
+//Map	_control_	Divide Ratio Amount Int 3
+//Map	_control_	Divide Ratio Amount Float 3
+//Map	_control_	Divide Ratio Mode 3
+//Map	_control_	Divide Ratio Amount Int 4
+//Map	_control_	Divide Ratio Amount Float 4
+//Map	_control_	Divide Ratio Mode 4
+//Map	_control_	Divide Ratio Amount Int 5
+//Map	_control_	Divide Ratio Amount Float 5
+//Map	_control_	Divide Ratio Mode 5
+//Map	_control_	Divide Ratio Amount Int 6
+//Map	_control_	Divide Ratio Amount Float 6
+//Map	_control_	Divide Ratio Mode 6
+//Map	_control_	Divide Ratio Amount Int 7
+//Map	_control_	Divide Ratio Amount Float 7
+//Map	_control_	Divide Ratio Mode 7
+//Map	_control_	Divide Ratio Amount Int 8
+//Map	_control_	Divide Ratio Amount Float 8
+//Map	_control_	Divide Ratio Mode 8
+//Map	_control_	Divide Ratio Amount Int 9
+//Map	_control_	Divide Ratio Amount Float 9
+//Map	_control_	Divide Ratio Mode 9
+//Map	_control_	Divide Ratio Amount Int 10
+//Map	_control_	Divide Ratio Amount Float 10
+//Map	_control_	Divide Ratio Mode 10
+//Map	_control_	Buffer Size A
+//Map	_control_	Interpolation Mode A
+//Map	_control_	Clear Buffer A
+//Map	_control_	Buffer Size B
+//Map	_control_	Interpolation Mode B
+//Map	_control_	Clear Buffer B
+

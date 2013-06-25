@@ -1,0 +1,43 @@
+
+Scope	LAB ONE Recordings	co.uk.labonerecordings.ReQ131
+//Map	_control_	Enabled
+//Map	_control_	Gain
+//Map	_control_	Wet/Dry
+//Map	_control_	High Pass
+//Map	_control_	HP Bypass
+//Map	_control_	Low Pass
+//Map	_control_	LP Bypass
+//Map	_control_	Hear EQ
+// not working:
+//Map	_control_	EQ1 : 20Hz
+//Map	_control_	EQ2 : 25Hz
+//Map	_control_	EQ3 : 31.5Hz
+//Map	_control_	EQ4 : 40Hz
+//Map	_control_	EQ5 : 50Hz
+//Map	_control_	EQ6 : 63Hz
+//Map	_control_	EQ7 : 80Hz
+//Map	_control_	EQ8 : 100Hz
+//Map	_control_	EQ9 : 125Hz
+//Map	_control_	EQ10 : 160Hz
+//Map	_control_	EQ11 : 200Hz
+//Map	_control_	EQ12 : 250Hz
+//Map	_control_	EQ13 : 315Hz
+//Map	_control_	EQ14 : 400Hz
+//Map	_control_	EQ15 : 500Hz
+//Map	_control_	EQ16 : 630Hz
+//Map	_control_	EQ17 : 800Hz
+//Map	_control_	EQ18 : 1kHz
+//Map	_control_	EQ19 : 1.25kHz
+//Map	_control_	EQ20 : 1.6kHz
+//Map	_control_	EQ21 : 2kHz
+//Map	_control_	EQ22 : 2.5kHz
+//Map	_control_	EQ23 : 3.15kHz
+//Map	_control_	EQ24 : 4kHz
+//Map	_control_	EQ25 : 5kHz
+//Map	_control_	EQ26 : 6.3kHz
+//Map	_control_	EQ27 : 8kHz
+//Map	_control_	EQ28 : 10kHz
+//Map	_control_	EQ29 : 12.5kHz
+//Map	_control_	EQ30 : 16kHz
+//Map	_control_	EQ31 : 20kHz
+

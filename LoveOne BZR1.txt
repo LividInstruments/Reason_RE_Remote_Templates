@@ -1,0 +1,11 @@
+
+Scope	LoveOne	se.loveone.BZR1
+//Map	_control_	Type
+//Map	_control_	Init 1
+//Map	_control_	Init 2
+//Map	_control_	Init 3
+//Map	_control_	Retrig
+//Map	_control_	Amp
+//Map	_control_	Offset
+//Map	_control_	Speed
+

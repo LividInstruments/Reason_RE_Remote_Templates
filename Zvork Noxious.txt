@@ -1,0 +1,130 @@
+
+Scope	Zvork	fr.zvork.Noxious
+//Map	_control_	Retrigger Mode
+//Map	_control_	Glide
+//Map	_control_	Polyphony
+//Map	_control_	Amp. Env. - Attack Time
+//Map	_control_	Amp. Env. - Decay Time
+//Map	_control_	Amp. Env. - Release Time
+//Map	_control_	Amp. Env. - Sustain Level
+//Map	_control_	Pan
+//Map	_control_	Level Velocity Modulation - Strength
+//Map	_control_	Volume
+//Map	_control_	LFO 1 Frequency
+//Map	_control_	LFO 1 Freq. Synced
+//Map	_control_	LFO 1 Shape
+//Map	_control_	LFO 1 Tempo Sync.
+//Map	_control_	LFO 1 Key Sync.
+//Map	_control_	LFO 1 Delay
+//Map	_control_	LFO 1 - Strength
+//Map	_control_	LFO 1 - Destination
+//Map	_control_	LFO 2 Frequency
+//Map	_control_	LFO 2 Freq. Synced
+//Map	_control_	LFO 2 Shape
+//Map	_control_	LFO 2 Tempo Sync.
+//Map	_control_	LFO 2 Key Sync.
+//Map	_control_	LFO 2 Delay
+//Map	_control_	LFO 2 - Strength
+//Map	_control_	LFO 2 - Destination
+//Map	_control_	Modulation Env. 1 - Strength
+//Map	_control_	Modulation Env. 1 - Destination
+//Map	_control_	Modulation Env. 2 - Strength
+//Map	_control_	Modulation Env. 2 - Destination
+//Map	_control_	Mod. Env. 1 Start Level
+//Map	_control_	Mod. Env. 1 Attack Time
+//Map	_control_	Mod. Env. 1 Attack Level
+//Map	_control_	Mod. Env. 1 Decay Time
+//Map	_control_	Mod. Env. 1 Sustain Level
+//Map	_control_	Mod. Env. 1 Release Time
+//Map	_control_	Mod. Env. 1 Release Level
+//Map	_control_	Mod. Env. 2 Start Level
+//Map	_control_	Mod. Env. 2 Attack Time
+//Map	_control_	Mod. Env. 2 Attack Level
+//Map	_control_	Mod. Env. 2 Decay Time
+//Map	_control_	Mod. Env. 2 Sustain Level
+//Map	_control_	Mod. Env. 2 Release Time
+//Map	_control_	Modulation 1 - Source
+//Map	_control_	Mod. Env. 2 Release Level
+//Map	_control_	Modulation 1 - Strength
+//Map	_control_	Modulation 1 - Destination
+//Map	_control_	Modulation 2 - Source
+//Map	_control_	Modulation 2 - Strength
+//Map	_control_	Modulation 2 - Destination
+//Map	_control_	Modulation 3 - Source
+//Map	_control_	Modulation 3 - Strength
+//Map	_control_	Modulation 3 - Destination
+//Map	_control_	Modulation 4 - Source
+//Map	_control_	Modulation 4 - Strength
+//Map	_control_	Modulation 4 - Destination
+//Map	_control_	Modulation 5 - Source
+//Map	_control_	Modulation 5 - Strength
+//Map	_control_	Modulation 5 - Destination
+//Map	_control_	Modulation 6 - Source
+//Map	_control_	Modulation 6 - Strength
+//Map	_control_	Modulation 6 - Destination
+//Map	_control_	Modulation 7 - Source
+//Map	_control_	Modulation 7 - Strength
+//Map	_control_	Modulation 7 - Destination
+//Map	_control_	Modulation 8 - Source
+//Map	_control_	Modulation 8 - Strength
+//Map	_control_	Modulation 8 - Destination
+//Map	_control_	Partial Count
+//Map	_control_	Wave Type
+//Map	_control_	Precision
+//Map	_control_	Pitch - Semi
+//Map	_control_	Pitch - Cents
+//Map	_control_	Pitch Kbd. Tracking - Strength
+//Map	_control_	Pitch Bend Range
+//Map	_control_	Filter 1 On
+//Map	_control_	Filter 1 Mode
+//Map	_control_	Filter 1 Cutoff Freq.
+//Map	_control_	Filter 1 Resonance
+//Map	_control_	Filter 1 Frequency Velocity Modulation - Strength
+//Map	_control_	Filter 2 On
+//Map	_control_	Filter 1 Frequency Kbd. Track - Strength
+//Map	_control_	Filter 2 Mode
+//Map	_control_	Filter 2 Cutoff Freq.
+//Map	_control_	Filter 2 Resonance
+//Map	_control_	Filter 2 Frequency Velocity Modulation - Strength
+//Map	_control_	Filter 2 Frequency Kbd. Track - Strength
+//Map	_control_	Modif. A On
+//Map	_control_	Modif. A Type
+//Map	_control_	Modif. A Center
+//Map	_control_	Modif. A Spread
+//Map	_control_	Modif. A Falloff
+//Map	_control_	Modifier A Center Kbd. Tracking - Strength
+//Map	_control_	Modif. A Param. 1
+//Map	_control_	Modif. A Param. 2
+//Map	_control_	Modif. B On
+//Map	_control_	Modif. B Type
+//Map	_control_	Modif. B Center
+//Map	_control_	Modif. B Spread
+//Map	_control_	Modif. B Falloff
+//Map	_control_	Modifier B Center Kbd. Tracking - Strength
+//Map	_control_	Modif. B Param. 1
+//Map	_control_	Modif. B Param. 2
+//Map	_control_	Modif. C On
+//Map	_control_	Modif. C Type
+//Map	_control_	Modif. C Center
+//Map	_control_	Modif. C Spread
+//Map	_control_	Modif. C Falloff
+//Map	_control_	Modifier C Center Kbd. Tracking - Strength
+//Map	_control_	Modif. C Param. 1
+//Map	_control_	Modif. C Param. 2
+//Map	_control_	Modif. D On
+//Map	_control_	Modif. D Type
+//Map	_control_	Modif. D Center
+//Map	_control_	Modif. D Spread
+//Map	_control_	Modif. D Falloff
+//Map	_control_	Modifier D Center Kbd. Tracking - Strength
+//Map	_control_	Modif. D Param. 1
+//Map	_control_	Modif. D Param. 2
+//Map	_control_	Modif. E On
+//Map	_control_	Modif. E Type
+//Map	_control_	Modif. E Center
+//Map	_control_	Modif. E Spread
+//Map	_control_	Modif. E Falloff
+//Map	_control_	Modifier E Center Kbd. Tracking - Strength
+//Map	_control_	Modif. E Param. 1
+//Map	_control_	Modif. E Param. 2
+

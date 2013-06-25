@@ -1,0 +1,17 @@
+
+Scope	u-he	com.uheplugins.UhbikP
+//Map	_control_	Enabled
+//Map	_control_	TimeBase
+//Map	_control_	TimeUnits
+//Map	_control_	Phase
+//Map	_control_	ChannelOffset
+//Map	_control_	Symmetry
+//Map	_control_	scale
+//Map	_control_	Wave
+//Map	_control_	Spectrum
+//Map	_control_	Depth
+//Map	_control_	Feedback
+//Map	_control_	BassSanctuary
+//Map	_control_	Mix
+//Map	_control_	Mode
+

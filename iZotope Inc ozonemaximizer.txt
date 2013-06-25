@@ -1,0 +1,15 @@
+
+Scope	iZotope Inc	com.izotope.ozonemaximizer
+//Map	_control_	Enabled
+//Map	_control_	Threshold
+//Map	_control_	Stereo Link Amount
+//Map	_control_	Margin
+//Map	_control_	Enable Dither
+//Map	_control_	Noise Shaping
+//Map	_control_	Dither Amount
+//Map	_control_	Bit Depth
+//Map	_control_	Enable Auto Blank
+//Map	_control_	Enable Limit Peaks
+//Map	_control_	Enable Harmonic Suppression
+//Map	_control_	Enable DC Filter
+

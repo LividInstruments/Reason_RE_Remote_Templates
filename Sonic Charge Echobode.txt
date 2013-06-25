@@ -1,0 +1,26 @@
+
+Scope	Sonic Charge	com.soniccharge.Echobode
+//Map	_control_	Enabled
+//Map	_control_	Frequency Shift Range
+//Map	_control_	Frequency Shift Fine
+//Map	_control_	Frequency Shift Wide
+//Map	_control_	Frequency Shift Synced
+//Map	_control_	Phase Shift
+//Map	_control_	Anti Reflection
+//Map	_control_	Sideband Mix
+//Map	_control_	Delay Sync
+//Map	_control_	Delay Time
+//Map	_control_	Delay Time Synced
+//Map	_control_	Filter Cutoff Frequency
+//Map	_control_	Cross Channels
+//Map	_control_	Feedback Amount
+//Map	_control_	Wet Mix
+//Map	_control_	LFO Target
+//Map	_control_	Lfo Sync
+//Map	_control_	LFO Stereo
+//Map	_control_	LFO Rate
+//Map	_control_	Lfo Rate Synced
+//Map	_control_	LFO Amount Frequency
+//Map	_control_	LFO Amount Phase
+//Map	_control_	LFO Amount Delay
+

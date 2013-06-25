@@ -1,0 +1,51 @@
+
+Scope	The Chronologists	com.thechronologists.Constants
+//Map	_control_	Constant 1 T Housandscontrol
+//Map	_control_	Constant 1 H Undredscontrol
+//Map	_control_	Constant 1 Te Nscontrol
+//Map	_control_	Constant 1 O Nescontrol
+//Map	_control_	Constant 1 Ten Thscontrol
+//Map	_control_	Constant 1 Hundred Thscontrol
+//Map	_control_	Constant 1 Thousand Thscontrol
+//Map	_control_	Constant 1 Signcontrol
+//Map	_control_	Constant 2 T Housandscontrol
+//Map	_control_	Constant 2 H Undredscontrol
+//Map	_control_	Constant 2 Te Nscontrol
+//Map	_control_	Constant 2 O Nescontrol
+//Map	_control_	Constant 2 Ten Thscontrol
+//Map	_control_	Constant 2 Hundred Thscontrol
+//Map	_control_	Constant 2 Thousand Thscontrol
+//Map	_control_	Constant 2 Signcontrol
+//Map	_control_	Constant 3 T Housandscontrol
+//Map	_control_	Constant 3 H Undredscontrol
+//Map	_control_	Constant 3 Te Nscontrol
+//Map	_control_	Constant 3 O Nescontrol
+//Map	_control_	Constant 3 Ten Thscontrol
+//Map	_control_	Constant 3 Hundred Thscontrol
+//Map	_control_	Constant 3 Thousand Thscontrol
+//Map	_control_	Constant 3 Signcontrol
+//Map	_control_	Constant 4 T Housandscontrol
+//Map	_control_	Constant 4 H Undredscontrol
+//Map	_control_	Constant 4 Te Nscontrol
+//Map	_control_	Constant 4 O Nescontrol
+//Map	_control_	Constant 4 Ten Thscontrol
+//Map	_control_	Constant 4 Hundred Thscontrol
+//Map	_control_	Constant 4 Thousand Thscontrol
+//Map	_control_	Constant 4 Signcontrol
+//Map	_control_	Constant 5 T Housandscontrol
+//Map	_control_	Constant 5 H Undredscontrol
+//Map	_control_	Constant 5 Te Nscontrol
+//Map	_control_	Constant 5 O Nescontrol
+//Map	_control_	Constant 5 Ten Thscontrol
+//Map	_control_	Constant 5 Hundred Thscontrol
+//Map	_control_	Constant 5 Thousand Thscontrol
+//Map	_control_	Constant 5 Signcontrol
+//Map	_control_	Constant 6 T Housandscontrol
+//Map	_control_	Constant 6 H Undredscontrol
+//Map	_control_	Constant 6 Te Nscontrol
+//Map	_control_	Constant 6 O Nescontrol
+//Map	_control_	Constant 6 Ten Thscontrol
+//Map	_control_	Constant 6 Hundred Thscontrol
+//Map	_control_	Constant 6 Thousand Thscontrol
+//Map	_control_	Constant 6 Signcontrol
+

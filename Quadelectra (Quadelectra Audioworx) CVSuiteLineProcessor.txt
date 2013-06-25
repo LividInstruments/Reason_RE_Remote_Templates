@@ -1,0 +1,17 @@
+
+Scope	Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteLineProcessor
+//Map	_control_	Enabled
+//Map	_control_	Gain
+//Map	_control_	Polarity
+//Map	_control_	Low Cut
+//Map	_control_	Hi Cut
+//Map	_control_	Foldback
+//Map	_control_	Low End
+//Map	_control_	Hi End
+//Map	_control_	Balance Point
+//Map	_control_	quantize
+//Map	_control_	Quantize Synced
+//Map	_control_	Quantize Sync Switch
+//Map	_control_	Smooth
+//Map	_control_	Shaper
+

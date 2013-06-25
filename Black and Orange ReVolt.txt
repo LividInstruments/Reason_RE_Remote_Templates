@@ -1,0 +1,28 @@
+
+Scope	Black and Orange	com.blackandorange.ReVolt
+//Map	_control_	cv1Freeze
+//Map	_control_	cv1Invert
+//Map	_control_	cv2Freeze
+//Map	_control_	cv2Invert
+//Map	_control_	cvOutInvert
+//Map	_control_	blendmode
+//Map	_control_	scaleamount
+//Map	_control_	minoutput
+//Map	_control_	minoutputUni
+//Map	_control_	conformToRange
+//Map	_control_	maxoutput
+//Map	_control_	maxoutputUni
+//Map	_control_	addamount
+//Map	_control_	relativeaddmode
+//Map	_control_	polaritymode
+//Map	_control_	splitSmoothing
+//Map	_control_	splitLevel
+//Map	_control_	staticoutput
+//Map	_control_	staticoutputenabled
+//Map	_control_	splitAOffStaticValue
+//Map	_control_	splitAOnMode
+//Map	_control_	splitAOnStaticValue
+//Map	_control_	splitBOffStaticValue
+//Map	_control_	splitBOnMode
+//Map	_control_	splitBOnStaticValue
+

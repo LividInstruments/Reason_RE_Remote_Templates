@@ -1,0 +1,24 @@
+
+Scope	Zvork	fr.zvork.VoltSH1
+//Map	_control_	Active
+//Map	_control_	SampleEnabled
+//Map	_control_	isFilterFirst
+//Map	_control_	RateSync
+//Map	_control_	SHRate
+//Map	_control_	SHRateSynced
+//Map	_control_	Phase
+//Map	_control_	PhaseSynced
+//Map	_control_	SHDuration
+//Map	_control_	Resolution
+//Map	_control_	FilterEnabled
+//Map	_control_	FilterType
+//Map	_control_	Cutoff
+//Map	_control_	Resonance
+//Map	_control_	FilterLock
+//Map	_control_	UpFilterType
+//Map	_control_	UpCutoff
+//Map	_control_	UpResonance
+//Map	_control_	DownFilterType
+//Map	_control_	DownCutoff
+//Map	_control_	DownResonance
+

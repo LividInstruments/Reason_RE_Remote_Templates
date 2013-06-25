@@ -1,0 +1,15 @@
+
+Scope	AudioRealism	se.audiorealism.reabl2
+//Map	_control_	Volume
+//Map	_control_	Drive
+//Map	_control_	Distortion
+//Map	_control_	Waveform
+//Map	_control_	Tuning
+//Map	_control_	Cutoff
+//Map	_control_	Resonance
+//Map	_control_	Envmod
+//Map	_control_	Decay
+//Map	_control_	Accent
+//Map	_control_	Distortion
+//Map	_control_	Highpass
+

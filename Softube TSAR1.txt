@@ -1,0 +1,15 @@
+
+Scope	Softube	com.softube.re.TSAR1
+//Map	_control_	Enabled
+//Map	_control_	Predelay
+//Map	_control_	Reverb Time
+//Map	_control_	Density
+//Map	_control_	Reverb Tone
+//Map	_control_	High Cut
+//Map	_control_	ER Type
+//Map	_control_	ER Mix
+//Map	_control_	Diffusion
+//Map	_control_	Modulation
+//Map	_control_	Reverb Mix
+//Map	_control_	Output Vol
+

@@ -1,0 +1,11 @@
+
+Scope	Selig Audio	com.seligaudio.TheCurve
+//Map	_control_	Enabled
+//Map	_control_	Reset Peak
+//Map	_control_	Target
+//Map	_control_	Recovery
+//Map	_control_	Curve
+//Map	_control_	Blend
+//Map	_control_	Output
+//Map	_control_	Look Ahead
+

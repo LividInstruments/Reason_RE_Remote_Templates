@@ -1,0 +1,15 @@
+
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.DCAMBusComp
+//Map	_control_	Enabled
+//Map	_control_	HP Freq
+//Map	_control_	Listen
+//Map	_control_	Attack
+//Map	_control_	Release
+//Map	_control_	Threshold
+//Map	_control_	Make Up
+//Map	_control_	Ratio
+//Map	_control_	Saturation
+//Map	_control_	Input Gain
+//Map	_control_	Output Gain
+//Map	_control_	Mix
+

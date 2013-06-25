@@ -1,0 +1,32 @@
+
+Scope	Spectral Scan Software	com.spectralscan.4PhaseLFO
+//Map	_control_	ui_property fader_running
+//Map	_control_	ui_property lfo_button_inv
+//Map	_control_	ui_property lfo_waveform
+//Map	_control_	ui_property lfo_button_reset
+//Map	_control_	ui_property lfo_freq_lin
+//Map	_control_	ui_property lfo_freq_low
+//Map	_control_	ui_property lfo_freq_sync
+//Map	_control_	ui_property lfo_type
+//Map	_control_	ui_property lfo_amount
+//Map	_control_	ui_property lfo_phase
+//Map	_control_	ui_property lfo_sym
+//Map	_control_	ui_property lfo_hold_time
+//Map	_control_	ui_property lfo_hold_sync
+//Map	_control_	ui_property lfo_hold_wave
+//Map	_control_	ui_property lfo_hold_type
+//Map	_control_	ui_property lfo_spike
+//Map	_control_	ui_property lfo_shuffle
+//Map	_control_	ui_property lfo_slide
+//Map	_control_	ui_property lfo_bias
+//Map	_control_	ui_property lfo_noise
+//Map	_control_	ui_property lfo_amount_2
+//Map	_control_	ui_property lfo_phase_2
+//Map	_control_	ui_property lfo_bias_2
+//Map	_control_	ui_property lfo_amount_3
+//Map	_control_	ui_property lfo_phase_3
+//Map	_control_	ui_property lfo_bias_3
+//Map	_control_	ui_property lfo_amount_4
+//Map	_control_	ui_property lfo_phase_4
+//Map	_control_	ui_property lfo_bias_4
+

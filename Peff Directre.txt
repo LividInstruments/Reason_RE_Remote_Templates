@@ -1,0 +1,31 @@
+
+Scope	Peff	com.peff.Directre
+//Map	_control_	Quantize Mode
+//Map	_control_	Enable 1
+//Map	_control_	Enable 2
+//Map	_control_	Enable 3
+//Map	_control_	Enable 4
+//Map	_control_	Enable 5
+//Map	_control_	Enable 6
+//Map	_control_	Enable 7
+//Map	_control_	Enable 8
+//Map	_control_	Crossfade Length A
+//Map	_control_	Crossfade Length B
+//Map	_control_	Crossfade Select 1
+//Map	_control_	Crossfade Select 2
+//Map	_control_	Crossfade Select 3
+//Map	_control_	Crossfade Select 4
+//Map	_control_	Crossfade Select 5
+//Map	_control_	Crossfade Select 6
+//Map	_control_	Crossfade Select 7
+//Map	_control_	Crossfade Select 8
+//Map	_control_	Input Gain
+//Map	_control_	Gain 1
+//Map	_control_	Gain 2
+//Map	_control_	Gain 3
+//Map	_control_	Gain 4
+//Map	_control_	Gain 5
+//Map	_control_	Gain 6
+//Map	_control_	Gain 7
+//Map	_control_	Gain 8
+

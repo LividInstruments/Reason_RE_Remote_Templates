@@ -1,0 +1,5 @@
+
+Scope	Red Rock Sound	ru.redrocksound.RE60
+//Map	_control_	Referense
+//Map	_control_	Mode
+

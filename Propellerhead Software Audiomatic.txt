@@ -1,0 +1,9 @@
+
+Scope	Propellerhead Software	se.propellerheads.Audiomatic
+//Map	_control_	Enabled
+//Map	_control_	Input Gain
+//Map	_control_	Preset
+//Map	_control_	Transform
+//Map	_control_	Dry Wet
+//Map	_control_	Volume
+

@@ -1,0 +1,11 @@
+
+Scope	Sugar Bytes	com.sugarbytes.Vinylizer
+//Map	_control_	Enabled
+//Map	_control_	sizesync
+//Map	_control_	sizesynctp
+//Map	_control_	sizefree
+//Map	_control_	slowdown
+//Map	_control_	downslope
+//Map	_control_	upslope
+//Map	_control_	drywet
+

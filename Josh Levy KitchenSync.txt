@@ -1,0 +1,23 @@
+
+Scope	Josh Levy	com.joshlevy.KitchenSync
+//Map	_control_	Enabled
+//Map	_control_	EnvFreq
+//Map	_control_	EnvShape
+//Map	_control_	FullHalfSync
+//Map	_control_	Gate
+//Map	_control_	Attack
+//Map	_control_	Release
+//Map	_control_	Freq
+//Map	_control_	Shape
+//Map	_control_	Cutoff
+//Map	_control_	LPFOn
+//Map	_control_	LFOOn
+//Map	_control_	Rate
+//Map	_control_	rateSynced
+//Map	_control_	Amount
+//Map	_control_	Dest
+//Map	_control_	Wave
+//Map	_control_	TempoSync
+//Map	_control_	Volume
+//Map	_control_	Mix
+

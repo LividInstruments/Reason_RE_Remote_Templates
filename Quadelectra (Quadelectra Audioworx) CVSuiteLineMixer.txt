@@ -1,0 +1,32 @@
+
+Scope	Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteLineMixer
+//Map	_control_	Group A Mix Function
+//Map	_control_	Invert A1 Polarity
+//Map	_control_	Invert A2 Polarity
+//Map	_control_	Invert A3 Polarity
+//Map	_control_	Invert A4 Polarity
+//Map	_control_	Group B Mix Function
+//Map	_control_	Invert B1 Polarity
+//Map	_control_	Invert B2 Polarity
+//Map	_control_	Invert B3 Polarity
+//Map	_control_	Invert B4 Polarity
+//Map	_control_	Group C Mix Function
+//Map	_control_	Invert C1 Polarity
+//Map	_control_	Invert C2 Polarity
+//Map	_control_	Invert C3 Polarity
+//Map	_control_	Invert C4 Polarity
+//Map	_control_	Group D Mix Function
+//Map	_control_	Invert D1 Polarity
+//Map	_control_	Invert D2 Polarity
+//Map	_control_	Invert D3 Polarity
+//Map	_control_	Invert D4 Polarity
+//Map	_control_	Group A Gain
+//Map	_control_	Group B Gain
+//Map	_control_	Group C Gain
+//Map	_control_	Group D Gain
+//Map	_control_	Post Function
+//Map	_control_	Invert A Polarity
+//Map	_control_	Invert B Polarity
+//Map	_control_	Invert C Polarity
+//Map	_control_	Invert D Polarity
+

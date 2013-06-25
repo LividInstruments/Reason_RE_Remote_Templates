@@ -1,0 +1,33 @@
+
+Scope	u-he	com.uheplugins.UhbikD
+//Map	_control_	Enabled
+//Map	_control_	Speed
+//Map	_control_	ModType
+//Map	_control_	ModRate
+//Map	_control_	ModDepth
+//Map	_control_	Delay1
+//Map	_control_	Pan1
+//Map	_control_	Vol1
+//Map	_control_	Feedback1
+//Map	_control_	Delay2
+//Map	_control_	Pan2
+//Map	_control_	Vol2
+//Map	_control_	Feedback2
+//Map	_control_	Delay3
+//Map	_control_	Pan3
+//Map	_control_	Vol3
+//Map	_control_	Feedback3
+//Map	_control_	Delay4
+//Map	_control_	Pan4
+//Map	_control_	Vol4
+//Map	_control_	Feedback4
+//Map	_control_	Delay5
+//Map	_control_	Pan5
+//Map	_control_	Vol5
+//Map	_control_	Feedback5
+//Map	_control_	Feedback
+//Map	_control_	HiCut
+//Map	_control_	LoCut
+//Map	_control_	SoftClip
+//Map	_control_	Mix
+

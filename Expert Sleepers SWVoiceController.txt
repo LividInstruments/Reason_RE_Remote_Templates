@@ -1,0 +1,21 @@
+
+Scope	Expert Sleepers	com.expertsleepers.SWVoiceController
+//Map	_control_	Gate Open Voltage
+//Map	_control_	Gate Closed Voltage
+//Map	_control_	Trigger On Voltage
+//Map	_control_	Trigger Off Voltage
+//Map	_control_	Velocity Max Voltage
+//Map	_control_	Velocity Min Voltage
+//Map	_control_	Transpose
+//Map	_control_	Detune
+//Map	_control_	Calibrate V/Oct
+//Map	_control_	Calibrate Hz/V
+//Map	_control_	Note Priority
+//Map	_control_	Retrigger Mode
+//Map	_control_	CV Legator
+//Map	_control_	Portamento Mode
+//Map	_control_	Portamento Time
+//Map	_control_	Portamento Shape
+//Map	_control_	Trigger Length
+//Map	_control_	Pitch Wheel Range
+

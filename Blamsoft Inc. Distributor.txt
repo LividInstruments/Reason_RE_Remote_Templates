@@ -1,0 +1,17 @@
+
+Scope	Blamsoft Inc.	com.blamsoft.Distributor
+//Map	_control_	Pitch Bend
+//Map	_control_	Mod Wheel
+//Map	_control_	Octave
+//Map	_control_	Hold
+//Map	_control_	Chord
+//Map	_control_	Freeze
+//Map	_control_	Voices Mode
+//Map	_control_	Number of Voices
+//Map	_control_	Combination
+//Map	_control_	Order Mode
+//Map	_control_	Start Position
+//Map	_control_	Reassign
+//Map	_control_	Reset
+//Map	_control_	Continuous
+

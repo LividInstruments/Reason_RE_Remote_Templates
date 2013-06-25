@@ -1,0 +1,43 @@
+
+Scope	The Chronologists	com.thechronologists.Now
+//Map	_control_	Counter Max 1
+//Map	_control_	Threshold 1
+//Map	_control_	Accept Count 1
+//Map	_control_	Reset 1
+//Map	_control_	Counter Max 2
+//Map	_control_	Threshold 2
+//Map	_control_	Accept Count 2
+//Map	_control_	Reset 2
+//Map	_control_	Counter Max 3
+//Map	_control_	Threshold 3
+//Map	_control_	Accept Count 3
+//Map	_control_	Reset 3
+//Map	_control_	Counter Max 4
+//Map	_control_	Threshold 4
+//Map	_control_	Accept Count 4
+//Map	_control_	Reset 4
+//Map	_control_	Counter Max 5
+//Map	_control_	Threshold 5
+//Map	_control_	Accept Count 5
+//Map	_control_	Reset 5
+//Map	_control_	Counter Max 6
+//Map	_control_	Threshold 6
+//Map	_control_	Accept Count 6
+//Map	_control_	Reset 6
+//Map	_control_	Counter Max 7
+//Map	_control_	Threshold 7
+//Map	_control_	Accept Count 7
+//Map	_control_	Reset 7
+//Map	_control_	Counter Max 8
+//Map	_control_	Threshold 8
+//Map	_control_	Accept Count 8
+//Map	_control_	Reset 8
+//Map	_control_	Counter Max 9
+//Map	_control_	Threshold 9
+//Map	_control_	Accept Count 9
+//Map	_control_	Reset 9
+//Map	_control_	Counter Max 10
+//Map	_control_	Threshold 10
+//Map	_control_	Accept Count 10
+//Map	_control_	Reset 10
+

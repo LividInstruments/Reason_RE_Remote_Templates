@@ -1,0 +1,9 @@
+
+Scope	Sugar Bytes	com.sugarbytes.SliceArranger
+//Map	_control_	Enabled
+//Map	_control_	Pattern
+//Map	_control_	fill1
+//Map	_control_	fill2
+//Map	_control_	Decay
+//Map	_control_	drywet
+

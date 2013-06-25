@@ -1,0 +1,17 @@
+
+Scope	u-he	com.uheplugins.UhbikA
+//Map	_control_	Enabled
+//Map	_control_	Pre-Delay
+//Map	_control_	HF-Range
+//Map	_control_	Reverb
+//Map	_control_	Decay
+//Map	_control_	Density
+//Map	_control_	Mix
+//Map	_control_	Size
+//Map	_control_	spread
+//Map	_control_	Operation
+//Map	_control_	Modulation
+//Map	_control_	Bass
+//Map	_control_	Treble Freq
+//Map	_control_	Treble
+

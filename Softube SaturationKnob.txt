@@ -1,0 +1,6 @@
+
+Scope	Softube	com.softube.re.SaturationKnob
+//Map	_control_	Enabled
+//Map	_control_	Saturation
+//Map	_control_	Saturation Type
+
