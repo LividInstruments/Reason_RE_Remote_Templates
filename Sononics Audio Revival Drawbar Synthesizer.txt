@@ -1,0 +1,351 @@
+//Remote Map template for	Instruments	Revival Drawbar Synthesizer: Sononics Audio, LLC
+Scope	Sononics	com.sononics.Revival
+//	Control Surface Item	Key	Remotable Item	Scale	Mode		
+//Map	_control_		Pitch Bend				
+//Map	_control_		Mod Wheel				
+//Map	_control_		Voicing Overtone Type				
+//Map	_control_		Voicing Overlay Type				
+//Map	_control_		Voicing Velocity Type				
+//Map	_control_		Voicing Click Type				
+//Map	_control_		Voicing Monophonic Mode				
+//Map	_control_		Voicing Transpose Amount				
+//Map	_control_		Voicing Pitch Bend Range				
+//Map	_control_		Voicing Attack First/All				
+//Map	_control_		Voicing Portamento Rate				
+//Map	_control_		Voicing Portamento Mode		
+//Map	_control_		Voicing Velocity Sensitivity				
+//Map	_control_		Voicing Chorus Depth				
+//Map	_control_		Voicing Decay Keyboard Track				
+//Map	_control_		Voicing Vibrato Depth				
+//Map	_control_		Voicing Tremolo Depth				
+//Map	_control_		Voicing Vibrato/Tremolo Rate				
+//Map	_control_		FX Preamp Enable				
+//Map	_control_		FX Preamp Type				
+//Map	_control_		FX Preamp Drive				
+//Map	_control_		FX Preamp Tone				
+//Map	_control_		FX Preamp Post-FX				
+//Map	_control_		FX Preamp Swell				
+//Map	_control_		FX Phaser Enable				
+//Map	_control_		FX Phaser Type				
+//Map	_control_		FX Phaser Rate				
+//Map	_control_		FX Phaser Depth				
+//Map	_control_		FX Phaser Feedback				
+//Map	_control_		FX ModFilter Enable				
+//Map	_control_		FX ModFilter Type				
+//Map	_control_		FX ModFilter Frequency				
+//Map	_control_		FX ModFilter Resonance				
+//Map	_control_		FX ModFilter Sync Type				
+//Map	_control_		FX ModFilter LFO Depth				
+//Map	_control_		FX ModFilter LFO Rate				
+//Map	_control_		FX ModFilter LFO Synced-Rate				
+//Map	_control_		FX ModFilter LFO Wave				
+//Map	_control_		FX Speaker Enable				
+//Map	_control_		FX Speaker Type				
+//Map	_control_		FX Speaker Rotator Amount				
+//Map	_control_		FX Speaker Rotator Balance				
+//Map	_control_		FX Speaker Rotator Air				
+//Map	_control_		FX Speaker Pan				
+//Map	_control_		FX Reverb Enable				
+//Map	_control_		FX Reverb Type				
+//Map	_control_		FX Reverb Pre-Delay				
+//Map	_control_		FX Reverb L/R Pos				
+//Map	_control_		FX Reverb Time				
+//Map	_control_		FX Reverb Depth				
+//Map	_control_		FX Delay Enable				
+//Map	_control_		FX Delay Type				
+//Map	_control_		FX Delay Time				
+//Map	_control_		FX Delay Depth				
+//Map	_control_		FX Delay Feedback				
+//Map	_control_		FX Delay High-Frequency				
+//Map	_control_		Volume				
+//Map	_control_		FX Limiter Enable				
+//Map	_control_		FX Limiter Threshold				
+//Map	_control_		Attack Section Gain Adjust				
+//Map	_control_		Attack Section FX Bypass				
+//Map	_control_		Attack Section Click				
+//Map	_control_		Attack Section Attack Rate				
+//Map	_control_		Attack Section Decay Rate				
+//Map	_control_		Primary Section Gain Adjust				
+//Map	_control_		Primary Section Decay Rate				
+//Map	_control_		Pri/Sec Fade Mode				
+//Map	_control_		Pri/Sec AutoFade Type				
+//Map	_control_		Pri/Sec AutoFade CrossFade				
+//Map	_control_		Pri/Sec AutoFade Rate				
+//Map	_control_		Pri/Sec Keep Primary				
+//Map	_control_		Secondary Section Gain Adjust				
+//Map	_control_		Secondary Section Decay Rate				
+//Map	_control_		Release Section Click				
+//Map	_control_		Release Section Attack Rate				
+//Map	_control_		Release Section Decay Rate				
+//Map	_control_		Release Section Gain Adjust				
+//Map	_control_		Release Decay All Sections				
+//Map	_control_		R1 Knob				
+//Map	_control_		R2 Knob				
+//Map	_control_		S1 Switch				
+//Map	_control_		S2 Switch				
+//Map	_control_		Attack Enable Switch				
+//Map	_control_		Vib/Trem Enable Switch				
+//Map	_control_		Rotator Speed Switch				
+//Map	_control_		Rotator Brake Switch				
+//Map	_control_		Drawbar Solo				
+//Map	_control_		Attack Mod3 Type				
+//Map	_control_		Attack Mod3 Animation Type				
+//Map	_control_		Attack Mod3 Amount				
+//Map	_control_		Attack Mod3 Tone				
+//Map	_control_		Attack Mod3 Note Scale				
+//Map	_control_		Attack Mod3 Velocity Scale				
+//Map	_control_		Attack Mod3 Animation Amount				
+//Map	_control_		Attack Mod3 Animation Rate				
+//Map	_control_		Attack Mod3 Enable 1				
+//Map	_control_		Attack Mod3 Enable 2				
+//Map	_control_		Attack Mod3 Enable 3				
+//Map	_control_		Attack Mod3 Enable 4				
+//Map	_control_		Attack Mod3 Enable 5				
+//Map	_control_		Attack Mod3 Enable 6				
+//Map	_control_		Attack Mod3 Enable 7				
+//Map	_control_		Attack Mod3 Enable 8				
+//Map	_control_		Attack Mod3 Enable 9				
+//Map	_control_		Attack Mod3 Enable 10				
+//Map	_control_		Attack Mod2 Type				
+//Map	_control_		Attack Mod2 Animation Type				
+//Map	_control_		Attack Mod2 Amount				
+//Map	_control_		Attack Mod2 Tone				
+//Map	_control_		Attack Mod2 Note Scale				
+//Map	_control_		Attack Mod2 Velocity Scale				
+//Map	_control_		Attack Mod2 Animation Amount				
+//Map	_control_		Attack Mod2 Animation Rate				
+//Map	_control_		Attack Mod2 Enable 1				
+//Map	_control_		Attack Mod2 Enable 2				
+//Map	_control_		Attack Mod2 Enable 3				
+//Map	_control_		Attack Mod2 Enable 4				
+//Map	_control_		Attack Mod2 Enable 5				
+//Map	_control_		Attack Mod2 Enable 6				
+//Map	_control_		Attack Mod2 Enable 7				
+//Map	_control_		Attack Mod2 Enable 8				
+//Map	_control_		Attack Mod2 Enable 9				
+//Map	_control_		Attack Mod2 Enable 10				
+//Map	_control_		Attack Mod1 Type				
+//Map	_control_		Attack Mod1 Animation Type				
+//Map	_control_		Attack Mod1 Amount				
+//Map	_control_		Attack Mod1 Tone				
+//Map	_control_		Attack Mod1 Note Scale				
+//Map	_control_		Attack Mod1 Velocity Scale				
+//Map	_control_		Attack Mod1 Animation Amount				
+//Map	_control_		Attack Mod1 Animation Rate				
+//Map	_control_		Attack Mod1 Enable 1				
+//Map	_control_		Attack Mod1 Enable 2				
+//Map	_control_		Attack Mod1 Enable 3				
+//Map	_control_		Attack Mod1 Enable 4				
+//Map	_control_		Attack Mod1 Enable 5				
+//Map	_control_		Attack Mod1 Enable 6				
+//Map	_control_		Attack Mod1 Enable 7				
+//Map	_control_		Attack Mod1 Enable 8				
+//Map	_control_		Attack Mod1 Enable 9				
+//Map	_control_		Attack Mod1 Enable 10				
+//Map	_control_		Attack Section Solo				
+//Map	_control_		Primary Mod3 Type				
+//Map	_control_		Primary Mod3 Animation Type				
+//Map	_control_		Primary Mod3 Amount				
+//Map	_control_		Primary Mod3 Tone				
+//Map	_control_		Primary Mod3 Note Scale				
+//Map	_control_		Primary Mod3 Velocity Scale				
+//Map	_control_		Primary Mod3 Animation Amount				
+//Map	_control_		Primary Mod3 Animation Rate				
+//Map	_control_		Primary Mod3 Enable 1				
+//Map	_control_		Primary Mod3 Enable 2				
+//Map	_control_		Primary Mod3 Enable 3				
+//Map	_control_		Primary Mod3 Enable 4				
+//Map	_control_		Primary Mod3 Enable 5				
+//Map	_control_		Primary Mod3 Enable 6				
+//Map	_control_		Primary Mod3 Enable 7				
+//Map	_control_		Primary Mod3 Enable 8				
+//Map	_control_		Primary Mod3 Enable 9				
+//Map	_control_		Primary Mod3 Enable 10				
+//Map	_control_		Primary Mod2 Type				
+//Map	_control_		Primary Mod2 Animation Type				
+//Map	_control_		Primary Mod2 Amount				
+//Map	_control_		Primary Mod2 Tone				
+//Map	_control_		Primary Mod2 Note Scale				
+//Map	_control_		Primary Mod2 Velocity Scale				
+//Map	_control_		Primary Mod2 Animation Amount				
+//Map	_control_		Primary Mod2 Animation Rate				
+//Map	_control_		Primary Mod2 Enable 1				
+//Map	_control_		Primary Mod2 Enable 2				
+//Map	_control_		Primary Mod2 Enable 3				
+//Map	_control_		Primary Mod2 Enable 4				
+//Map	_control_		Primary Mod2 Enable 5				
+//Map	_control_		Primary Mod2 Enable 6				
+//Map	_control_		Primary Mod2 Enable 7				
+//Map	_control_		Primary Mod2 Enable 8				
+//Map	_control_		Primary Mod2 Enable 9				
+//Map	_control_		Primary Mod2 Enable 10				
+//Map	_control_		Primary Mod1 Type				
+//Map	_control_		Primary Mod1 Animation Type				
+//Map	_control_		Primary Mod1 Amount				
+//Map	_control_		Primary Mod1 Tone				
+//Map	_control_		Primary Mod1 Note Scale				
+//Map	_control_		Primary Mod1 Velocity Scale				
+//Map	_control_		Primary Mod1 Animation Amount				
+//Map	_control_		Primary Mod1 Animation Rate				
+//Map	_control_		Primary Mod1 Enable 1				
+//Map	_control_		Primary Mod1 Enable 2				
+//Map	_control_		Primary Mod1 Enable 3				
+//Map	_control_		Primary Mod1 Enable 4				
+//Map	_control_		Primary Mod1 Enable 5				
+//Map	_control_		Primary Mod1 Enable 6				
+//Map	_control_		Primary Mod1 Enable 7				
+//Map	_control_		Primary Mod1 Enable 8				
+//Map	_control_		Primary Mod1 Enable 9				
+//Map	_control_		Primary Mod1 Enable 10				
+//Map	_control_		Primary Section Solo				
+//Map	_control_		Secondary Mod3 Type				
+//Map	_control_		Secondary Mod3 Animation Type				
+//Map	_control_		Secondary Mod3 Amount				
+//Map	_control_		Secondary Mod3 Tone				
+//Map	_control_		Secondary Mod3 Note Scale				
+//Map	_control_		Secondary Mod3 Velocity Scale				
+//Map	_control_		Secondary Mod3 Animation Amount				
+//Map	_control_		Secondary Mod3 Animation Rate				
+//Map	_control_		Secondary Mod3 Enable 1				
+//Map	_control_		Secondary Mod3 Enable 2				
+//Map	_control_		Secondary Mod3 Enable 3				
+//Map	_control_		Secondary Mod3 Enable 4				
+//Map	_control_		Secondary Mod3 Enable 5				
+//Map	_control_		Secondary Mod3 Enable 6				
+//Map	_control_		Secondary Mod3 Enable 7				
+//Map	_control_		Secondary Mod3 Enable 8				
+//Map	_control_		Secondary Mod3 Enable 9				
+//Map	_control_		Secondary Mod3 Enable 10				
+//Map	_control_		Secondary Mod2 Type				
+//Map	_control_		Secondary Mod2 Animation Type				
+//Map	_control_		Secondary Mod2 Amount				
+//Map	_control_		Secondary Mod2 Tone				
+//Map	_control_		Secondary Mod2 Note Scale				
+//Map	_control_		Secondary Mod2 Velocity Scale				
+//Map	_control_		Secondary Mod2 Animation Amount				
+//Map	_control_		Secondary Mod2 Animation Rate				
+//Map	_control_		Secondary Mod2 Enable 1				
+//Map	_control_		Secondary Mod2 Enable 2				
+//Map	_control_		Secondary Mod2 Enable 3				
+//Map	_control_		Secondary Mod2 Enable 4				
+//Map	_control_		Secondary Mod2 Enable 5				
+//Map	_control_		Secondary Mod2 Enable 6				
+//Map	_control_		Secondary Mod2 Enable 7				
+//Map	_control_		Secondary Mod2 Enable 8				
+//Map	_control_		Secondary Mod2 Enable 9				
+//Map	_control_		Secondary Mod2 Enable 10				
+//Map	_control_		Secondary Mod1 Type				
+//Map	_control_		Secondary Mod1 Animation Type				
+//Map	_control_		Secondary Mod1 Amount				
+//Map	_control_		Secondary Mod1 Tone				
+//Map	_control_		Secondary Mod1 Note Scale				
+//Map	_control_		Secondary Mod1 Velocity Scale				
+//Map	_control_		Secondary Mod1 Animation Amount				
+//Map	_control_		Secondary Mod1 Animation Rate				
+//Map	_control_		Secondary Mod1 Enable 1				
+//Map	_control_		Secondary Mod1 Enable 2				
+//Map	_control_		Secondary Mod1 Enable 3				
+//Map	_control_		Secondary Mod1 Enable 4				
+//Map	_control_		Secondary Mod1 Enable 5				
+//Map	_control_		Secondary Mod1 Enable 6				
+//Map	_control_		Secondary Mod1 Enable 7				
+//Map	_control_		Secondary Mod1 Enable 8				
+//Map	_control_		Secondary Mod1 Enable 9				
+//Map	_control_		Secondary Mod1 Enable 10				
+//Map	_control_		Secondary Section Solo				
+//Map	_control_		Release Mod3 Type				
+//Map	_control_		Release Mod3 Animation Type				
+//Map	_control_		Release Mod3 Amount				
+//Map	_control_		Release Mod3 Tone				
+//Map	_control_		Release Mod3 Note Scale				
+//Map	_control_		Release Mod3 Animation Amount				
+//Map	_control_		Release Mod3 Animation Rate				
+//Map	_control_		Release Mod3 Enable 1				
+//Map	_control_		Release Mod3 Enable 2				
+//Map	_control_		Release Mod3 Enable 3				
+//Map	_control_		Release Mod3 Enable 4				
+//Map	_control_		Release Mod3 Enable 5				
+//Map	_control_		Release Mod3 Enable 6				
+//Map	_control_		Release Mod3 Enable 7				
+//Map	_control_		Release Mod3 Enable 8				
+//Map	_control_		Release Mod3 Enable 9				
+//Map	_control_		Release Mod3 Enable 10				
+//Map	_control_		Release Mod2 Type				
+//Map	_control_		Release Mod2 Animation Type				
+//Map	_control_		Release Mod2 Amount				
+//Map	_control_		Release Mod2 Tone				
+//Map	_control_		Release Mod2 Note Scale				
+//Map	_control_		Release Mod2 Animation Amount				
+//Map	_control_		Release Mod2 Animation Rate				
+//Map	_control_		Release Mod2 Enable 1				
+//Map	_control_		Release Mod2 Enable 2				
+//Map	_control_		Release Mod2 Enable 3				
+//Map	_control_		Release Mod2 Enable 4				
+//Map	_control_		Release Mod2 Enable 5				
+//Map	_control_		Release Mod2 Enable 6				
+//Map	_control_		Release Mod2 Enable 7				
+//Map	_control_		Release Mod2 Enable 8				
+//Map	_control_		Release Mod2 Enable 9				
+//Map	_control_		Release Mod2 Enable 10				
+//Map	_control_		Release Mod1 Type				
+//Map	_control_		Release Mod1 Animation Type				
+//Map	_control_		Release Mod1 Amount				
+//Map	_control_		Release Mod1 Tone				
+//Map	_control_		Release Mod1 Note Scale				
+//Map	_control_		Release Mod1 Animation Amount				
+//Map	_control_		Release Mod1 Animation Rate				
+//Map	_control_		Release Mod1 Enable 1				
+//Map	_control_		Release Mod1 Enable 2				
+//Map	_control_		Release Mod1 Enable 3				
+//Map	_control_		Release Mod1 Enable 4				
+//Map	_control_		Release Mod1 Enable 5				
+//Map	_control_		Release Mod1 Enable 6				
+//Map	_control_		Release Mod1 Enable 7				
+//Map	_control_		Release Mod1 Enable 8				
+//Map	_control_		Release Mod1 Enable 9				
+//Map	_control_		Release Mod1 Enable 10				
+//Map	_control_		Release Section Solo				
+//Map	_control_		Attack Wave Set				
+//Map	_control_		Attack Drawbar 1				
+//Map	_control_		Attack Drawbar 2				
+//Map	_control_		Attack Drawbar 3				
+//Map	_control_		Attack Drawbar 4				
+//Map	_control_		Attack Drawbar 5				
+//Map	_control_		Attack Drawbar 6				
+//Map	_control_		Attack Drawbar 7				
+//Map	_control_		Attack Drawbar 8				
+//Map	_control_		Attack Drawbar 9				
+//Map	_control_		Attack Drawbar 10				
+//Map	_control_		Primary Wave Set				
+//Map	_control_		Primary Drawbar 1				
+//Map	_control_		Primary Drawbar 2				
+//Map	_control_		Primary Drawbar 3				
+//Map	_control_		Primary Drawbar 4				
+//Map	_control_		Primary Drawbar 5				
+//Map	_control_		Primary Drawbar 6				
+//Map	_control_		Primary Drawbar 7				
+//Map	_control_		Primary Drawbar 8				
+//Map	_control_		Primary Drawbar 9				
+//Map	_control_		Primary Drawbar 10				
+//Map	_control_		Secondary Wave Set				
+//Map	_control_		Secondary Drawbar 1				
+//Map	_control_		Secondary Drawbar 2				
+//Map	_control_		Secondary Drawbar 3				
+//Map	_control_		Secondary Drawbar 4				
+//Map	_control_		Secondary Drawbar 5				
+//Map	_control_		Secondary Drawbar 6				
+//Map	_control_		Secondary Drawbar 7				
+//Map	_control_		Secondary Drawbar 8				
+//Map	_control_		Secondary Drawbar 9				
+//Map	_control_		Secondary Drawbar 10				
+//Map	_control_		Release Wave Set				
+//Map	_control_		Release Drawbar 1				
+//Map	_control_		Release Drawbar 2				
+//Map	_control_		Release Drawbar 3				
+//Map	_control_		Release Drawbar 4				
+//Map	_control_		Release Drawbar 5				
+//Map	_control_		Release Drawbar 6				
+//Map	_control_		Release Drawbar 7				
+//Map	_control_		Release Drawbar 8				
+//Map	_control_		Release Drawbar 9				
+//Map	_control_		Release Drawbar 10

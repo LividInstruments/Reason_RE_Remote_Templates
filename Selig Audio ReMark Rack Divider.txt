@@ -1,0 +1,4 @@
+//Remote Map template for	Utilities	Selig Audio, LLC: ReMark Rack Divider
+Scope	Selig Audio, LLC	com.seligaudio.ReMark
+//	Control Surface Item	Key	Remotable Item	Scale	Mode		
+//Map	_control_		Panel Color
