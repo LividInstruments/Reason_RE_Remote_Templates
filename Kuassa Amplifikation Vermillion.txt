@@ -1,0 +1,44 @@
+//Remote Map template for	Studio FX	Kuassa: Amplifikation Vermilion
+Scope	Kuassa	com.kuassa.AmplifikationVermilion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode		
+//Map	_control_		Enabled				
+//Map	_control_		Amp On/Off				
+//Map	_control_		Input Volume				
+//Map	_control_		Amp Type				
+//Map	_control_		Amp Gain				
+//Map	_control_		Amp Low				
+//Map	_control_		Amp Mid				
+//Map	_control_		Amp High				
+//Map	_control_		Amp Pres				
+//Map	_control_		Amp Vol				
+//Map	_control_		Amp Channel				
+//Map	_control_		Gate On/Off				
+//Map	_control_		Gate Threshold				
+//Map	_control_		Gate Attack				
+//Map	_control_		Gate Decay				
+//Map	_control_		Limiter On/Off				
+//Map	_control_		Output Volume				
+//Map	_control_		Tremolo Speed				
+//Map	_control_		Tremolo Speed Sync				
+//Map	_control_		Tremolo Depth				
+//Map	_control_		Reverb				
+//Map	_control_		Tremolo Sync				
+//Map	_control_		FX On/Off				
+//Map	_control_		Cab A On/Off				
+//Map	_control_		Cab A Type				
+//Map	_control_		Mic A Phase On/Off				
+//Map	_control_		Mic A Type				
+//Map	_control_		Mic A Angle				
+//Map	_control_		Mic A Axis				
+//Map	_control_		Mic A Distance				
+//Map	_control_		Mic A Panning				
+//Map	_control_		Mic A Volume				
+//Map	_control_		Mic B Axis				
+//Map	_control_		Mic B Distance				
+//Map	_control_		Mic B Panning				
+//Map	_control_		Mic B Volume				
+//Map	_control_		Mic B Angle				
+//Map	_control_		Cab B Type				
+//Map	_control_		Cab B On/Off				
+//Map	_control_		Mic B Type				
+//Map	_control_		Mic B Phase On/Off

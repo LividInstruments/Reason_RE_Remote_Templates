@@ -1,0 +1,10 @@
+//Remote Map template for	Studio FX	Softube: Softube Spring Reverb
+Scope	Softube	com.softube.re.SpringReverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//Map	_control_		Enabled				
+//Map	_control_		Mix				
+//Map	_control_		Bass				
+//Map	_control_		Treble				
+//Map	_control_		Shake				
+//Map	_control_		Tension				
+//Map	_control_		Springs
