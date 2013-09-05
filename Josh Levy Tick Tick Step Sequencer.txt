@@ -1,0 +1,13 @@
+//Remote Map template for	Utilities	Josh Levy: Tick Tick Step Sequencer
+Scope	Josh Levy	com.joshlevy.TickTick
+//	Control Surface Item	Key	Remotable Item	Scale	Mode		
+//Map	_control_		Resolution				
+//Map	_control_		Number of Steps				
+//Map	_control_		First				
+//Map	_control_		Chain Number of Repeats				
+//Map	_control_		Run				
+//Map	_control_		Enable Pattern Playback				
+//Map	_control_		Velocity				
+//Map	_control_		Accent				
+//Map	_control_		Shuffle				
+//Map	_control_		Direction
