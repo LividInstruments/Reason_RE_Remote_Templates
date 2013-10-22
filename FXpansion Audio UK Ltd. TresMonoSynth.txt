@@ -1,0 +1,83 @@
+//Remote Map template for	Instruments	FXpansion: Tres Mono Synth					
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.Tres					
+//	Control Surface Item	Key	Remotable Item	Scale	Mode		
+//Map	_control_		Master Pitch Fine				
+//Map	_control_		Master Pitch				
+//Map	_control_		OSC1 Shape				
+//Map	_control_		OSC1 PW				
+//Map	_control_		OSC1 Range				
+//Map	_control_		OSC Phase Reset				
+//Map	_control_		OSC2 Shape				
+//Map	_control_		OSC2 Range				
+//Map	_control_		OSC2 HardSync				
+//Map	_control_		OSC2 PW				
+//Map	_control_		OSC2 Pitch				
+//Map	_control_		OSC2 Fine				
+//Map	_control_		Sub Shape				
+//Map	_control_		Sub Range				
+//Map	_control_		Noise Colour				
+//Map	_control_		OSC1 Level				
+//Map	_control_		OSC2 Level				
+//Map	_control_		Osc 1 X 2 Level				
+//Map	_control_		Sub Level				
+//Map	_control_		Noise Level				
+//Map	_control_		EQ Saturation				
+//Map	_control_		EQ Emphasis				
+//Map	_control_		Filter Power				
+//Map	_control_		Filter Type				
+//Map	_control_		Filter Mode				
+//Map	_control_		Filter Drive				
+//Map	_control_		Filter Cutoff				
+//Map	_control_		Filter Depth				
+//Map	_control_		Filter Res				
+//Map	_control_		Filter FM Src				
+//Map	_control_		Synth Drive				
+//Map	_control_		Synth Output				
+//Map	_control_		Amp Envelope Mute				
+//Map	_control_		Envelope Mute				
+//Map	_control_		LFO 1 Mute				
+//Map	_control_		LFO 1 Polarity				
+//Map	_control_		LFO 2 Mute				
+//Map	_control_		LFO 2 Polarity				
+//Map	_control_		Modwheel Mute				
+//Map	_control_		Modwheel Polarity				
+//Map	_control_		CV 1 Mute				
+//Map	_control_		CV 2 Mute				
+//Map	_control_		Note Pitch Mute				
+//Map	_control_		Velocity Mute				
+//Map	_control_		RelOn Note Off				
+//Map	_control_		Random Mute				
+//Map	_control_		Rand Polarity				
+//Map	_control_		Legato				
+//Map	_control_		Glide Amount				
+//Map	_control_		Glide				
+//Map	_control_		Amp Envelope Curve				
+//Map	_control_		Amp Envelope Attack				
+//Map	_control_		Amp Envelope Decay				
+//Map	_control_		Amp Envelope Sustain				
+//Map	_control_		Amp Envelope Release				
+//Map	_control_		Amp Envelope Gain				
+//Map	_control_		Amp Envelope Velocity				
+//Map	_control_		Envelope Curve				
+//Map	_control_		Envelope Attack				
+//Map	_control_		Envelope Decay				
+//Map	_control_		Envelope Sustain				
+//Map	_control_		Envelope Release				
+//Map	_control_		Envelope Gain				
+//Map	_control_		Envelope Velocity				
+//Map	_control_		LFO 1 Sync				
+//Map	_control_		LFO 1 Reset				
+//Map	_control_		LFO 1 Shape				
+//Map	_control_		LFO 1 Hertz				
+//Map	_control_		LFO 1 Beats				
+//Map	_control_		LFO 1 Morph				
+//Map	_control_		LFO 1 Phase				
+//Map	_control_		LFO 1 Gain				
+//Map	_control_		LFO 2 Sync				
+//Map	_control_		LFO 2 Reset				
+//Map	_control_		LFO 2 Shape				
+//Map	_control_		LFO 2 Hertz				
+//Map	_control_		LFO 2 Beats				
+//Map	_control_		LFO 2 Morph				
+//Map	_control_		LFO 2 Phase				
+//Map	_control_		LFO 2 Gain
