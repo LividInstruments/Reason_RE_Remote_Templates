@@ -1,0 +1,163 @@
+Scope	Zvork	fr.zvork.LeSpace
+//Map	_control_		Volume
+//Map	_control_		Dry/Wet Mix
+//Map	_control_		Decay Time
+//Map	_control_		Echo 1 Decay Time Offset 1
+//Map	_control_		Echo 2 Decay Time Offset 2
+//Map	_control_		Echo 3 Decay Time Offset 3
+//Map	_control_		Echo 4 Decay Time Offset 4
+//Map	_control_		Echo 5 Decay Time Offset 5
+//Map	_control_		Echo 6 Decay Time Offset 6
+//Map	_control_		Echo 1 Feedback Destination 1
+//Map	_control_		Echo 2 Feedback Destination 2
+//Map	_control_		Echo 3 Feedback Destination 3
+//Map	_control_		Echo 4 Feedback Destination 4
+//Map	_control_		Echo 5 Feedback Destination 5
+//Map	_control_		Echo 6 Feedback Destination 6
+//Map	_control_		Echo 1 Level 1
+//Map	_control_		Echo 2 Level 2
+//Map	_control_		Echo 3 Level 3
+//Map	_control_		Echo 4 Level 4
+//Map	_control_		Echo 5 Level 5
+//Map	_control_		Echo 6 Level 6
+//Map	_control_		Echo 1 Pan 1
+//Map	_control_		Echo 2 Pan 2
+//Map	_control_		Echo 3 Pan 3
+//Map	_control_		Echo 4 Pan 4
+//Map	_control_		Echo 5 Pan 5
+//Map	_control_		Echo 6 Pan 6
+//Map	_control_		Echo 1 Input 1
+//Map	_control_		Echo 2 Input 2
+//Map	_control_		Echo 3 Input 3
+//Map	_control_		Echo 4 Input 4
+//Map	_control_		Echo 5 Input 5
+//Map	_control_		Echo 6 Input 6
+//Map	_control_		Delay Unit - Note
+//Map	_control_		Delay Unit - Time
+//Map	_control_		Lock Delay Unit to Tempo
+//Map	_control_		Echo 1 Delay Length 1
+//Map	_control_		Echo 2 Delay Length 2
+//Map	_control_		Echo 3 Delay Length 3
+//Map	_control_		Echo 4 Delay Length 4
+//Map	_control_		Echo 5 Delay Length 5
+//Map	_control_		Echo 6 Delay Length 6
+//Map	_control_		Echo 1 Delay Length 1 - Fine
+//Map	_control_		Echo 2 Delay Length 2 - Fine
+//Map	_control_		Echo 3 Delay Length 3 - Fine
+//Map	_control_		Echo 4 Delay Length 4 - Fine
+//Map	_control_		Echo 5 Delay Length 5 - Fine
+//Map	_control_		Echo 6 Delay Length 6 - Fine
+//Map	_control_		Diffusion
+//Map	_control_		Echo 1 Diffusion Offset 1
+//Map	_control_		Echo 2 Diffusion Offset 2
+//Map	_control_		Echo 3 Diffusion Offset 3
+//Map	_control_		Echo 4 Diffusion Offset 4
+//Map	_control_		Echo 5 Diffusion Offset 5
+//Map	_control_		Echo 6 Diffusion Offset 6
+//Map	_control_		Tone
+//Map	_control_		Echo 1 Tone Offset 1
+//Map	_control_		Echo 2 Tone Offset 2
+//Map	_control_		Echo 3 Tone Offset 3
+//Map	_control_		Echo 4 Tone Offset 4
+//Map	_control_		Echo 5 Tone Offset 5
+//Map	_control_		Echo 6 Tone Offset 6
+//Map	_control_		Tone Bandwidth
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 1
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 2
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 3
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 4
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 5
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 6
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 7
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 8
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 9
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 10
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 11
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 12
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 13
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 14
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 15
+//Map	_control_		Echo 1 Pre-Delay 1 Tap 16
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 1
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 2
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 3
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 4
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 5
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 6
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 7
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 8
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 9
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 10
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 11
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 12
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 13
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 14
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 15
+//Map	_control_		Echo 2 Pre-Delay 2 Tap 16
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 1
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 2
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 3
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 4
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 5
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 6
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 7
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 8
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 9
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 10
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 11
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 12
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 13
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 14
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 15
+//Map	_control_		Echo 3 Pre-Delay 3 Tap 16
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 1
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 2
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 3
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 4
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 5
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 6
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 7
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 8
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 9
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 10
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 11
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 12
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 13
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 14
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 15
+//Map	_control_		Echo 4 Pre-Delay 4 Tap 16
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 1
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 2
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 3
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 4
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 5
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 6
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 7
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 8
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 9
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 10
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 11
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 12
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 13
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 14
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 15
+//Map	_control_		Echo 5 Pre-Delay 5 Tap 16
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 1
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 2
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 3
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 4
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 5
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 6
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 7
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 8
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 9
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 10
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 11
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 12
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 13
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 14
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 15
+//Map	_control_		Echo 6 Pre-Delay 6 Tap 16
+//Map	_control_		Modulation Rate
+//Map	_control_		Modulation Rate Spread
+//Map	_control_		Modulation Level
