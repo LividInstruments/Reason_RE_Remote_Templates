@@ -1,0 +1,172 @@
+Scope	Zvork	fr.zvork.Oberon
+//Map	_control_		Display Mode
+//Map	_control_		Osc. 1 - Stereo - Pan
+//Map	_control_		Osc. 2 - Stereo - Pan
+//Map	_control_		Osc. 1 - Stereo - Width
+//Map	_control_		Osc. 2 - Stereo - Width
+//Map	_control_		Osc. 1 - Pitch - Octave
+//Map	_control_		Osc. 2 - Pitch - Octave
+//Map	_control_		Osc. 1 - Pitch - Semitones
+//Map	_control_		Osc. 2 - Pitch - Semitones
+//Map	_control_		Osc. 1 - Pitch - Cents
+//Map	_control_		Osc. 2 - Pitch - Cents
+//Map	_control_		Osc. 1 - Pitch - Kbd. Tracking
+//Map	_control_		Osc. 2 - Pitch - Kbd. Tracking
+//Map	_control_		Osc. 1 - Harmonize
+//Map	_control_		Osc. 2 - Harmonize
+//Map	_control_		Osc. 1 - Harmonize Limit
+//Map	_control_		Osc. 2 - Harmonize Limit
+//Map	_control_		Osc. 1 - Harmonize Octave
+//Map	_control_		Osc. 2 - Harmonize Octave
+//Map	_control_		Osc. 1 - Bend
+//Map	_control_		Osc. 2 - Bend
+//Map	_control_		Osc. 1 - Unison - Mix
+//Map	_control_		Osc. 2 - Unison - Mix
+//Map	_control_		Osc. 1 - Unison - Pitch
+//Map	_control_		Osc. 2 - Unison - Pitch
+//Map	_control_		Osc. 1 - Unison - Voice Count
+//Map	_control_		Osc. 2 - Unison - Voice Count
+//Map	_control_		Osc. 1 - Unison - Phase Lock
+//Map	_control_		Osc. 2 - Unison - Phase Lock
+//Map	_control_		Osc. 1 - Unison - Random Phase
+//Map	_control_		Osc. 2 - Unison - Random Phase
+//Map	_control_		Osc. 1 - Octave Copy Level
+//Map	_control_		Osc. 2 - Octave Copy Level
+//Map	_control_		Osc. 1 - Partial Saturation
+//Map	_control_		Osc. 2 - Partial Saturation
+//Map	_control_		Osc. 1 - Filter Mode
+//Map	_control_		Osc. 2 - Filter Mode
+//Map	_control_		Osc. 1 - Level
+//Map	_control_		Osc. 2 - Level
+//Map	_control_		Osc. 2 - On/Off
+//Map	_control_		Osc. 1 - Morphing Destination
+//Map	_control_		Osc. 2 - Morphing Destination
+//Map	_control_		Osc. 1 - Morphing Position
+//Map	_control_		Osc. 2 - Morphing Position
+//Map	_control_		Osc. 1 - Morphing Target Transpose
+//Map	_control_		Osc. 2 - Morphing Target Transpose
+//Map	_control_		Osc. 1 - Wave Type
+//Map	_control_		Osc. 2 - Wave Type
+//Map	_control_		Osc. 1 - Wave Start
+//Map	_control_		Osc. 2 - Wave Start
+//Map	_control_		Osc. 1 - Wave Motion Tempo Sync.
+//Map	_control_		Osc. 2 - Wave Motion Tempo Sync.
+//Map	_control_		Osc. 1 - Wave Motion Key Reset
+//Map	_control_		Osc. 2 - Wave Motion Key Reset
+//Map	_control_		Osc. 1 - Wave Motion
+//Map	_control_		Osc. 2 - Wave Motion
+//Map	_control_		Osc. 1 - Wave Motion Tempo Synced
+//Map	_control_		Osc. 2 - Wave Motion Tempo Synced
+//Map	_control_		Amp. Env. - Monohonic Trigger
+//Map	_control_		Amp. Env. - Loop
+//Map	_control_		Amp. Env. - Tempo Synced
+//Map	_control_		Amp. Env. - Point Count
+//Map	_control_		Amp. Env. - Sustain Point
+//Map	_control_		Amp. Env. - Level 1
+//Map	_control_		Amp. Env. - Level 2
+//Map	_control_		Amp. Env. - Level 3
+//Map	_control_		Amp. Env. - Level 4
+//Map	_control_		Amp. Env. - Level 5
+//Map	_control_		Amp. Env. - Level 6
+//Map	_control_		Amp. Env. - Level 7
+//Map	_control_		Amp. Env. - Level 8
+//Map	_control_		Amp. Env. - Level 9
+//Map	_control_		Amp. Env. - Level 10
+//Map	_control_		Amp. Env. - Level 11
+//Map	_control_		Amp. Env. - Level 12
+//Map	_control_		Amp. Env. - Level 13
+//Map	_control_		Amp. Env. - Level 14
+//Map	_control_		Amp. Env. - Level 15
+//Map	_control_		Amp. Env. - Level 16
+//Map	_control_		Amp. Env. - Duration 1
+//Map	_control_		Amp. Env. - Duration 2
+//Map	_control_		Amp. Env. - Duration 3
+//Map	_control_		Amp. Env. - Duration 4
+//Map	_control_		Amp. Env. - Duration 5
+//Map	_control_		Amp. Env. - Duration 6
+//Map	_control_		Amp. Env. - Duration 7
+//Map	_control_		Amp. Env. - Duration 8
+//Map	_control_		Amp. Env. - Duration 9
+//Map	_control_		Amp. Env. - Duration 10
+//Map	_control_		Amp. Env. - Duration 11
+//Map	_control_		Amp. Env. - Duration 12
+//Map	_control_		Amp. Env. - Duration 13
+//Map	_control_		Amp. Env. - Duration 14
+//Map	_control_		Amp. Env. - Duration 15
+//Map	_control_		Mod. Env. 1 - Monophonic
+//Map	_control_		Mod. Env. 2 - Monophonic
+//Map	_control_		Mod. Env. 3 - Monophonic
+//Map	_control_		Mod. Env. 1 - Loop
+//Map	_control_		Mod. Env. 2 - Loop
+//Map	_control_		Mod. Env. 3 - Loop
+//Map	_control_		Mod. Env. 1 - Tempo Synced
+//Map	_control_		Mod. Env. 2 - Tempo Synced
+//Map	_control_		Mod. Env. 3 - Tempo Synced
+//Map	_control_		Filter 1 Frequency
+//Map	_control_		Filter 2 Frequency
+//Map	_control_		Filter 1 X>Y
+//Map	_control_		Filter 2 X>Y
+//Map	_control_		Filter 1 Frequency - Kbd. Tracking
+//Map	_control_		Filter 2 Frequency - Kbd. Tracking
+//Map	_control_		Filter 1 Frequency - Mod. Env. 1 Strength
+//Map	_control_		Filter 2 Frequency - Mod. Env. 2 Strength
+//Map	_control_		Filter 1 Frequency - Velocity Modulation
+//Map	_control_		Filter 2 Frequency - Velocity Modulation
+//Map	_control_		LFO 1 Key Sync.
+//Map	_control_		LFO 2 Key Sync.
+//Map	_control_		LFO 1 Tempo Sync.
+//Map	_control_		LFO 2 Tempo Sync.
+//Map	_control_		LFO 1 Frequency
+//Map	_control_		LFO 2 Frequency
+//Map	_control_		LFO 1 Freq. Synced
+//Map	_control_		LFO 2 Freq. Synced
+//Map	_control_		LFO 1 Shape
+//Map	_control_		LFO 2 Shape
+//Map	_control_		Volume
+//Map	_control_		Volume Velocity Modulation
+//Map	_control_		Voice Mode
+//Map	_control_		Glide
+//Map	_control_		Glide Velocity Mod.
+//Map	_control_		Pitch Bend Range
+//Map	_control_		Mod. 1 - Source
+//Map	_control_		Mod. 2 - Source
+//Map	_control_		Mod. 3 - Source
+//Map	_control_		Mod. 4 - Source
+//Map	_control_		Mod. 5 - Source
+//Map	_control_		Mod. 6 - Source
+//Map	_control_		Mod. 1 - Destination 1
+//Map	_control_		Mod. 2 - Destination 1
+//Map	_control_		Mod. 3 - Destination 1
+//Map	_control_		Mod. 4 - Destination 1
+//Map	_control_		Mod. 5 - Destination 1
+//Map	_control_		Mod. 6 - Destination 1
+//Map	_control_		Mod. 1 - Destination 2
+//Map	_control_		Mod. 2 - Destination 2
+//Map	_control_		Mod. 3 - Destination 2
+//Map	_control_		Mod. 4 - Destination 2
+//Map	_control_		Mod. 5 - Destination 2
+//Map	_control_		Mod. 6 - Destination 2
+//Map	_control_		Mod. 1 - Strength 1
+//Map	_control_		Mod. 2 - Strength 1
+//Map	_control_		Mod. 3 - Strength 1
+//Map	_control_		Mod. 4 - Strength 1
+//Map	_control_		Mod. 5 - Strength 1
+//Map	_control_		Mod. 6 - Strength 1
+//Map	_control_		Mod. 1 - Strength 2
+//Map	_control_		Mod. 2 - Strength 2
+//Map	_control_		Mod. 3 - Strength 2
+//Map	_control_		Mod. 4 - Strength 2
+//Map	_control_		Mod. 5 - Strength 2
+//Map	_control_		Mod. 6 - Strength 2
+//Map	_control_		Mod. 1 - Scale Strength
+//Map	_control_		Mod. 2 - Scale Strength
+//Map	_control_		Mod. 3 - Scale Strength
+//Map	_control_		Mod. 4 - Scale Strength
+//Map	_control_		Mod. 5 - Scale Strength
+//Map	_control_		Mod. 6 - Scale Strength
+//Map	_control_		Mod. 1 - Scale Source
+//Map	_control_		Mod. 2 - Scale Source
+//Map	_control_		Mod. 3 - Scale Source
+//Map	_control_		Mod. 4 - Scale Source
+//Map	_control_		Mod. 5 - Scale Source
+//Map	_control_		Mod. 6 - Scale Source
